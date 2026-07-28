@@ -2,7 +2,7 @@
 
 > **Durum:** Bilgi toplama aşaması. Site henüz yapılmıyor.
 > **Tarih:** 2026-07-28
-> **Kaynak:** 3 bağımsız araştırma ajanı, birincil kaynaklardan (mevzuat.gov.tr, Resmî Gazete, kurum siteleri) doğrulanmış.
+> **Kaynak:** 5 bağımsız araştırma ajanı, birincil kaynaklardan (mevzuat.gov.tr, Resmî Gazete, kurum siteleri) doğrulanmış.
 
 ⚠️ **KURAL:** Bu dosyada "DOĞRULANMADI" olarak işaretlenen hiçbir bilgi siteye konulmayacak. Reklam Kurulu 2026'nın ilk 7 ayında yanıltıcı reklam için 185M TL ceza kesti.
 
@@ -29,7 +29,7 @@
 
 **Rakiplerin kullandığı tek sinyal: "X yıldır sektörde" — 13/14.** Yeni bir şirket bunu kullanamaz.
 
-**→ FIRSAT:** Yetki belge numarasını + grup harfini + e-Devlet'ten nasıl doğrulanacağını yayınlamak **sektörde ilk** olur. Sicili olmayan bir şirket için doğrulanabilir belge, iddia edilen tecrübeden daha güçlüdür.
+**→ FIRSAT:** Yetki belge numarasını + grup harfini + **santiyem.csb.gov.tr'den girişsiz nasıl doğrulanacağını** yayınlamak **sektörde ilk** olur. Sicili olmayan bir şirket için doğrulanabilir belge, iddia edilen tecrübeden daha güçlüdür. *(Anonim sorgulanabilirlik doğrulandı — bkz. böl. 3)*
 
 **İronik detay:** Tektaş Kentsel Dönüşüm sitesinde `/muteahhit-sorgulama` sayfası var — ziyaretçiye "müteahhidini sorgula" diyor, ama kendi belge numarasını yayınlamıyor.
 
@@ -124,18 +124,61 @@ Türkiye 2026 Ç1 ruhsat: bina +%19,6, daire +%37,0
 
 ⚠️ **İSİM DEĞİŞİKLİĞİ:** 26.12.2024 / RG 32764 ile **"YAMBİS" → "ŞANTİYE-M"** (Müteahhitlik, Şantiye Şefliği ve Yetki Belgeli Yapı Ustaları Bilişim Sistemi). Sitede "Yapı Müteahhitliği Yetki Belge Numarası" yazılmalı; YAMBİS artık eski ad.
 
-**15 grup:** A, B, B1, C, C1, D, D1, E, E1, F, F1, G, G1, H + geçici grup. A sınırsız; her alt grup üstlenebileceği yapı yaklaşık maliyetinde sınırlı.
+Yönetmelik **13 kez değişti** — en son **14.05.2026 / RG 33253**. Kanuni yasak, İmar Kanunu md. 28 fıkra 8 birebir:
+> "Bakanlıktan veya Bakanlıkça yetkilendirilmiş idareden uygun sınıfta yetki belgesi almaksızın, inşaat ve tesisat dahil yapım işlerinin müteahhitliği üstlenilemez."
 
-**Şartlar** gruba göre değişir: iş deneyimi, usta + teknik personel sayısı (A grubu: 50+ usta, 8+ teknik personel; G1: 1+/1+), mali oranlar — **cari oran ≥ 0,75**, **öz kaynak oranı ≥ 0,15**, kısa vadeli banka borcu/öz kaynak < 0,75. **G, G1, H grupları mali yeterlilikten muaf.**
-Belge geçerliliği **5 yıl**; yenilenmezse H grubuna düşer. Yeşil sertifikalı projeler iş deneyiminde %5 primli sayılır.
+**Veren kurum:** Çevre, Şehircilik ve İklim Değişikliği Bakanlığı. Başvuru → İl Müdürlüğü; karar → **İl Müteahhitlik Yetki Belge Komisyonu** (md. 9); itiraz → Bakanlık **İtiraz Komisyonu** (md. 10).
 
-**Zorunlu kullanım — hukuken bağlayıcı cümle:**
-> "Her müteahhidin yetki belgesi numarası alması esastır. Bu numaranın **yapı ruhsatında, yapı kullanma izin belgesinde ve yapım işleri sözleşmelerinde** kullanılması zorunludur."
+**md. 5(1) birebir — zorunluluk:**
+> "Yapı ruhsatına tâbi bütün yapıların ... bir yapı müteahhidinin ... sorumluluğu altında inşâ edilmesi; her müteahhidin yetki belgesi numarası alması esastır. **Bu numaranın yapı ruhsatında, yapı kullanma izin belgesinde ve yapım işleri sözleşmelerinde kullanılması zorunludur.**"
 
-Kamu yapım ihalelerinde de zorunlu yeterlik kriteri (Kamu İhale Genel Tebliği 53.4) — teklif açılışında, karardan önce ve imzada kontrol edilir.
+Ayrıca: *"Ruhsat başvurusunda bulunan kuruluşça, müteahhidin **ŞANTİYE-M'de aktif durumda** olduğunun önceden teyit edilmesi gerekir."*
 
-**Doğrulama:** e-Devlet "Müteahhit Bilgileri Sorgulama" — turkiye.gov.tr/csb-muteahhit-bilgileri-sorgulama
-⚠️ e-Devlet girişi gerektirir, siteden anonim deep-link yapılamaz. Eski `yambis.csb.gov.tr` artık çözümlenmiyor.
+**İstisna (md. 5/2):** tek parselde, en çok 2 kat + 1 bodrum ve toplam inşaat alanı ≤ **500 m²** ise, parsel maliki **geçici yetki belgesi numarası** ile kendi binasını yapabilir — **5 yılda bir kez**.
+
+**15 grup (md. 14/1 birebir):** A, B, B1, C, C1, D, D1, E, E1, F, F1, G, G1, H ve geçici. **A en yüksek.**
+**Yıkım müteahhitliği ayrı (md. 14/A):** Y1, Y2, Y3 — mali kriter yok, ekipman + personel + son 5 yıl yıkım hacmi + teminat.
+
+**Grubu belirleyen 3 eksen:**
+1. **İş deneyim tutarı** — *yapı sınır bedeli*nin katı olarak: A = >2× · B = >7/5 · B1 = >6/5 · C = >1× · C1 = >5/6 · D = >2/3 · D1 = >1/2 · E = >1/3 · E1 = >1/5 · F = >1/10 · F1 = >17/200 · G = >7/100 · G1 = >1/20 · **H = ilk başvuruda iş deneyimi ve iş gücü gerekmez**
+2. **Usta / teknik personel:** A = 50/8 · B = 24/6 · B1 = 18/4 · C = 12/3 · C1 = 10/3 · D = 9/2 · D1 = 8/2 · E = 6/2 · E1 = 5/2 · F = 3/1 · F1 = 3/1 · G = 1/1 · G1 = 1/1 · H = 1/1 (sadece yenilemede)
+3. **Ekonomik/mali yeterlik (md. 12):** cari oran ≥ **0,50** · öz kaynak oranı ≥ **0,10** · kısa vadeli banka borcu/öz kaynak < 0,75 · banka referans mektubu ≥ grubun asgari iş deneyim tutarının %5'i · ciro ≥ %10 (E, E1) veya %15 (üst gruplar). **G ve G1 sadece banka referansı; H hiçbir belge gerektirmez.**
+
+⚠️ **ÇELİŞKİ:** Bir ajan cari oran ≥ 0,75 / öz kaynak ≥ 0,15 buldu. Diğer ajan mevzuat.gov.tr **konsolide PDF'inden (14.05.2026 değişikliği dahil)** 0,50 / 0,10 çıkardı. **Konsolide metin daha güvenilir — 0,50 / 0,10 kullan**, ama siteye sayı yazılacaksa tekrar teyit et.
+
+*Yapı sınır bedeli* (md. 4/1-k): Bakanlığın yıllık yayımladığı III. ve IV. sınıf yapı yaklaşık birim maliyetlerinin ortalaması **× 45.000** (diploma için × 250).
+
+**İş büyüklüğü üst sınırı (md. 14/3):** A = sınırsız · B–D1 = grubun asgari iş deneyim tutarı kadar · E = ×1,15 · E1 = ×4/3 · F = ×2 · F1 = ×1,75 · G ve G1 = ×1,5 · H = G1'in asgarisinin 5/6'sı kadar
+
+**Geçerlilik (md. 19/1, Değişik: 26.12.2024/32764):** **5 yıl** (eskiden 4). Yenilenmezse veya yeterlik kaybedilirse grup iptal edilir ve **H grubuna düşürülür**; yenilemeye kadar yeni iş alınamaz.
+
+**Yeşil sertifika primi (md. 16):** Yeşil Sertifika Yönetmeliği'ne (RG 12.06.2022/31864) göre sertifikalı binaların iş deneyim belgeleri **%5 fazlasıyla** hesaba katılır.
+
+**Yaptırımlar (İmar Kanunu md. 42):** belge Bakanlıkça iptal — ruhsata aykırı iş süresinde düzeltilmezse **5 yıl** · can ve mal güvenliğini tehdit eden aykırılıkta **10 yıl** · olumsuz sicil değerlendirmesinde **1 yıl** · işten doğan ödenmemiş vergi/SGK borcunda **≥1 yıl**.
+
+### ⭐ Doğrulama — SİTEYE KONULABİLİR (kritik bulgu)
+
+| Araç | URL | Giriş? |
+|---|---|---|
+| **ŞANTİYE-M portalı — Müteahhit Sorgulama + Şantiye Şefi Sorgulama** | **https://santiyem.csb.gov.tr/** | ⭐ **HAYIR — anonim erişilebilir** |
+| e-Devlet "Müteahhit Bilgileri Sorgulama" | turkiye.gov.tr/csb-muteahhit-bilgileri-sorgulama | Evet (e-Devlet) |
+| e-Devlet "Şantiye Şefi Ruhsat Bilgileri Sorgulama" | turkiye.gov.tr/csb-santiye-sefi-ruhsat-bilgi-sorgulama-8255 | Evet |
+
+🔴 **`yambis.csb.gov.tr` ARTIK ÇÖZÜMLENMİYOR** (DNS hatası, 2 ayrı denemede). Bu adrese link veren her site ölü link yayınlıyor — İNDER'in rehberi dahil.
+
+**→ Bu bulgu stratejiyi mümkün kılıyor:** santiyem.csb.gov.tr **giriş gerektirmeden** sorgulanabildiği için, site "belge numaramız şu, buradan kendiniz doğrulayın" diyebilir. Daha önce "e-Devlet girişi gerekiyor, anonim deep-link yapılamaz" sanılıyordu.
+
+### md. 2/2 — kamu ihalelerinde kapsam dışı ⚠️ ÇELİŞKİ
+Bu ajan md. 2/2'yi buldu: sınıflandırma kuralları **4734 sayılı Kamu İhale Kanunu / 2886 sayılı Devlet İhale Kanunu** kapsamındaki işlere **uygulanmaz**. Ayrıca Yapım İşleri İhaleleri Uygulama Yönetmeliği'nin tam metninde **YMBN/YAMBİS/ŞANTİYE-M'ye hiç atıf yok** (grep edildi).
+
+Ancak başka bir ajan "Kamu İhale Genel Tebliği 53.4 uyarınca kamu yapım ihalelerinde zorunlu yeterlik kriteri" dedi.
+**→ ÇÖZÜLMEDİ. Siteye "kamu ihalelerinde zorunludur" yazma.** Özel sektör yapı ruhsatı için zorunluluk (md. 5/1) sağlam doğrulanmış — onu kullan.
+
+### Müteahhitlik karnesi ARTIK GEÇERSİZ
+Yapım İşleri İhaleleri Uygulama Yönetmeliği **md. 51 birebir:**
+> "Müteahhitlik karneleri ihalelerde iş deneyimini tevsik eden belge olarak kullanılamaz."
+
+İş deneyimini belgeleyen kabul edilen belgeler (md. 13/2-a): **iş bitirme, iş durum, iş denetleme, iş yönetme belgeleri** — "(B) Üst yapı (Bina) işleri" benzer iş grupları I, II, III. İnşaat mühendisliği ve mimarlık diplomaları eşdeğer sayılır.
 
 ---
 
@@ -248,10 +291,32 @@ Belirleyiciler: arsa değeri, emsal ve parsel birleştirme potansiyeli, inşaat 
 Binalarda Enerji Performansı Yönetmeliği, RG 05.12.2008 / 27075, **md. 25(4) birebir:**
 > "Bu belge, yeni binalar için **yapı kullanma izin belgesi alınması aşamasında** ilgili idarelere sunulur. Enerji Kimlik Belgesi düzenlenmeyen binalara ilgili idarelerce **yapı kullanma izin belgesi verilmez**."
 
+Kanuni dayanak: **5627 sayılı Enerji Verimliliği Kanunu**, RG 02.05.2007/26510, md. 7/1-c.
+
 - **10 yıl geçerli** (md. 25/2)
 - Bina girişinde **görünür yerde asılı** olmalı (md. 25/6)
-- Binanın tamamını kapsamalı (md. 25/8)
-- Muafiyet: mücavir alan dışında **1.000 m² altı** binalar ve ruhsatsız yapılar (md. 25/9)
+- Binanın tamamını kapsamalı, bağımsız bölüm bazında değil (md. 25/8)
+- **BEP-TR** yazılımı ile, *enerji kimlik belgesi uzmanı* tarafından düzenlenir (md. 25/13)
+- Muafiyet: güvenlik/askeri/savunma binaları, ruhsatsız yapılar, **mücavir alan dışında 1.000 m² altı** binalar (md. 25/9)
+
+**⭐ Satış ve kiralamada zorunlu — md. 25(15) birebir:**
+> "**Binalar veya bağımsız bölümlere ilişkin alım, satım ve kiraya verme ile ilgili iş ve işlemlerde enerji kimlik belgesi düzenlenmiş olması şartı aranır.** Binanın veya bağımsız bölümün satılması veya kiraya verilmesi safhasında, mal sahibi enerji kimlik belgesinin bir suretini alıcıya veya kiracıya verir."
+
+⚠️ **"1 Ocak 2020" tarihi sık yanlış anlatılıyor.** Geçici md. 5: *"25 inci maddesinin on beşinci fıkrası 1/1/2020 tarihine kadar uygulanmaz."* → yani **satış/kiralama şartı** 01.01.2020'de yürürlüğe girdi. (Mevcut binalar için ayrı tarih: Geçici md. 3 → 02.05.2017.)
+
+**Enerji sınıfı — md. 27(5) birebir:**
+> "BEP-TR yöntemine göre enerji kimlik belgesi alacak olan yeni binalar **D sınıfı ve daha fazla enerji tüketimine ve CO2 salımına sahip olamaz.**"
+
+⚠️ Yönetmelik bunu **"D veya daha kötü olamaz"** şeklinde yazmış — pratikte **asgari C** demek, ama siteye yönetmeliğin ifadesiyle yazılmalı, "C sınıfı olmak zorunda" diye değil. Skala **A–G**.
+
+### NSEB / nZEB — Neredeyse Sıfır Enerjili Bina
+- **md. 23(1):** NSEB'in EKB enerji performans sınıfı **B veya daha iyi** olmalı **ve** birincil enerji ihtiyacının en az **%10'u yerinde yenilenebilir** enerjiyle karşılanmalı
+- **md. 23(2):** toplam yapı inşaat alanı **2.000 m² ve üzeri** binaların NSEB olarak inşası **zorunlu** — yürürlük 01.01.2023
+- ⚠️ **Kademeli geçiş (Geçici md. 6):** 01.01.2023–01.01.2025 arası **%5** ve **5.000 m²** uygulandı. **01.01.2025'ten itibaren 2.000 m² / %10 yerinde yenilenebilir.**
+- **→ Hâlâ 5.000 m² yazan bir site 18 ay geride.**
+
+### 🆕 2026 — Düşük Karbonlu Bina Belgesi
+**md. 27/A (Ek: RG 16.05.2026/33255):** EKB'de sera gazı emisyon sınıfı en az **"B"**, enerji performans sınıfı en az **"C"** olan binalar için **düşük karbonlu bina belgesi** BEP-TR üzerinden düzenlenir. Aynı değişiklikle **"Bina yaşam döngüsü analizi"** tanımı da eklendi.
 
 ### 6331 md. 22 — İSG Kurulu
 **50+ çalışan** ve **6 aydan uzun süreli sürekli iş** yapılan işyerlerinde **İSG kurulu kurulması zorunlu**. Asıl işveren / alt işveren koordinasyon kuralları uygulanır.
@@ -332,9 +397,59 @@ Binalarda Enerji Performansı Yönetmeliği, RG 05.12.2008 / 27075, **md. 25(4) 
 
 ---
 
-## 9. Çapraz Doğrulama — 4 Ajan Arası Çözülen Çelişkiler
+## 9. ISO Belgeleri — Zorunlu DEĞİL
 
-4 bağımsız ajan çalıştı; birinin "doğrulanamadı" dediğini bir diğeri birincil kaynaktan doğruladı. Çözümler:
+**Güncel versiyonlar:** ISO 9001:2015 · ISO 14001:2015 · ISO 45001:2018 (TS EN ISO ... olarak TSE tarafından, TÜRKAK akreditasyonuyla belgelendirilir).
+⚠️ **ISO 9001:2026 henüz yayınlanmadı** (Temmuz 2026 itibarıyla FDIS aşamasında, 2026 2. yarı bekleniyor, 3 yıl geçiş). **Siteye "ISO 9001:2026" YAZMA.** *(iso.org 403 döndü — bu bilgi belgelendirme kuruluşu kaynaklarına dayanıyor.)*
+
+### Müteahhitlik belgesi için ISO gerekmiyor — doğrulanmış negatif
+Yönetmeliğin tam konsolide metni okundu. **Hiçbir yetki belgesi grubu için ISO belgesi gerekmiyor.** Grup kriterleri (md. 12, 13, 14) yalnızca iş deneyimi, usta/teknik personel ve mali oranlardan oluşuyor.
+
+### Kamu ihalelerinde — istenebilir, zorunlu değil
+**Yapım İşleri İhaleleri Uygulama Yönetmeliği md. 30(1)(c) birebir:**
+> "**Kalite Yönetim Sistem Belgesi ve Çevre Yönetim Sistem Belgesi**, yaklaşık maliyeti eşik değerin; 1) **Yarısına kadar olan ihalelerde istenemez**, 2) **Yarısı ile bu değerin üzerinde olan ihalelerde istenilebilir.**"
+
+→ Eşik değerin yarısı altında **yasak**; üstünde **idarenin takdirinde ("istenilebilir") — asla zorunlu değil.**
+- md. 42: istenirse **TÜRKAK** veya **IAF MLA** taraflarınca akredite kuruluşlardan olmalı; ihale tarihinde geçerli olması yeterli; iş ortaklığında bir ortağın sağlaması yeterli
+- **ISO 45001 / OHSAS listede YOK** — sadece kalite (9001) ve çevre (14001). Kamu İhale Genel Tebliği 74.4 hizmet alımlarında OHSAS, HACCP, ISO 22000, SA 8000'i açıkça yasaklıyor
+- Tebliğ 74.3 hâlâ "ISO 9001:2008" diyor — tebliğ metni versiyon numarasında güncel değil
+
+**TÜRKAK:** 4457 sayılı Kanun, RG 04.11.1999/23866.
+
+**Belge doğrulama araçları (hepsi canlı teyit edildi, giriş gerekmiyor):**
+| Araç | URL |
+|---|---|
+| Akredite Kuruluş Arama | turkiye.gov.tr/turk-akreditasyon-akredite-kurulus-arama |
+| TÜRKAK Belge Doğrulama | turkiye.gov.tr/turk-akreditasyon-belge-dogrulamasi |
+| ASİST doküman doğrulama | asist.turkak.org.tr/tr/document-verification |
+
+*OHSAS 18001 → ISO 45001 geçişi: 30 Eylül 2021'de kapandı (IAF 6 ay uzattı). İkincil kaynaklı, yüksek güvenilirlik.*
+
+---
+
+## 10. Tüketici Güven Verisi — Kritik Negatif Bulgular
+
+### 🔴 "Konut/inşaat en çok şikâyet edilen kategori" İDDİASI YANLIŞ
+Ticaret Bakanlığı Tüketici Hakem Heyeti istatistiklerinde (2026 1. yarı ve 2025 1. yarı) **"konut", "inşaat", "gayrimenkul" kategorisi YOK.**
+
+2026 1. yarı: 481.613 başvuru, ~8,5 milyar TL. Sektörler: perakende ticaret **249.240 (%51,75)** · finansal hizmetler 49.501 (%10,27) · abonelik hizmetleri 43.311 (%9).
+
+**Yapısal sebep (asıl kullanışlı bilgi):** Tüketici Hakem Heyetlerinin **parasal yetki sınırı 2026 için 186.000 TL**. Bu tutarın üzerindeki uyuşmazlıklarda zorunlu arabuluculuk → Tüketici Mahkemesi yolu izlenir. **Konut alımları bu sınırın çok üzerinde olduğu için THH istatistiklerinde hiç görünmüyor.**
+
+**Tüketici Mahkemeleri (Adalet İstatistikleri 2025):** 161.155 dosya · yıl içinde açılan 86.642 · karara bağlanan 83.118 · **ortalama dosya süresi 311 gün**.
+
+### 🔴 Depremle ilgili dolaşan yüzdeler KAYNAKSIZ PR İDDİASI
+Türk medyasında en çok alıntılanan set ("güvenli yapı talebinde %25–40 artış", "%15–20 daha yüksek değerleme", "%30 daha hızlı satış", "%10–25 sigorta primi avantajı", "Türkiye yapı stokunun %60'ı 2000 öncesi") kaynağı fetch edildi: **tek dayanağı isimsiz "sektör verileri" ve bir inşaat şirketi yönetim kurulu başkanının beyanı. Araştırma firması yok, örneklem yok, tarih yok, rapor adı yok.**
+
+**→ BU YÜZDELER SİTEYE KONULMAYACAK.**
+
+⚠️ **Müteahhit güvenine dair metodolojisi belgelenmiş gerçek bir tüketici anketi BULUNAMADI.** Bu gerçek bir boşluk. Site "araştırmalara göre" diye başlayan hiçbir iddia kullanmamalı.
+
+---
+
+## 11. Çapraz Doğrulama — 5 Ajan Arası Çözülen Çelişkiler
+
+5 bağımsız ajan çalıştı; birinin "doğrulanamadı" dediğini bir diğeri birincil kaynaktan doğruladı. Çözümler:
 
 | Konu | Durum | Çözüm |
 |---|---|---|
@@ -346,10 +461,15 @@ Binalarda Enerji Performansı Yönetmeliği, RG 05.12.2008 / 27075, **md. 25(4) 
 | **4708 tüm 81 ilde** | ✅ **DOĞRULANDI** | BKK 2010/624, RG 13.07.2010 / 27640, yürürlük 01.01.2011 |
 | **TMB üye sayısı** | ⚠️ Çelişkili | Bir ajan 140, diğeri 136 saydı (28.07.2026). İkisi de kendi sayımı — TMB resmî rakam yayınlamıyor. **"yaklaşık 140" yaz veya sayı verme** |
 | **İNDER üyelik şartları** | ⚠️ Kısmen çelişkili | Bir ajan "referans yok" dedi (tüzük md. 3'e dayanarak), diğeri **"3 referans + 7.500 TL giriş + 3.600 TL yıllık"** buldu (yeni-uyelik sayfasından). **Sitedeki güncel bilgi daha güvenilir** |
+| **Belge sorgulaması anonim mi?** | ✅ **ÇÖZÜLDÜ — anonim** | Bir ajan "e-Devlet girişi gerekiyor, anonim deep-link yapılamaz" dedi. Diğeri **santiyem.csb.gov.tr'yi buldu — Müteahhit Sorgulama girişsiz çalışıyor.** Strateji uygulanabilir |
+| **Mali oranlar (cari/öz kaynak)** | ⚠️ Çelişkili | 0,75/0,15 vs **0,50/0,10**. Konsolide PDF (14.05.2026 dahil) 0,50/0,10 diyor → **onu kullan**, ama yayınlanacaksa tekrar teyit |
+| **Kamu ihalelerinde YMBN zorunlu mu?** | ❌ **ÇÖZÜLMEDİ** | Bir ajan "Kamu İhale Genel Tebliği 53.4 ile zorunlu" dedi. Diğeri **md. 2/2'yi** buldu — sınıflandırma 4734/2886 işlerine uygulanmaz, ve Yapım İşleri Uygulama Yönetmeliği'nde YMBN'ye atıf yok. **Siteye yazma** |
+| **Yetki belgesi geçerliliği** | ✅ **DOĞRULANDI** | **5 yıl** (md. 19/1, Değişik 26.12.2024/32764 — eskiden 4 yıl) |
+| **Müteahhitlik karnesi** | ✅ **DOĞRULANMIŞ NEGATİF** | İki ayrı yönden: TMB üyeliğinde karne şartı yok **ve** Yapım İşleri Uygulama Yönetmeliği md. 51 "ihalelerde iş deneyimini tevsik eden belge olarak kullanılamaz" |
 
 ---
 
-## 10. DOĞRULANMADI — Siteye Konulmayacak
+## 12. DOĞRULANMADI — Siteye Konulmayacak
 
 1. **TÜİK resmî Ümraniye 2025 nüfusu** — 728.913 ikincil kaynaklardan; nufusu.com kendini "amatör" tanımlıyor
 2. **Mahalle sayısı** — belediye+Vikipedi 35, İBB 38. Çelişki çözülmedi
@@ -368,7 +488,7 @@ Binalarda Enerji Performansı Yönetmeliği, RG 05.12.2008 / 27075, **md. 25(4) 
 
 ---
 
-## 11. Arkoz Gazbeton — Mevcut Marka Sistemi (referans)
+## 13. Arkoz Gazbeton — Mevcut Marka Sistemi (referans)
 
 *Kaynak: C:\Users\ROG\Arkoz\CLAUDE.md*
 
@@ -388,7 +508,7 @@ Binalarda Enerji Performansı Yönetmeliği, RG 05.12.2008 / 27075, **md. 25(4) 
 
 ---
 
-## 12. Açık Sorular — Kullanıcıdan Beklenen
+## 14. Açık Sorular — Kullanıcıdan Beklenen
 
 - [ ] **Arkoz Holding yapısı** — araştırma devam ediyor. Arkoz Müteahhitlik'in tam yasal ünvanı?
 - [ ] **Arkoz İş Merkezi** tam adresi + Google Maps linki
