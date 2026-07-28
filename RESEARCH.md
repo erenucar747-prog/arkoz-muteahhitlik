@@ -685,22 +685,39 @@ Türk medyasında en çok alıntılanan set ("güvenli yapı talebinde %25–40 
 
 ---
 
-## 13. Arkoz Müteahhitlik — Doğrulanabilen Tek Bilgi
+## 13. Şirket Künyesi — Doğrulanmış
 
-**Tam yasal ünvan:**
-> Arkoz Müteahhitlik İnşaat Taahhüt Turizm ve Dış Ticaret Anonim Şirketi
+> Kullanıcının paylaştığı Google işletme linki (`kgmid=/g/11w8jfmg9z`) **ARKOZ DIŞ TİCARET** kaydına gidiyor. Ümraniye'deki müteahhitlik faaliyeti bu tüzel kişi altında.
 
-**Doğrulanan tek kayıt:** DAİB (Doğu Anadolu İhracatçılar Birliği) **aktif ihracatçı üyesi**, il: **Ağrı**.
-Kaynak: `daib.org.tr/wp-content/uploads/2025/12/AKTIF-UYE-LISTESI.pdf` (s. 8, sıra 290) — 92 sayfalık PDF'den birebir satır okundu.
+**Arkoz Dış Ticaret İnşaat Taahhüt ve Sanayi Limited Şirketi**
 
-### 🔴 Bunun dışında kamuya açık HİÇBİR veri yok
-Aranıp bulunamayan: adres · kuruluş tarihi · çalışan sayısı · sektör/NACE kodu · vergi no · Mersis no · ticaret sicil no · web sitesi · telefon · yetki belge numarası ve grubu · proje listesi · logo.
+| Alan | Değer | Kaynak |
+|---|---|---|
+| **Adres** | Şerifali Mah., Türker Cad., **No: 35**, Ümraniye/İstanbul | Yandex Haritalar · EMIS · kariyer.net |
+| Posta kodu | 34775 *(EMIS)* — ⚠️ komşu kayıtlar 34760 diyor, teyit edilmeli | EMIS |
+| Bina adı | **"Arkoz İş Merkezi"** *(EMIS)* / *"Gemikaya İş Merkezi"* (kariyer.net) — ⚠️ çelişki | EMIS / kariyer.net |
+| Daire | D:1 | EMIS |
+| **Telefon** | **+90 216 466 16 10** | Yandex Haritalar (teyitli) |
+| **Kuruluş** | **23 Ocak 2006** → **20 yıl** | EMIS · kariyer.net (2006) |
+| Çalışan | **25–49** | kariyer.net |
+| Faaliyet | Konut dışı bina inşaatı (*Nonresidential Building Construction*) + İthalat-İhracat | EMIS · kariyer.net |
+| Kategori | İnşaat firmaları | Yandex Haritalar |
+| Çalışma saati | 18:30'da kapanıyor | Yandex Haritalar |
+| Yandex kaydı | `yandex.com.tr/maps/org/arkoz_dis_ticaret/1026026505/` — **puan yok, yorum yok** | Yandex |
+| İhracatçı üyeliği | DAİB aktif üye, sıra 288, İstanbul | daib.org.tr PDF |
+| Ulaşım | Türker Caddesi durağı 125 m · İMES durağı 530 m | Yandex |
 
-Denenen ve sonuç vermeyen kaynaklar: EMIS · kariyer.net · LinkedIn · dnb.com (JS shell) · zoominfo / apollo / crunchbase / rocketreach (403) · tendata (DNS ölü) · volza · kompass · TOBB üye portalı (giriş zorunlu) · TİM üyelik sorgulama (vergi no + reCAPTCHA gerekiyor) · Ticaret Sicil Gazetesi.
+### ⭐ Stratejik sonuç: "20 yıl" kozu kullanılabilir
+Rakip analizinde 13/14 site **"X yıldır sektörde"** diyor ve bu yeni şirketlerin kullanamadığı tek sinyaldi. **2006 kuruluş kayıtlarda doğrulanabilir** → bu anlatı dürüstçe kullanılabilir.
 
-**→ SONUÇ: Sitenin tüm şirkete özel içeriği senden gelmek zorunda.** İnternette şirket hakkında yayınlanacak hazır bilgi yok. Bu aslında bir avantaj: rakiplerin doldurduğu boşlukları (bkz. böl. 1) sıfırdan ve doğru şekilde doldurma imkânı var.
+### Eksikler — senden gelmesi gerekenler
+Web sitesi (yok) · e-posta · **yetki belge numarası ve grubu** · vergi no · Mersis no · ticaret sicil no · KEP adresi · VERBİS no · logo · proje listesi · fotoğraflar
 
-⚠️ **Ümraniye notu:** DAİB kaydında şirketin ili **Ağrı** olarak geçiyor, İstanbul değil. Sen "bina Ümraniye'de" ve "Arkoz İş Merkezi olarak geçiyor" dedin. Bu ikisi çelişmiyor olabilir (kayıtlı merkez ile faaliyet adresi farklı olabilir) ama **siteye adres yazılmadan önce netleşmeli** — yanlış adres hem KVKK künyesi hem de Reklam Yönetmeliği md. 7/5-c (şirketin statüsü/yetki alanı hakkında yanıltıcı beyan) açısından risk.
+### ⚠️ Netleşmesi gerekenler
+1. **Bina adı çelişkisi:** EMIS "Arkoz İş Merkezi", kariyer.net "Gemikaya İş Merkezi" diyor. Aynı bina. Hangisi doğru?
+2. **Gemikaya bağlantısı:** kariyer.net bu şirketin "Hakkında" metninde *"Gemikaya İnşaat 2006 yılında kurulmuştur... TİM'in Türkiye'nin en büyük ihracatçıları sıralamasında yer almaktadır"* yazıyor ve web sitesi olarak `gemikaya.com` gösteriyor (site ölü). İlişki ne?
+3. **Ayrıca kayıtlı:** *Arkoz Müteahhitlik İnşaat Taahhüt Turizm ve Dış Ticaret A.Ş.* — DAİB üyesi, il **Ağrı** (sıra 290). Bu ayrı tüzel kişi. Site hangisi için?
+4. **Yandex'te hiç yorum/puan yok** — Google Business profili varsa oradaki durum kontrol edilmeli. Sitede yorum gösterilecekse gerçek olmalı (Reklam Yön. md. 16 tanıklı reklam).
 
 ---
 
