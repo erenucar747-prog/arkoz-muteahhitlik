@@ -2,7 +2,7 @@
 
 > **Durum:** Bilgi toplama aşaması. Site henüz yapılmıyor.
 > **Tarih:** 2026-07-28
-> **Kaynak:** 5 bağımsız araştırma ajanı, birincil kaynaklardan (mevzuat.gov.tr, Resmî Gazete, kurum siteleri) doğrulanmış.
+> **Kaynak:** 6 bağımsız araştırma ajanı, birincil kaynaklardan (mevzuat.gov.tr, Resmî Gazete, kurum siteleri) doğrulanmış.
 
 ⚠️ **KURAL:** Bu dosyada "DOĞRULANMADI" olarak işaretlenen hiçbir bilgi siteye konulmayacak. Reklam Kurulu 2026'nın ilk 7 ayında yanıltıcı reklam için 185M TL ceza kesti.
 
@@ -29,7 +29,11 @@
 
 **Rakiplerin kullandığı tek sinyal: "X yıldır sektörde" — 13/14.** Yeni bir şirket bunu kullanamaz.
 
-**→ FIRSAT:** Yetki belge numarasını + grup harfini + **santiyem.csb.gov.tr'den girişsiz nasıl doğrulanacağını** yayınlamak **sektörde ilk** olur. Sicili olmayan bir şirket için doğrulanabilir belge, iddia edilen tecrübeden daha güçlüdür. *(Anonim sorgulanabilirlik doğrulandı — bkz. böl. 3)*
+**→ FIRSAT:** Yetki belge numarasını + grup harfini + doğrulama yolunu yayınlamak **sektörde ilk** olur. Sicili olmayan bir şirket için doğrulanabilir belge, iddia edilen tecrübeden daha güçlüdür.
+
+🔴 **AMA İKİ ÖNEMLİ KISIT (bkz. böl. 3):**
+1. **Doğrulama anonim değil** — e-Devlet girişi gerekiyor. "Buradan doğrulayın" denebilir, tek tık anonim link verilemez.
+2. **Reklam Yön. md. 7/6:** zorunlu belgeler **üstünlük iddiası** olarak kullanılamaz. Çerçeve **şeffaflık ve eğitim** olmalı — "belgemiz var, o yüzden daha iyiyiz" değil.
 
 **İronik detay:** Tektaş Kentsel Dönüşüm sitesinde `/muteahhit-sorgulama` sayfası var — ziyaretçiye "müteahhidini sorgula" diyor, ama kendi belge numarasını yayınlamıyor.
 
@@ -142,9 +146,21 @@ Ayrıca: *"Ruhsat başvurusunda bulunan kuruluşça, müteahhidin **ŞANTİYE-M'
 **Grubu belirleyen 3 eksen:**
 1. **İş deneyim tutarı** — *yapı sınır bedeli*nin katı olarak: A = >2× · B = >7/5 · B1 = >6/5 · C = >1× · C1 = >5/6 · D = >2/3 · D1 = >1/2 · E = >1/3 · E1 = >1/5 · F = >1/10 · F1 = >17/200 · G = >7/100 · G1 = >1/20 · **H = ilk başvuruda iş deneyimi ve iş gücü gerekmez**
 2. **Usta / teknik personel:** A = 50/8 · B = 24/6 · B1 = 18/4 · C = 12/3 · C1 = 10/3 · D = 9/2 · D1 = 8/2 · E = 6/2 · E1 = 5/2 · F = 3/1 · F1 = 3/1 · G = 1/1 · G1 = 1/1 · H = 1/1 (sadece yenilemede)
-3. **Ekonomik/mali yeterlik (md. 12):** cari oran ≥ **0,50** · öz kaynak oranı ≥ **0,10** · kısa vadeli banka borcu/öz kaynak < 0,75 · banka referans mektubu ≥ grubun asgari iş deneyim tutarının %5'i · ciro ≥ %10 (E, E1) veya %15 (üst gruplar). **G ve G1 sadece banka referansı; H hiçbir belge gerektirmez.**
+3. **Ekonomik/mali yeterlik (md. 12/2):** ✅ **ÇELİŞKİ ÇÖZÜLDÜ**
+   - **Cari oran ≥ 0,75** (dönen varlıklar / kısa vadeli borçlar) — *Değişik: RG 26.12.2024/32764, yürürlük 31.05.2025; **eskiden 0,50***
+   - **Öz kaynak oranı ≥ 0,15** (öz kaynaklar / toplam aktif) — *eskiden 0,10*
+   - Kısa vadeli banka borçları / öz kaynaklar **< 0,75**
+   - Önceki yıl sağlanamazsa son 3 yılın ortalaması kullanılabilir
+   - **md. 12/3 banka referans mektubu:** kullanılmamış nakdi/gayrinakdi kredi veya serbest mevduat ≥ grubun asgari iş deneyim tutarının **%5'i** (EK-3 beyan + EK-3A teminat mektubu)
+   - **md. 12/4 ciro:** ≥ **%10** (E, E1) · ≥ **%15** (üst gruplar) · alt gruplarda ciro şartı yok
+   - **G ve G1:** mali belgelerden sadece banka referans mektubu beyanı (md. 11/2)
+   - **H grubu:** ekonomik, mali, mesleki, teknik hiçbir yeterlik belgesi gerekmez (md. 11/3)
 
-⚠️ **ÇELİŞKİ:** Bir ajan cari oran ≥ 0,75 / öz kaynak ≥ 0,15 buldu. Diğer ajan mevzuat.gov.tr **konsolide PDF'inden (14.05.2026 değişikliği dahil)** 0,50 / 0,10 çıkardı. **Konsolide metin daha güvenilir — 0,50 / 0,10 kullan**, ama siteye sayı yazılacaksa tekrar teyit et.
+   ✅ **0,75 / 0,15 GÜNCEL DEĞERLER.** Önceki 0,50 / 0,10 rakamları 31.05.2025'ten önceki eski metinden. Bir ajan eski değerleri, diğeri değişikliğin tarihini ve eski değeri birlikte raporladı — geçişi açıkladığı için ikincisi doğru.
+
+**md. 16(2) — iş deneyimi nasıl hesaplanır:** son **15 yıldaki en büyük tek belgenin 2 katı**, *veya* **son 5 yılda tamamlanan işlerin toplamı** — hangisi büyükse. Ancak toplam, 15 yıllık pencerede en büyük belgenin **3 katını** aşamaz.
+
+**md. 7 — kimler başvuramaz:** iflas/tasfiye halinde olanlar, hileli iflas edenler; ve (kesinleşmiş mahkeme kararıyla, 3 yıl içinde) sözleşmeyi hile/tehdit/rüşvetle elde edenler, sahte belge üretenler veya kullananlar, hileli malzeme/yöntem kullananlar veya fen ve sanat kurallarına aykırı yapı yapanlar.
 
 *Yapı sınır bedeli* (md. 4/1-k): Bakanlığın yıllık yayımladığı III. ve IV. sınıf yapı yaklaşık birim maliyetlerinin ortalaması **× 45.000** (diploma için × 250).
 
@@ -156,23 +172,84 @@ Ayrıca: *"Ruhsat başvurusunda bulunan kuruluşça, müteahhidin **ŞANTİYE-M'
 
 **Yaptırımlar (İmar Kanunu md. 42):** belge Bakanlıkça iptal — ruhsata aykırı iş süresinde düzeltilmezse **5 yıl** · can ve mal güvenliğini tehdit eden aykırılıkta **10 yıl** · olumsuz sicil değerlendirmesinde **1 yıl** · işten doğan ödenmemiş vergi/SGK borcunda **≥1 yıl**.
 
-### ⭐ Doğrulama — SİTEYE KONULABİLİR (kritik bulgu)
+### Doğrulama — ⚠️ ANONİM SORGULAMA YOK (önceki iddia DÜZELTİLDİ)
 
 | Araç | URL | Giriş? |
 |---|---|---|
-| **ŞANTİYE-M portalı — Müteahhit Sorgulama + Şantiye Şefi Sorgulama** | **https://santiyem.csb.gov.tr/** | ⭐ **HAYIR — anonim erişilebilir** |
-| e-Devlet "Müteahhit Bilgileri Sorgulama" | turkiye.gov.tr/csb-muteahhit-bilgileri-sorgulama | Evet (e-Devlet) |
-| e-Devlet "Şantiye Şefi Ruhsat Bilgileri Sorgulama" | turkiye.gov.tr/csb-santiye-sefi-ruhsat-bilgi-sorgulama-8255 | Evet |
+| ŞANTİYE-M portalı (açılış sayfası) | https://santiyem.csb.gov.tr/ | Sayfa açık |
+| "Müteahhit Sorgulama" butonu → gittiği yer | turkiye.gov.tr/csb-muteahhit-bilgileri-sorgulama | 🔴 **e-Devlet kimlik doğrulaması ZORUNLU** |
+| "Şantiye Şefi Ruhsat Bilgileri Sorgulama" | turkiye.gov.tr/csb-santiye-sefi-ruhsat-bilgi-sorgulama-8255 | Evet |
 
-🔴 **`yambis.csb.gov.tr` ARTIK ÇÖZÜMLENMİYOR** (DNS hatası, 2 ayrı denemede). Bu adrese link veren her site ölü link yayınlıyor — İNDER'in rehberi dahil.
+🔴 **DÜZELTME:** Bir ajan santiyem.csb.gov.tr'nin girişsiz sorgulama sunduğunu söyledi. Başka bir ajan sayfanın **HTML `href`'ini okudu** ve hedef sayfayı test etti: buton doğrudan e-Devlet'e gidiyor ve sayfa *"Henüz kimliğinizi doğrulamadınız... e-Devlet Şifresi / Mobil İmza / Elektronik İmza / T.C. Kimlik Kartı / İnternet Bankacılığı"* döndürüyor.
 
-**→ Bu bulgu stratejiyi mümkün kılıyor:** santiyem.csb.gov.tr **giriş gerektirmeden** sorgulanabildiği için, site "belge numaramız şu, buradan kendiniz doğrulayın" diyebilir. Daha önce "e-Devlet girişi gerekiyor, anonim deep-link yapılamaz" sanılıyordu.
+**→ Sorgulama her e-Devlet hesabı sahibine açık, ama ANONİM DEĞİL.** Site "buradan doğrulayın" diyebilir, fakat ziyaretçinin e-Devlet girişi yapması gerekir. Tek tıkla anonim doğrulama linki verilemez.
 
-### md. 2/2 — kamu ihalelerinde kapsam dışı ⚠️ ÇELİŞKİ
-Bu ajan md. 2/2'yi buldu: sınıflandırma kuralları **4734 sayılı Kamu İhale Kanunu / 2886 sayılı Devlet İhale Kanunu** kapsamındaki işlere **uygulanmaz**. Ayrıca Yapım İşleri İhaleleri Uygulama Yönetmeliği'nin tam metninde **YMBN/YAMBİS/ŞANTİYE-M'ye hiç atıf yok** (grep edildi).
+🔴 **`yambis.csb.gov.tr` ARTIK ÇÖZÜMLENMİYOR** (DNS ENOTFOUND, curl exit 000 — 2 ajan bağımsız teyit etti). Bu adrese link veren her site ölü link yayınlıyor — İNDER'in rehberi dahil.
 
-Ancak başka bir ajan "Kamu İhale Genel Tebliği 53.4 uyarınca kamu yapım ihalelerinde zorunlu yeterlik kriteri" dedi.
-**→ ÇÖZÜLMEDİ. Siteye "kamu ihalelerinde zorunludur" yazma.** Özel sektör yapı ruhsatı için zorunluluk (md. 5/1) sağlam doğrulanmış — onu kullan.
+### 🔴🔴 KRİTİK STRATEJİ KISITI — Reklam Yönetmeliği md. 7(6)
+
+> "İlgili mevzuatı gereği bir mal veya hizmete ilişkin olarak düzenlenmesi **zorunlu ruhsat, izin, onay, kayıt gibi belgeler** ile uyulması gereken diğer yasal süreçler, o mal veya hizmetin **diğerlerinden farklı ya da daha üstün olduğu algısı oluşturacak biçimde reklamlarda kullanılamaz.**"
+
+**Bu, "belge numarasını rekabet avantajı olarak öne çıkar" stratejisini hukuken sınırlıyor.** Yetki belgesi yasal olarak zorunlu olduğu için:
+
+| ✅ YAPILABİLİR | ❌ YAPILAMAZ |
+|---|---|
+| Belge numarasını **bilgi olarak** yayınlamak (şeffaflık) | "Belgeli müteahhit olduğumuz için bizi seçin" |
+| "Yetki belge no: X, Grup: Y" şeklinde künye vermek | "Rakiplerimizden farklı olarak belgemiz var" |
+| Doğrulama yolunu tarif etmek | "Belgeli olmak bizi üstün kılar" |
+| Arsa sahibini **nasıl doğrulayacağı** konusunda eğitmek | Zorunlu belgeyi ayırt edici üstünlük gibi sunmak |
+
+**→ Doğru çerçeve: şeffaflık ve eğitim, üstünlük iddiası değil.** "Her müteahhitte olması gereken belge — bizimki şu, siz de her müteahhidi böyle doğrulayın" dürüst ve yasaldır. "Belgemiz olduğu için daha iyiyiz" md. 7/6 ihlalidir.
+
+### ⚠️ Hiçbir yerde tabela/reklam/web sitesi zorunluluğu YOK — doğrulanmış negatif
+
+Bir ajan 6 birincil mevzuatı `tabela`, `levha`, `pano`, `reklam`, `ilan` için tam metin taradı:
+
+| Mevzuat | Sonuç |
+|---|---|
+| Yapı Müteahhitlerinin Sınıflandırılması Yönetmeliği | **0 sonuç** — tabela/reklam/web sitesi yükümlülüğü yok |
+| Planlı Alanlar İmar Yönetmeliği | **Şantiye tabelası hükmü yok** |
+| Yapı Denetimi Uygulama Yönetmeliği | Müteahhit için şantiye levhası görevi yok |
+| Şantiye Şefleri Hakkında Yönetmelik | **0 sonuç** |
+| 4708 sayılı Kanun | **0 sonuç** |
+| 3194 sayılı İmar Kanunu | Tabela hükmü yok |
+
+**Belge numarasının yasal olarak zorunlu olduğu SADECE 3 yer var (md. 5/1):**
+1. Yapı ruhsatı
+2. Yapı kullanma izin belgesi
+3. Yapım işleri sözleşmeleri
+
+⚠️ Tabela imalatçısı sitelerinin "3194 ve Planlı Alanlar İmar Yönetmeliği gereği tabelada bulunmalı" iddiası **metinlerde karşılığı yok — ticari amaçlı ve dayanaksız.** *(Belediyelerin yerel İlan ve Reklam Yönetmelikleri ayrı zorunluluk getirebilir — kontrol edilmedi, yerel konu.)*
+
+**Tek gerçek bina üzerinde gösterim yükümlülüğü:** Yapı Denetimi Uygulama Yönetmeliği **md. 31** — iş bitirme aşamasına gelen yapılar için müteahhit, Bakanlıktan temin edilen **Form-26 "bina kimlik sertifikası"**nı yapının kolayca görünen bir yerine asar. *(Bu bir şantiye tabelası değil, tamamlanma sonrası sertifika. Form-26'nın belge numarası içerip içermediği teyit edilmedi.)*
+
+### md. 2/2 — kamu ihalelerinde kapsam dışı ⚠️ ÇÖZÜLMEDİ
+Sınıflandırma kuralları **4734 / 2886** kapsamındaki işlere **uygulanmaz** (md. 2/2), ve Yapım İşleri İhaleleri Uygulama Yönetmeliği'nde YMBN'ye atıf yok (grep edildi). Ancak başka bir kaynak "Kamu İhale Genel Tebliği 53.4 ile zorunlu" diyor.
+**→ Siteye "kamu ihalelerinde zorunludur" YAZMA.** Özel sektör yapı ruhsatı zorunluluğu (md. 5/1) sağlam — onu kullan.
+
+### 2026 parasal değerler (türetilmiş)
+2026 yapı yaklaşık birim maliyetleri (RG 03.02.2026 / 33157): III-A 19.800 · III-B 21.050 · III-C 23.400 · IV-A 26.450 · IV-B 33.900 · IV-C 40.500 TL/m²
+Ortalama 27.516,67 × 45.000 = **Yapı sınır bedeli 2026 ≈ 1.238.250.000 TL**
+
+| Grup | Asgari iş deneyim tutarı (TL) | Azami üstlenebilir maliyet (TL) |
+|---|---|---|
+| A | 2.476.500.000 | **Sınırsız** |
+| B | 1.733.550.000 | 1.733.550.000 |
+| C | 1.238.250.000 | 1.238.250.000 |
+| D | 825.500.000 | 825.500.000 |
+| E | 412.750.000 | 474.662.500 |
+| E1 | 247.650.000 | 330.200.000 |
+| F | 123.825.000 | 247.650.000 |
+| G | 86.677.500 | 130.016.250 |
+| G1 | 61.912.500 | 92.868.750 |
+| H | aranmaz | ~44.223.214 |
+
+⚠️ Bu rakamlar **türetilmiş** (Tebliğ + Yönetmelik formülü). Bakanlığın kendi 2026 yeterlilik tablosu csb.gov.tr'de bulunamadı. Siteye yazılacaksa resmî tablo bulunmalı.
+
+### ⭐ Geçici Madde 1(2) — 31.12.2026'ya kadar iş gücü şartı ASKIDA
+> "31/12/2026 tarihine (bu tarih dâhil) kadar, bu Yönetmeliğin mesleki ve teknik deneyime ilişkin **iş gücü yeterliği aranmaz**, ancak başvuru tarihinden önceki son altı yıla kadar olan değerler beyan edilir."
+
+**→ Usta / teknik personel sayısı şartları 31.12.2026'ya kadar uygulanmıyor.** Yeni bir şirketin belge alması bu tarihe kadar belirgin şekilde kolay. Zamanlama açısından önemli.
 
 ### Müteahhitlik karnesi ARTIK GEÇERSİZ
 Yapım İşleri İhaleleri Uygulama Yönetmeliği **md. 51 birebir:**
@@ -341,7 +418,47 @@ Kanuni dayanak: **5627 sayılı Enerji Verimliliği Kanunu**, RG 02.05.2007/2651
 
 **→ PRATİK KURAL: Her sayısal veya karşılaştırmalı iddia belgelenebilir olmalı.**
 
-**Reklam Kurulu 2026 ilk 7 ay: 21.000+ dosya, 185 milyon TL'yi aşan idari para cezası.** Emlak firmalarının ilanlarının kaldırılmasına karar verdi.
+**md. 9 ispat külfeti birebir:**
+> "(1) **Reklam verenler ticari reklamlarında yer alan iddiaların doğruluğunu ispatla yükümlüdür.**
+> (2) Reklamlarda yer alan doğrulanabilir olgularla ilgili tanımlamalar, iddialar ya da örnekli anlatımlar; **bilimsel geçerliliği olan bilgi ve belgelerle kanıtlanmak zorundadır.** Gerek görülen hallerde üniversitelerin ilgili bölümlerinden veya akredite ya da bağımsız araştırma, test ve değerlendirme kuruluşlarından alınmış bilgi ve belgeler istenir."
+
+**md. 13 — fiyat bilgisi:** gösterilen fiyat **tüm vergiler dahil toplam satış fiyatı** olmalı · TL/₺ ile · teslim masrafları açıklanmalı · taksit gösteriliyorsa toplam fiyat + taksit sayısı okunaklı olmalı · geçerlilik süresi/stok sınırı belirtilmeli
+**md. 14 — indirim:** indirim öncesi fiyat = **önceki 30 gündeki en düşük fiyat**, ispat külfeti reklam verende
+**md. 8 — karşılaştırmalı reklam:** rakip adı/marka/logo gösterilemez · sayısal veriye dayanan iddialar **her hâlükârda** akredite kuruluş raporuyla kanıtlanmalı
+
+### 🔴 2026 Reklam Kurulu ceza tutarları (RG 23.12.2025 / 33116, yeniden değerleme %25,49)
+
+| Mecra | 2026 TL |
+|---|---|
+| **İnternet / uydu TV (md. 77/12-e)** | **1.083.706 – 10.837.065** |
+| Ülke genelinde TV | 3.991.652 – 39.916.524 |
+| Yerel TV | 198.679 – 1.986.795 |
+| Diğer mecralar (afiş, açık hava) | 108.370 – 1.083.706 |
+| Haksız ticari uygulama (md. 77/13) | 108.370 – 1.083.706 (ülke genelinde 1.083.706 – 10.837.065) |
+| Yıllık üst sınır (md. 77/19) | 510.430 – 765.649.243 *(ve önceki yıl brüt gelirin %5'i ile sınırlı)* |
+
+Reklam Kurulu yetkileri (6502 md. 63): durdurma · aynı yöntemle düzeltme · idari para cezası · **3 aya kadar tedbiren durdurma** · **içeriğin çıkarılması ve/veya erişimin engellenmesi**. İtiraz: idare mahkemesine **30 gün**. **Uzlaşma ile %50'ye kadar indirim** mümkün (md. 77/A).
+
+### ⚠️ Gerçek emlak/inşaat firması kararları — doğrulanmış örnekler
+
+**Bülten 369, 14.05.2026 toplantısı:**
+- **Arsavev Gayrimenkul A.Ş.** (2026/1497) — kendi sitesinde *"2017'den bugüne 14.675 kişiyi gayrimenkul sahibi yapmış, 804 futbol sahası, 5,7 milyon m² üzeri arsa satışı"* + YouTube'da *"%40'ın üzerinde bir getiri sağladı"*. **İspat sunamadı** → md. 7/1-7/5, 9/1, 9/5, 16/1, 32/1 ihlali. **1.083.706 TL + durdurma.** *(İnternet mecrası tabanı — yani asgari ceza.)*
+- **Arsavev** (2026/1821) — tapuda *"Turizm tesisi dışında kullanılamaz"* şerhli, **5 yıldızlı otel** ruhsatlı Kuşadası taşınmazını *"Denize Sıfır Residence"*, *"anında tapu teslim"* diye pazarlamak → md. 28, 29, 30 ihlali. **1.083.706 TL + durdurma.**
+- **Nazar Real Estate Ltd.** (2026/720) — sahibinden.com ilanında *"su, elektrik altyapısı hazır"* derken sadece su havuzu ve tesisat vardı → **durdurma cezası.**
+- **Biva Mimarlık İnşaat Taahhüt A.Ş.** (2026/1822) — aynı Kuşadası "Nuova Residence" olayı.
+
+**Bülten 367:** **İky Alanya İnşaat Emlak Ltd.** (2025/3075) — sitesinde *"Yasal Destek", "Vatandaşlık", "Nitelikli Yasal Destek", "Profesyonel Hukuki Danışmanlık", "Türk Vatandaşlığı Hakkı"* — bu konularda sadece Göç İdaresi ve baroya kayıtlı avukatlar yetkili → md. 11/1-a dahil ihlal. **863.580 TL + durdurma.**
+
+**→ ÖĞRENİLEN DERS: Şirketin kendi istatistikleri ("X kişiyi ev sahibi yaptık", "Y proje tamamladık") doğrulanabilir olgusal iddia sayılıyor ve İSPAT İSTENİYOR.** Getiri/kazanç iddiaları ayrıca finansal aldatma sayılıyor.
+
+### Süperlatif iddialar ("Türkiye'nin en iyisi", "1 numara")
+Yönetmelikte süperlatiflere ayrılmış madde **yok** — md. 7 + md. 9 üzerinden yakalanıyor, ve Reklam Kurulu pratiğinde **katı** uygulanıyor.
+
+**Bülten 360 (14.08.2025) örnekleri:**
+- **Fellas Gıda** — *"Türkiye'nin en kuruyemişli barları"*. Kanıt olarak *NielsenIQ 2024 raporundan kendi hazırladığı Excel tablosu* sundu → Bakanlık **kabul edilemez** buldu ("Bakanlıkça kabul edilemeyeceği"), md. 9 ispat yükümlülüğü yerine getirilmemiş sayıldı → **durdurma.**
+- **Doğuş Çay** — *"En Güzel Çay"*, *"Özel Sektörün Lideri"*. Daha önce 352. ve 353. toplantılarda durdurma almışken yayına devam etmesi ihlal → tekrar ceza.
+
+**→ Süperlatif iddia, yayın anında Bakanlığın KABUL EDECEĞİ delille desteklenmeli. Ticari pazar raporundan kendi hazırladığın tablo açıkça reddedildi.**
 
 **Ön ödemeli konut satışı** (bitmeden satış yapılırsa) — RG 27.11.2014 / 29188 + 6502:
 - Şekil: kat irtifakı tapuya tescilli yazılı sözleşme **veya** noter düzenleme şeklinde satış vaadi
@@ -350,6 +467,82 @@ Kanuni dayanak: **5627 sayılı Enerji Verimliliği Kanunu**, RG 02.05.2007/2651
 - **Dönme hakkı** 24 aya kadar; iade **180 gün** içinde
 - **30+ konutlu projelerde teminat zorunlu** (md. 12): bina tamamlama sigortası / banka teminat mektubu / hakediş sistemi / bağlı kredi
 - **Azami teslim 48 ay** (7392 sayılı Kanun, RG 24.03.2022 ile 36→48). ⚠️ 2014 yönetmelik metni hâlâ "otuz altı ay" diyor — 48 kullan, 6502 md. 44'e dayan.
+- **Cayma bildirimi notere gönderilmeli** (Yön. md. 8/2) · bağlı kredi cayma süresi sonunda yürürlüğe girer · iade **14 gün** içinde · **ispat yükü satıcıda** (md. 8/7)
+- **md. 9 dönme tazminatı:** 0–3 ay **%2** · 3–6 ay **%4** · 6–12 ay **%6** · 12–24 ay **%8** + vergi/harçlar. **Hiç alınamaz** eğer: satıcı temerrüde düşmüşse, tüketici vefat etmişse, kalıcı iş görmezlik hali varsa, satıcı taksitli satışa dönüştürmeyi reddetmişse, **veya bir konut birden fazla tüketiciye satılmışsa**
+- **md. 12 teminat türleri:** bina tamamlama sigortası **veya** banka teminat mektubu / **hakediş sistemi** (bloke hesap, inşaat ilerlemesine göre serbest bırakılır, banka komisyonu alınmaz) / bağlı kredi ile teminat
+
+### 🔴 Ön ödemeli konutta 2026 ceza tutarları (RG 23.12.2025 / 33116)
+| İhlal | 2026 TL |
+|---|---|
+| md. 40/3 — **yapı ruhsatı olmadan sözleşme** | **1.987.014** |
+| md. 42 — **teminat alınmaması** (1 ay düzeltme süresi sonrası) | **9.935.181** |
+| md. 44 — geç teslim | **446.627 / teslim edilmeyen konut** |
+| md. 40/2, 41, 43, 45, 46 — ön bilgilendirme, şekil, cayma, dönme | 19.827 / işlem |
+| md. 77/15 — bilgi vermeme (ön ödemeli konutta) | ~6.000.000 taban |
+
+---
+
+## Web Sitesi Hukuki Yükümlülükleri — kapsam dar
+
+### TTK md. 1524 — SADECE bağımsız denetime tabi şirketlere
+> "**397 nci maddenin dördüncü fıkrası uyarınca denetime tabi olan sermaye şirketleri**, kuruluşlarının ticaret siciline tescili tarihinden itibaren **üç ay içinde bir internet sitesi açmak** ... zorundadır"
+> "(6) İnternet sitesiyle ilgili olarak ... öngörülen düzenlemeler **denetime tabi olmayan sermaye şirketleri hakkında uygulanmaz.**"
+
+**→ Bağımsız denetime tabi değilse TTK 1524 web sitesi açma/ilan bölümü zorunluluğu YOK.** İçerik en az **6 ay** yayında kalmalı (1524/5).
+
+### TTK md. 39(2) — içerik listesi
+Sicil numarası · ticaret unvanı · işletme merkezi · (varsa) tescilli internet sitesi adresi · A.Ş.'de yönetim kurulu başkan ve üyelerinin ad-soyadı, Ltd.'de müdürlerin ad-soyadı · **taahhüt edilen ve ödenen sermaye miktarı**
+
+⚠️ md. 39(2)'nin son iki cümlesinin, TTK 1524 kapsamı dışındaki ama gönüllü web sitesi işleten bir şirketi bağlayıp bağlamadığı **yorum meselesi — birincil kaynaklı karar bulunamadı.** Güvenli taraf: bu bilgileri yayınla.
+
+### MERSİS / vergi no zorunluluğu — sadece e-ticaret yapanlara
+**6563 sayılı Kanun** + ETHS Yönetmeliği **md. 5(1)**: ana sayfada doğrudan ulaşılabilir **"iletişim"** başlığı altında ticaret unvanı, **MERSİS numarası**, merkez adresi, **KEP adresi**, e-posta, telefon, meslek odası bilgileri bulunmalı.
+
+⚠️ **KAPSAM:** Bu madde **"elektronik ticaret hizmet sağlayıcı" (ETHS)**'yı bağlıyor — 6563 md. 2/1-g'ye göre **sözleşme yapan veya sipariş alan** kişi. **Sözleşme yapmayan, sipariş almayan salt tanıtım/portfolyo sitesi ETHS değil** ve bu madde ona görünürde uygulanmaz.
+
+**→ "Her Türk ticari web sitesi MERSİS/vergi dairesi bilgisi göstermek zorundadır" yaygın iddiası, işlem yapmayan bir site için metinlerde karşılığı yok.** Tanıtım sitesi olduğu için Arkoz Müteahhitlik muhtemelen kapsam dışı — ama form üzerinden "teklif talebi" alınması durumu değiştirebilir, **hukukçuya sorulmalı.**
+
+### KVKK md. 10 — form aydınlatması (5 zorunlu unsur)
+Kişisel veri elde edilirken şu bilgiler verilmeli:
+1. Veri sorumlusunun ve varsa temsilcisinin **kimliği**
+2. Kişisel verilerin hangi **amaçla** işleneceği
+3. İşlenen verilerin **kimlere ve hangi amaçla aktarılabileceği**
+4. Veri toplamanın **yöntemi ve hukuki sebebi**
+5. md. 11'de sayılan **diğer haklar**
+
+**→ İletişim formunda 5 unsurun tamamı, gönderimden ÖNCE, formun yanında/üstünde açıklanmalı.**
+Tebliğ: Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar, 10.03.2018.
+**Ceza (md. 18/1-a):** aydınlatma yükümlülüğü 5.000–100.000 TL taban *(2016 rakamları, yıllık yeniden değerlemeye tabi — 2026 tablosu bulunamadı)*.
+
+### ⭐ KVKK Çerez Rehberi — GÜNCEL SÜRÜM TEMMUZ 2025 (2022 değil)
+**KVKK Yayınları No: 69, Temmuz 2025, Ankara**
+
+**İki muafiyet kriteri:**
+- **Kriter A:** çerez sadece iletişimin elektronik haberleşme şebekesi üzerinden sağlanması amacıyla kullanılıyorsa
+- **Kriter B:** çerez, kullanıcının hizmet almak için **açıkça talep ettiği** bilgi toplum hizmetleri için **kesinlikle gerekli** ise
+
+Bu kriterler dışındaki çerezler hukuki sebep gerektirir; md. 5/6'da rıza dışı sebep yoksa **açık rıza** şart.
+
+**Tasarım kuralları (birebir/yakın alıntı):**
+- *"...siteye girildiği anda bir çerez yönetim paneli çıkması ve söz konusu panelde **eşit derecede (renk, büyüklük, punto açısından) "kabul et", "reddet" ve "tercihler" butonlarının sunulması** iyi uygulama örneği olabilecektir."* → **"Reddet" butonu "Kabul et" ile eşit görünürlükte olmalı**
+- *"...açık rıza ile işlenmesi gereken çerezlerin yönetim panelinde **ilk elde pasif biçimde gelmesi** önem arz etmektedir."* → **opt-in, varsayılan kapalı**
+- *"...**opt-out** ... bir sistemin değil, **opt-in** yani bireyin bilinçli eylemi ile ... onay vereceği bir sistemin kullanılması gerekmektedir."*
+- **Aydınlatma metni ile çerez yönetim paneli AYRIŞTIRILMIŞ olmalı**
+- **Bundling yasak:** *"kullanım sözleşmesi veya koşulları gibi belgeler içerisine iliştirme (bundled) yöntemiyle açık rıza alınmasının mümkün olmayacağı"*
+- **Her amaç için ayrı rıza** + "Tercihleri Yapılandır" butonu
+- **"Consent fatigue":** her ziyarette rıza tekrar istenmemeli; çerez ömrüyle orantılı olarak **periyodik hatırlatılmalı**
+
+**🔴 EK-5'te açıkça KÖTÜ ÖRNEK sayılanlar:**
+1. Eşit "Hepsini Kabul Et" / "Hepsini Reddet" / "Tercihler" butonları sunmamak, muğlak "daha fazla bilgi" linki
+2. Reddetme seçeneği olmayan tek "Kabul ediyorum" butonu
+3. Kategorileri önceden açık gelen opt-out tercih merkezi
+4. **"Sitemizi kullanarak, çerez kullanımına izin vermektesiniz"** — rehber net: *"sitenin kullanılmak suretiyle çerez kullanımına izin verilmesi **hukuka uygun bir kullanım şekli değildir**"*
+
+⚠️ Kriter A/B kapsamına giren çerezler için gereksiz yere açık rıza istemek de *"'hukuka ve dürüstlük kuralına uygun olma' ilkesiyle bağdaşmayacaktır."*
+
+### Ticari elektronik ileti (İYS)
+Ticari İletişim ve Ticari Elektronik İletiler Hakkında Yönetmelik: ileti göndermeden önce **İYS'ye kayıt** ve önceden onay şart. **Rıza kutuları önceden işaretli olamaz (md. 7/8)** · rıza hizmet koşulu yapılamaz (7/9) · **ispat yükü hizmet sağlayıcıda (7/10)** · sözleşmeye gömülürse imzadan önce, "ticari elektronik ileti" başlığı altında, **en az 12 punto**.
+**md. 6 — onay gerekmeyen haller:** alıcı iletişim bilgisini kendisi vermişse, verilmiş mal/hizmetin değişiklik/kullanım/bakımı hakkında; devam eden abonelik/üyelik, tahsilat, borç hatırlatma, bilgi güncelleme, satın alma/teslimat bildirimleri **(ancak bu bildirimlerde ürün tanıtımı yapılamaz)**; **tacir/esnaf alıcılara** (reddetme hakkını kullanana kadar, adresleri önce İYS'ye kaydedilip kontrol edilmek şartıyla).
 
 ---
 
@@ -447,7 +640,7 @@ Türk medyasında en çok alıntılanan set ("güvenli yapı talebinde %25–40 
 
 ---
 
-## 11. Çapraz Doğrulama — 5 Ajan Arası Çözülen Çelişkiler
+## 11. Çapraz Doğrulama — 6 Ajan Arası Çözülen Çelişkiler
 
 5 bağımsız ajan çalıştı; birinin "doğrulanamadı" dediğini bir diğeri birincil kaynaktan doğruladı. Çözümler:
 
@@ -461,8 +654,11 @@ Türk medyasında en çok alıntılanan set ("güvenli yapı talebinde %25–40 
 | **4708 tüm 81 ilde** | ✅ **DOĞRULANDI** | BKK 2010/624, RG 13.07.2010 / 27640, yürürlük 01.01.2011 |
 | **TMB üye sayısı** | ⚠️ Çelişkili | Bir ajan 140, diğeri 136 saydı (28.07.2026). İkisi de kendi sayımı — TMB resmî rakam yayınlamıyor. **"yaklaşık 140" yaz veya sayı verme** |
 | **İNDER üyelik şartları** | ⚠️ Kısmen çelişkili | Bir ajan "referans yok" dedi (tüzük md. 3'e dayanarak), diğeri **"3 referans + 7.500 TL giriş + 3.600 TL yıllık"** buldu (yeni-uyelik sayfasından). **Sitedeki güncel bilgi daha güvenilir** |
-| **Belge sorgulaması anonim mi?** | ✅ **ÇÖZÜLDÜ — anonim** | Bir ajan "e-Devlet girişi gerekiyor, anonim deep-link yapılamaz" dedi. Diğeri **santiyem.csb.gov.tr'yi buldu — Müteahhit Sorgulama girişsiz çalışıyor.** Strateji uygulanabilir |
-| **Mali oranlar (cari/öz kaynak)** | ⚠️ Çelişkili | 0,75/0,15 vs **0,50/0,10**. Konsolide PDF (14.05.2026 dahil) 0,50/0,10 diyor → **onu kullan**, ama yayınlanacaksa tekrar teyit |
+| **Belge sorgulaması anonim mi?** | 🔴 **ÇÖZÜLDÜ — ANONİM DEĞİL** | Bir ajan "santiyem.csb.gov.tr girişsiz sorgulanıyor" dedi ve bu **YANLIŞTI**. Başka ajan sayfanın **HTML href'ini okudu** ve hedefi test etti: buton e-Devlet'e gidiyor, sayfa "Henüz kimliğinizi doğrulamadınız" döndürüyor. **e-Devlet girişi zorunlu.** Link verilebilir ama tek tık anonim doğrulama yok |
+| **Mali oranlar (cari/öz kaynak)** | ✅ **ÇÖZÜLDÜ — 0,75 / 0,15** | Bir ajan 0,50/0,10 dedi (eski metin). Diğeri **değişikliği açıkladı**: RG 26.12.2024/32764 ile 0,50→**0,75** ve 0,10→**0,15**, yürürlük 31.05.2025. Geçişi belgelediği için ikincisi doğru |
+| **Belge numarasını tabelada/reklamda göstermek zorunlu mu?** | ✅ **DOĞRULANMIŞ NEGATİF** | 6 birincil mevzuat tam metin tarandı (tabela/levha/pano/reklam/ilan) → **0 sonuç**. Zorunlu tek 3 yer: ruhsat, iskân belgesi, yapım sözleşmesi. Tabela imalatçısı sitelerinin iddiası dayanaksız |
+| **Belge numarası rekabet avantajı olarak kullanılabilir mi?** | 🔴 **HAYIR — md. 7/6** | Zorunlu ruhsat/izin/onay belgeleri, "diğerlerinden farklı ya da daha üstün olduğu algısı oluşturacak biçimde reklamlarda kullanılamaz". Şeffaflık olarak yayınla, üstünlük iddiası olarak değil |
+| **KVKK Çerez Rehberi sürümü** | ✅ **TEMMUZ 2025** | Bir ajan kvkk.gov.tr'den içerik alamadı. Diğeri PDF'i indirdi: "KVKK Yayınları No: 69 — Temmuz 2025". 2022 sürümü artık güncel değil |
 | **Kamu ihalelerinde YMBN zorunlu mu?** | ❌ **ÇÖZÜLMEDİ** | Bir ajan "Kamu İhale Genel Tebliği 53.4 ile zorunlu" dedi. Diğeri **md. 2/2'yi** buldu — sınıflandırma 4734/2886 işlerine uygulanmaz, ve Yapım İşleri Uygulama Yönetmeliği'nde YMBN'ye atıf yok. **Siteye yazma** |
 | **Yetki belgesi geçerliliği** | ✅ **DOĞRULANDI** | **5 yıl** (md. 19/1, Değişik 26.12.2024/32764 — eskiden 4 yıl) |
 | **Müteahhitlik karnesi** | ✅ **DOĞRULANMIŞ NEGATİF** | İki ayrı yönden: TMB üyeliğinde karne şartı yok **ve** Yapım İşleri Uygulama Yönetmeliği md. 51 "ihalelerde iş deneyimini tevsik eden belge olarak kullanılamaz" |
