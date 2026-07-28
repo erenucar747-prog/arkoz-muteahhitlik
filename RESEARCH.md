@@ -713,11 +713,31 @@ Rakip analizinde 13/14 site **"X yıldır sektörde"** diyor ve bu yeni şirketl
 ### Eksikler — senden gelmesi gerekenler
 Web sitesi (yok) · e-posta · **yetki belge numarası ve grubu** · vergi no · Mersis no · ticaret sicil no · KEP adresi · VERBİS no · logo · proje listesi · fotoğraflar
 
+### ✅ Gemikaya bağlantısı ÇÖZÜLDÜ
+**Emin Uçar** hem **Arkoz Holding** hem **Gemikaya Holding** yönetim kurulu başkanı — iki marka aynı sahiplikte. Bu yüzden aynı binada, aynı kuruluş yılıyla (2006) iki kayıt var:
+
+| Şirket | Detay |
+|---|---|
+| Arkoz Dış Ticaret İnşaat Taahhüt ve San. Ltd. Şti. | 2006, 25–49 çalışan |
+| **Gemikaya İnşaat Taahhüt Nakliyat ve Dış Tic. Ltd. Şti.** | **2006, 201–500 çalışan**, aynı Ümraniye adresi |
+
+### ⭐ Gemikaya İnşaat'ın portföyü (LinkedIn) — gerçek inşaat sicili
+Azerbaycan / Gürcistan / Belarus'ta: **devlet binaları · HES · güneş enerjisi · yollar · otoyollar · hastaneler**
+Gürcistan'da konut: **900 birim (devam ediyor) + 350 birim (tamamlandı)**
+
+⚠️ Bu portföy **Gemikaya** markası altında. Siteye konulacaksa hangi tüzel kişinin işi olduğu net yazılmalı — başka şirketin işini kendi işi gibi göstermek Reklam Yön. md. 7/5-c (statü/yetki alanı hakkında yanıltıcı beyan) ihlali olur.
+⚠️ Gemikaya İnşaat Instagram hesabı **2020'den beri sessiz**. `gemikaya.com`, `gemikaya.com.tr`, `gemiqaya.com` — hepsi ölü.
+
+### 🔴 2024–2026 arası yeni inşaat/müteahhitlik/kentsel dönüşüm girişimi YOK
+"Arkoz kentsel dönüşüm", "Arkoz müteahhitlik", "Arkoz inşaat konut proje", "Arkoz inşaat 2026" aramaları **sıfır sonuç**. Grubun açıkladığı 2024–2026 hamleleri sadece çimento (Kars) ve halka arz başvurusu.
+
+**→ Yani bu site, kamuya duyurulmamış bir faaliyeti tanıtacak. İçerik tamamen senden gelmeli.**
+
 ### ⚠️ Netleşmesi gerekenler
-1. **Bina adı çelişkisi:** EMIS "Arkoz İş Merkezi", kariyer.net "Gemikaya İş Merkezi" diyor. Aynı bina. Hangisi doğru?
-2. **Gemikaya bağlantısı:** kariyer.net bu şirketin "Hakkında" metninde *"Gemikaya İnşaat 2006 yılında kurulmuştur... TİM'in Türkiye'nin en büyük ihracatçıları sıralamasında yer almaktadır"* yazıyor ve web sitesi olarak `gemikaya.com` gösteriyor (site ölü). İlişki ne?
-3. **Ayrıca kayıtlı:** *Arkoz Müteahhitlik İnşaat Taahhüt Turizm ve Dış Ticaret A.Ş.* — DAİB üyesi, il **Ağrı** (sıra 290). Bu ayrı tüzel kişi. Site hangisi için?
-4. **Yandex'te hiç yorum/puan yok** — Google Business profili varsa oradaki durum kontrol edilmeli. Sitede yorum gösterilecekse gerçek olmalı (Reklam Yön. md. 16 tanıklı reklam).
+1. **Site hangi tüzel kişi için?** Üç aday: Arkoz Dış Ticaret Ltd. (Ümraniye) · Gemikaya İnşaat Ltd. (Ümraniye) · Arkoz Müteahhitlik A.Ş. (Ağrı kayıtlı)
+2. **Bina adı:** EMIS "Arkoz İş Merkezi", kariyer.net "Gemikaya İş Merkezi" diyor. Tabelada hangisi yazıyor?
+3. **Gemikaya portföyü kullanılacak mı?** Kullanılacaksa hangi işin hangi şirkete ait olduğu ayrıştırılmalı.
+4. **Yandex'te hiç yorum/puan yok** — Google Business profili varsa kontrol edilmeli. Sitede yorum gösterilecekse gerçek olmalı (Reklam Yön. md. 16).
 
 ---
 
