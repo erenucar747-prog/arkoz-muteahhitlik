@@ -2,6 +2,7 @@
 
 > **Durum:** Bilgi toplama aşaması. Site henüz yapılmıyor.
 > **Tarih:** 2026-07-28
+> **Kapsam:** Sadece Arkoz Müteahhitlik İnşaat Taahhüt Turizm ve Dış Tic. A.Ş.
 > **Kaynak:** 7 bağımsız araştırma ajanı, birincil kaynaklardan (mevzuat.gov.tr, Resmî Gazete, kurum siteleri) doğrulanmış.
 
 ⚠️ **KURAL:** Bu dosyada "DOĞRULANMADI" olarak işaretlenen hiçbir bilgi siteye konulmayacak. Reklam Kurulu 2026'nın ilk 7 ayında yanıltıcı reklam için 185M TL ceza kesti.
@@ -482,7 +483,7 @@ Yönetmelikte süperlatiflere ayrılmış madde **yok** — md. 7 + md. 9 üzeri
 
 ---
 
-## Web Sitesi Hukuki Yükümlülükleri — kapsam dar
+### Web Sitesi Hukuki Yükümlülükleri — kapsam dar
 
 ### TTK md. 1524 — SADECE bağımsız denetime tabi şirketlere
 > "**397 nci maddenin dördüncü fıkrası uyarınca denetime tabi olan sermaye şirketleri**, kuruluşlarının ticaret siciline tescili tarihinden itibaren **üç ay içinde bir internet sitesi açmak** ... zorundadır"
@@ -684,141 +685,62 @@ Türk medyasında en çok alıntılanan set ("güvenli yapı talebinde %25–40 
 
 ---
 
-## 13. ⭐ ARKOZ HOLDİNG YAPISI — Doğrulanmış Kurumsal Harita
+## 13. Arkoz Müteahhitlik — Doğrulanabilen Tek Bilgi
 
-### 🎯 EN ÖNEMLİ BULGU: Ümraniye'deki şirket 2006'dan beri faaliyette
+**Tam yasal ünvan:**
+> Arkoz Müteahhitlik İnşaat Taahhüt Turizm ve Dış Ticaret Anonim Şirketi
 
-**Arkoz Dış Ticaret İnşaat Taahhüt ve Sanayi Limited Şirketi** — İstanbul/Ümraniye
-- ✅ **Adres: "Arkoz İş Merkezi" D:1 No:35, Şerifali Mahallesi Türker Caddesi, Ümraniye/İstanbul 34775**
-  → Kullanıcının bahsettiği "Arkoz İş Merkezi" **EMIS tarafından doğrulandı**
-- ✅ **Kuruluş: 23 Ocak 2006** — yani **20 yıllık faaliyet geçmişi**
-- **Çalışan: 25–49** (kariyer.net bandı; EMIS'te tam sayı ücretli)
-- **Faaliyet: "Nonresidential Building Construction"** (konut dışı bina inşaatı) + İthalat-İhracat
-- **DAİB aktif ihracatçı üyesi** — sıra 288, İstanbul
+**Doğrulanan tek kayıt:** DAİB (Doğu Anadolu İhracatçılar Birliği) **aktif ihracatçı üyesi**, il: **Ağrı**.
+Kaynak: `daib.org.tr/wp-content/uploads/2025/12/AKTIF-UYE-LISTESI.pdf` (s. 8, sıra 290) — 92 sayfalık PDF'den birebir satır okundu.
 
-**→ BU, STRATEJİYİ TEMELDEN DEĞİŞTİRİYOR.** Daha önce "sicili olmayan yeni şirket" varsayımıyla çalışıyorduk. Ümraniye'deki tüzel kişi **2006'dan beri faaliyette** — yani rakiplerin 13/14'ünün kullandığı "X yıldır sektörde" sinyali **bu şirket için de kullanılabilir** ve doğrulanabilir bir olgu.
+### 🔴 Bunun dışında kamuya açık HİÇBİR veri yok
+Aranıp bulunamayan: adres · kuruluş tarihi · çalışan sayısı · sektör/NACE kodu · vergi no · Mersis no · ticaret sicil no · web sitesi · telefon · yetki belge numarası ve grubu · proje listesi · logo.
 
-⚠️ **KİMLİK ÇAKIŞMASI — dikkat:** kariyer.net aynı binayı **"Gemikaya İş Merkezi"** olarak yazıyor ve bu Arkoz kaydının "Hakkında" metninde bambaşka bir marka anlatılıyor: *"Merkezi İstanbul'da bulunan **Gemikaya İnşaat** 2006 yılında kurulmuştur. Ümraniye Şerifali lokasyonunda kurulu merkez binasında ithalat ihracat alanında hizmet vermektedir... Türkiye İhracatçılar Meclisi'nin (TİM) Türkiye'nin en büyük ihracatçıları sıralamasında yer almaktadır."* Her iki kaynak da web sitesi olarak **gemikaya.com** gösteriyor — ancak **gemikaya.com / gemikaya.com.tr çözümlenmiyor** (site ölü).
-**→ Arkoz–Gemikaya ilişkisi netleştirilmeli. Aynı bina, aynı kuruluş yılı (2006), aynı web sitesi kaydı.** Kullanıcıya sorulmalı.
+Denenen ve sonuç vermeyen kaynaklar: EMIS · kariyer.net · LinkedIn · dnb.com (JS shell) · zoominfo / apollo / crunchbase / rocketreach (403) · tendata (DNS ölü) · volza · kompass · TOBB üye portalı (giriş zorunlu) · TİM üyelik sorgulama (vergi no + reCAPTCHA gerekiyor) · Ticaret Sicil Gazetesi.
 
-### "Arkoz Müteahhitlik" — VAR, ama Ağrı'da kayıtlı
-**Arkoz Müteahhitlik İnşaat Taahhüt Turizm ve Dış Ticaret Anonim Şirketi**
-- ✅ Varlığı doğrulandı: **DAİB aktif ihracatçı üyesi, il: Ağrı** (sıra 290)
-- 🔴 **Başka hiçbir veri bulunamadı** — çalışan sayısı, adres, kuruluş tarihi, sektör kodu yok
-- ⚠️ **İli Ağrı, Ümraniye değil.** Kullanıcı "bina Ümraniye'de" dedi — Ümraniye adresi **Arkoz Dış Ticaret**'e ait
+**→ SONUÇ: Sitenin tüm şirkete özel içeriği senden gelmek zorunda.** İnternette şirket hakkında yayınlanacak hazır bilgi yok. Bu aslında bir avantaj: rakiplerin doldurduğu boşlukları (bkz. böl. 1) sıfırdan ve doğru şekilde doldurma imkânı var.
 
-**→ KULLANICIYA SORULACAK: Site hangi tüzel kişi için?**
-- **Arkoz Müteahhitlik A.Ş.** (Ağrı kayıtlı, veri yok) mı,
-- **Arkoz Dış Ticaret İnşaat Taahhüt Ltd. Şti.** (Ümraniye, Arkoz İş Merkezi, 2006, 20 yıl) mi?
-
-DAİB listesinde 288–290 sıraları üç Arkoz ihracatçısını yan yana koyuyor (İstanbul, Ağrı, Ağrı) — aynı grup olduğu güçlü gösterge.
-
-### Arkoz Madencilik Enerji Sanayi ve Ticaret A.Ş. — Ağrı
-Tek tam kimlik bilgisi yayınlayan şirket (kendi KVKK sayfasında):
-| Alan | Değer |
-|---|---|
-| Ticaret Sicil No | **1928** |
-| Mersis No | **0079-036-705500013** |
-| Vergi No / Dairesi | **0790367055** / Doğubayazıt |
-| Adres | Yalınsaz Köyü Yalınsaz Küme Evleri Blok No: 135 İç kapı No: 1, 04402 Doğubayazıt/AĞRI |
-| KEP | arkoz.madencilik@hs01.kep.tr |
-| Tel | +90 850 200 6404 · WhatsApp +90 537 395 60 38 |
-
-- **Kuruluş 2014** (Ağrı Çimento Fabrikasını kurmak üzere) · temel Ocak 2017 · **üretim Haziran 2018**
-- **400 çalışan** (kendi sitesindeki sayaç: `data-counter-end="400"`, "Çalışan Personel Sayısı") · LinkedIn bandı 201–500
-- Kapasite (kendi sitesi): 1.000.000 ton/yıl çimento, 900.000 ton/yıl klinker
-- ⚠️ Global Energy Monitor farklı diyor: çimento 1,30 mtpa / klinker 0,83 mtpa
-- Yatırım: ~600 milyon TL (LinkedIn) vs 500 milyon TL (2018 haberi)
-- ÇEİS üyesi ("ARKOZ MADENCİLİK AĞRI ÇİMENTO") · DAİB üyesi sıra 289
-
-**🆕 ÜÇ ÇİMENTO FABRİKASI (brifingde yoktu):**
-| Fabrika | Başlangıç | Çimento | Klinker |
-|---|---|---|---|
-| Doğubayazıt / Ağrı | 2017 | 1,30 mtpa | 0,83 mtpa |
-| **Kars** | **1976** | 0,60 mtpa | 0,44 mtpa |
-| **Gazakh, AZERBAYCAN** (Dash Salahli, Qazax) | **2013** | 1,30 mtpa | 1,27 mtpa |
-
-**Sahibi: "İş adamı Emin Uçar"** — 2018 açılışında Başbakan Binali Yıldırım: *"Emin Bey hem Azerbaycan hem Nahçıvan hem de Türkiye'nin değişik yerlerinde güzel projeler, işler yapıyor"*
-
-### Arkoz Gaz Beton Sanayi ve Ticaret A.Ş. — Havza OSB, Samsun
-- **"Arkoz Holding bünyesinde faaliyet gösteren Arkoz Gazbeton"** — holding varlığı kendi sitesinde doğrulandı
-- Adres: Bekdiğin Mah. Havza OSB Cd. No:18/1 Havza/Samsun · Tel 0850 317 55 55
-- **100 çalışan (2026)** — EMIS · LinkedIn bandı 51–200
-- Kapasite **450.000 m³**
-- ⚠️ **Kuruluş tarihi 3 farklı:** EMIS **20 Temmuz 2017** · LinkedIn **2020** · Havza OSB'de 2025 Ç1'de yeni ön tahsis olarak geçiyor
-- ⚠️ **3 farklı yasal ad:** "Arkoz Gaz Beton Sanayi Ve Ticaret A.Ş." · "ARKOZ SAMSUN GAZBETON FABRİKASI A.Ş." · "Arkoz Gaz Beton San.Tic A.Ş."
-- Finansal (EMIS, 2024): net satış **+%30,54** · toplam aktif **+%34,58** · net kâr marjı **−%21,07**
-- Havza OSB'de 31 firma / 795 kişi istihdam — Arkoz **ilk sırada** listeleniyor; parseller %100 dolu
-- 🔴 **arkozgazbeton.com.tr KVKK sayfasında yasal ad, vergi no, Mersis, ticaret sicil ve VERBİS numarası YOK** — sadece adres. Arkoz Madencilik bunları yayınlıyor, Gazbeton yayınlamıyor. **Uyum açığı.**
-
-### 🔴 KRİTİK: "5000+ çalışan" bilgisi DOĞRULANMADI
-Proje hafızasındaki "5000+ employee" rakamının **hiçbir kaynakta karşılığı yok.**
-
-Doğrulanan en yüksek rakamlar:
-| Şirket | Çalışan |
-|---|---|
-| Arkoz Madencilik | **400** (kendi sitesi) |
-| Arkoz Gaz Beton | **100** (EMIS 2026) |
-| Arkoz Dış Ticaret | **25–49** (kariyer.net) |
-| Arkoz Müteahhitlik | veri yok |
-| **Toplam (doğrulanan)** | **~500–650** |
-
-2018 açılışındaki "600 doğrudan / 1.600 dolaylı" rakamı bir **projeksiyon**, gerçekleşen istihdam değil.
-
-⚠️ **Bu, KVKK/VERBİS eşik değerlendirmesini etkiliyorsa bordro üzerinden kontrol edilmeli.** *(Not: VERBİS yükümlülüğü için 50+ çalışan eşiği zaten aşılıyor, dolayısıyla uyum sonucu değişmiyor — ama sayının kendisi yanlış.)*
-
-### Bulunamayan / doğrulanamayan
-- **Gerçek NACE kodları** — bulunan her şey özel taksonomi (kariyer.net kodları, EMIS açıklamaları, LinkedIn etiketleri). **Hiçbirini NACE olarak sunma.**
-- Arkoz Müteahhitlik için ad ve il dışında hiçbir veri
-- Entity 2, 3, 4 için vergi/Mersis/ticaret sicil numaraları
-- **arkozholding.com / .com.tr çözümlenmiyor** — holding'in web sitesi yok
-- Hiçbir kaynakta **"kentsel dönüşüm"** ifadesi hiçbir Arkoz şirketi için geçmiyor
-- Engellenen kaynaklar: zoominfo, apollo, crunchbase, rocketreach, dnb (JS shell), tendata (DNS), volza, kompass — hepsi 403/ölü
+⚠️ **Ümraniye notu:** DAİB kaydında şirketin ili **Ağrı** olarak geçiyor, İstanbul değil. Sen "bina Ümraniye'de" ve "Arkoz İş Merkezi olarak geçiyor" dedin. Bu ikisi çelişmiyor olabilir (kayıtlı merkez ile faaliyet adresi farklı olabilir) ama **siteye adres yazılmadan önce netleşmeli** — yanlış adres hem KVKK künyesi hem de Reklam Yönetmeliği md. 7/5-c (şirketin statüsü/yetki alanı hakkında yanıltıcı beyan) açısından risk.
 
 ---
 
-## 14. Arkoz Gazbeton — Mevcut Marka Sistemi (referans)
+## 14. Teknik Referans — Bu Proje İçin Seçilen Yığın
 
-*Kaynak: C:\Users\ROG\Arkoz\CLAUDE.md*
+Senin tercihin: **saf HTML/CSS/JS + GitHub Pages** (build adımı yok).
 
-- **Arkoz Gazbeton** — Havza, Samsun · 450.000 m³ kapasiteli tesis · arkozgazbeton.com.tr
-- Ürünler: Arkoz Blok, Asmolen
-- **Birincil renk: `#B8A88A`** (krem/bej) · koyu zemin `#0a0a0a`, `#111` · açık zemin `#ffffff`, `#f8f8f8`
-- **Font: Inter** (300/400/600/700/900)
-- Kartlar `border-radius: 12px` · butonlar `border-radius: 50px`
+Mevcut Arkoz repo'nda işe yarayan ve bu projede de uygulanabilir olan teknik pratikler:
 - **BEM** CSS metodolojisi (`blok__element--modifier`)
-- Saf HTML/CSS/JS — framework yok · Three.js r128 (CDN) WebGL shader animasyonları
-- Deploy: GitHub Actions → GitHub Pages (`gh-pages` branch)
+- CSS değişkenleri `:root` içinde
+- Animasyonlarda `transform` ve `opacity` (GPU hızlandırma)
+- Breakpoint'ler: `768px` (tablet), `480px` (mobil)
+- Tüm `<img>` etiketlerinde `alt` + `loading="lazy"`
+- `<script>` etiketleri `defer` ile veya `</body>` öncesinde
+- Erişilebilirlik: `aria-label`, `aria-hidden`
+- Deploy: GitHub Actions → GitHub Pages
 
-### ⛔ Arkoz repo'sundan devralınan sert kurallar
-- **Animasyonlar, renkler, görsel efektler değiştirilmez** — 2 ayrı oturumda revert ile pekiştirildi
-- API anahtarı JS dosyasına yazılmaz
-- İstenmeden ek özellik / "iyileştirme" eklenmez
+⛔ **Geçmiş oturumlardan sert kural:** animasyonlar, renkler ve görsel efektler bir kez onaylandıktan sonra değiştirilmez. Bu kural iki ayrı oturumda revert ile pekiştirilmiş. Ayrıca istenmeden ek özellik / "iyileştirme" eklenmez, API anahtarı JS dosyasına yazılmaz.
+
+**Marka kimliği:** Arkoz Müteahhitlik ayrı bir şirket olduğu için **kendi görsel kimliği** olacak. Renk paleti, tipografi ve logo senden gelecek ya da birlikte belirlenecek.
 
 ---
 
 ## 15. Açık Sorular — Kullanıcıdan Beklenen
 
-### 🔴 Önce cevaplanması gerekenler (site mimarisini belirliyor)
+### 🔴 Site yapılmadan önce şart olan tek soru
+**Hedef kitle kim?** Rakip analizinde iki arketip neredeyse hiç örtüşmüyor (bkz. böl. 1):
+- **Arsa sahibi** (kat karşılığı / kentsel dönüşüm) → Hizmetler, Süreç, Bölgeler, Teklif Al
+- **Daire alıcısı** → Projeler, Kurumsal, Basın, Kariyer
+- **Kamu ihalesi / kurumsal müşteri** → Referanslar, Kapasite, Belgeler
 
-1. **Site HANGİ tüzel kişi için?** İki aday var:
-   - **Arkoz Müteahhitlik İnşaat Taahhüt Turizm ve Dış Tic. A.Ş.** — Ağrı kayıtlı, kamuya açık veri yok
-   - **Arkoz Dış Ticaret İnşaat Taahhüt ve San. Ltd. Şti.** — **Ümraniye, Arkoz İş Merkezi, 23.01.2006 kuruluş, 25–49 çalışan**
-   → Ümraniye adresi ikincisine ait. Kullanıcı "bina Ümraniye'de" dedi.
-   → Cevap, "20 yıllık geçmiş" anlatısının kullanılıp kullanılamayacağını belirliyor.
+Bu cevap tüm site mimarisini belirliyor.
 
-2. **Arkoz–Gemikaya ilişkisi ne?** Aynı bina, aynı kuruluş yılı (2006), kariyer.net'te "Gemikaya İş Merkezi" ve "Gemikaya İnşaat" olarak, web sitesi kaydı gemikaya.com (ölü). Marka karışıklığı riski var.
-
-3. **Hedef kitle?** Arsa sahibi (kat karşılığı) / daire alıcısı / kamu ihalesi / kurumsal müşteri — iki site arketipi neredeyse hiç örtüşmüyor (bkz. böl. 1).
-
-4. **Yetki belge numarası ve grubu var mı?** Varsa sitenin en değerli içeriği (ama üstünlük iddiası olarak sunulamaz — md. 7/6).
-
-### Sonra gerekenler
-- [ ] Arkoz İş Merkezi Google Maps linki *(adres doğrulandı: Şerifali Mah. Türker Cad. No:35, Ümraniye 34775)*
+### Site yazılırken lazım olacaklar
+- [ ] **Yetki belge numarası ve grubu** — varsa en değerli içerik *(üstünlük iddiası olarak değil, şeffaflık olarak — md. 7/6)*
+- [ ] Faaliyet adresi + Google Maps linki *(DAİB kaydı Ağrı diyor, sen Ümraniye dedin — netleşmeli)*
+- [ ] Kuruluş tarihi / faaliyet süresi
 - [ ] Geçmiş projeler — ada/parsel, m², birim sayısı, ruhsat/iskân tarihleri
-- [ ] Fotoğraflar (kullanıcı gönderecek)
-- [ ] Logo / marka dosyaları
-- [ ] Gazbeton ile çapraz link verilecek mi? *(Holding varlığı doğrulandı)*
-- [ ] Arkoz Müteahhitlik A.Ş.'nin vergi no / Mersis / ticaret sicil no — künye için
-- [ ] **Gerçek çalışan sayısı** (bordro) — "5000+" doğrulanamadı, ~500–650 görünüyor
-- [ ] Kars ve Azerbaycan/Gazakh fabrikaları gruba ait mi, sitede anılacak mı?
+- [ ] Fotoğraflar
+- [ ] Logo / marka dosyaları, renk tercihi
+- [ ] Künye için: vergi no, Mersis no, ticaret sicil no, KEP adresi
+- [ ] İletişim: telefon, e-posta
+- [ ] KVKK: veri sorumlusu kimliği, VERBİS no (varsa), başvuru e-postası
