@@ -185,17 +185,17 @@ h1, h2, h3 { color: var(--murekkep); line-height: 1.1; font-weight: 800; letter-
   gap: clamp(2rem, 5vw, 4.5rem); align-items: start;
 }
 .kurumsal__gorsel { position: sticky; top: calc(var(--header-boy) + 1.5rem); }
-.kurumsal__gorsel figcaption { font-size: .875rem; color: var(--soluk); margin-top: .75rem; }
+.kurumsal__gorsel figcaption { font-size: .875rem; color: var(--govde-renk); margin-top: .75rem; }
 .alinti {
   border-left: 3px solid var(--kirmizi);
   padding: var(--s2) var(--s3);
   margin-block: var(--s4);
   font-size: 1.15rem; font-weight: 600; color: var(--murekkep);
 }
-.alinti footer { font-size: .9rem; font-weight: 400; color: var(--soluk); margin-top: .5rem; }
+.alinti footer { font-size: .9rem; font-weight: 400; color: var(--govde-renk); margin-top: .5rem; }
 
 .degerler { display: grid; grid-template-columns: repeat(2, 1fr); gap: var(--s3); }
-.deger-kart { background: var(--beyaz); border-left: 3px solid var(--kirmizi); padding: var(--s4); }
+.deger-kart { background: var(--beyaz); border-top: 2px solid var(--kirmizi); padding: var(--s4); }
 .bolum--krem .deger-kart { background: var(--beyaz); }
 .deger-kart h3 { font-size: 1.15rem; margin-bottom: .75rem; }
 .deger-kart p { font-size: .95rem; }
