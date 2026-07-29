@@ -70,6 +70,6 @@
     lb.addEventListener('click', (e) => {
       if (e.target === lb || e.target.closest('.lightbox__kapat')) lb.close();
     });
-    lb.addEventListener('close', () => { resim.src = ''; });
+    lb.addEventListener('close', () => { resim.removeAttribute('src'); });
   }
 })();
