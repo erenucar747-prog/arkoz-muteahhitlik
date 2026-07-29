@@ -2,7 +2,8 @@
 
 ## Proje
 - Arkoz Müteahhitlik için *tanıtım web sitesi* (kurumsal vitrin; e-ticaret yok, KVKK/yasal metin yok).
-- Repo: github.com/erenucar747-prog/<REPO_ADI> — GitHub Pages'te yayınlanır.
+- Repo: github.com/erenucar747-prog/arkoz-muteahhitlik — GitHub Pages'te yayınlanır.
+  Yayın adresi: https://erenucar747-prog.github.io/arkoz-muteahhitlik/
 - Bağımsız proje: Arkoz GazBeton sitesiyle veya diğer projelerle KARIŞTIRMA.
 - Yanıtlar ve site içeriği Türkçe.
 
