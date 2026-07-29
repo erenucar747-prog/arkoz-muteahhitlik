@@ -71,6 +71,16 @@ Sitedeki 42 projeden **sadece 3 tanesi konut**. Diğerleri HES/GES, hastane, tiy
 
 ---
 
+### ⭐ ARSİM Yalı Zeytinburnu (Eren'in yönlendirdiği kaynak: arsim-three.vercel.app)
+- **Konum:** Sümer Mahallesi kentsel dönüşüm alanı, Zeytinburnu/İstanbul — Marmara kıyısı ve tarihi yarımada yakını
+- **Kapsam:** 6 konut bloğu + 1 ofis bloğu · **toplam 1.983 daire**
+- **Daire tipleri:** 1+1 366 adet (55,55 m²) · 2+1 329 (72,80 m²) · 2+1 ayrı mutfaklı 877 (96,70 m²) · 2+1 dubleks 82 (110,60 m²) · 3+1 329 (120,45 m²)
+- **Özellikler:** yeşil avlular, çatı bahçeleri, çocuk oyun alanları, açık spor, sosyal teraslar, zemin katta kafe/restoran/mağaza, yaya promenadı, marina yakınlığı
+- **Slogan:** "Modern Yaşamın Yeni Mimarisi"
+- **Görseller:** 8 render, **1920×1357** → `assets/projeler/arsim/`
+- ⚠️ Kaynak sitede geliştirici "MAQRO Construction & SİMTAY İnşaat" yazıyor; Eren talimatıyla sitede **Arkoz Müteahhitlik projesi** olarak geçecek
+- İletişim kaynakta yok ("yakında eklenecektir")
+
 ## 4. İletişim
 
 | | |
