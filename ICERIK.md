@@ -137,3 +137,7 @@ CLAUDE.md'nin istediği 5 materyalin durumu:
 | 5. İletişim kanalları | ⚠️ Telefon/e-posta/adres var; **WhatsApp ve sosyal medya YOK** |
 
 **Ayrıca gerekli:** Türkiye'deki konut projeleri (mevcut 3'ü de yurt dışı) · iş merkezi binasının fotoğrafı · yeni sitenin alan adı kararı (`arkozmuteahhitlik.com` boşta duruyor).
+
+## 7. Eren Düzeltmeleri (2026-07-29 — sözlü, bağlayıcı)
+- **Faaliyet coğrafyası:** Türkiye, Gürcistan, Azerbaycan ve **Belarus** (Belarus'ta da konut projesi var). "Yalnız Gürcistan" ifadesi yanlış — sitede düzeltildi.
+- **Görsel kalite kuralı:** GD/GB/Elit 1170×530 görselleri tam genişlikte yumuşak kaldığı için ≤640px (projeler) ve ~360px (vitrin kartı) gösterimine alındı. Orijinaller gelirse büyütülecek.

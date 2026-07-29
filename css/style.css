@@ -156,7 +156,7 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 /* ---------- Proje vitrini (asimetrik) ---------- */
 .vitrin {
   display: grid; gap: var(--s3);
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 .proje-kart { position: relative; display: block; overflow: hidden; background: var(--koyu); }
 .proje-kart--genis { grid-column: 1 / -1; }
@@ -167,7 +167,7 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 }
 .proje-kart:hover img { transform: scale(1.03); opacity: 1; }
 .proje-kart--genis img { aspect-ratio: 21 / 9; }
-.proje-kart:not(.proje-kart--genis) img { aspect-ratio: 16 / 10; }
+.proje-kart:not(.proje-kart--genis) img { aspect-ratio: 4 / 3; }
 .proje-kart__yazi {
   position: absolute; inset: auto 0 0 0; padding: clamp(1rem, 3vw, 1.75rem);
   background: linear-gradient(transparent, rgba(37, 37, 37, .82));
@@ -214,6 +214,8 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 .proje { scroll-margin-top: calc(var(--header-boy) + 1rem); }
 .proje__kapak { position: relative; }
 .proje__kapak img { width: 100%; }
+.proje__gorsel-orta { max-width: 640px; margin-bottom: var(--s4); }
+.proje__gorsel-orta img { width: 100%; }
 .proje__izgara {
   display: grid; grid-template-columns: 7fr 5fr;
   gap: clamp(2rem, 5vw, 4rem); margin-top: var(--s4); align-items: start;
