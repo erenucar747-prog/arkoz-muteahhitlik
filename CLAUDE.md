@@ -3,7 +3,7 @@
 ## Proje
 - Arkoz Müteahhitlik için *tanıtım web sitesi* (kurumsal vitrin; e-ticaret yok, KVKK/yasal metin yok).
 - Repo: github.com/erenucar747-prog/arkoz-muteahhitlik — Vercel'de yayınlanır
-  (push → otomatik deploy). Eski GitHub Pages yayını Faz 12'de kapatılacak.
+  (push → otomatik deploy). Eski GitHub Pages yayını kapatıldı (2026-07-31).
 - Bağımsız proje: Arkoz GazBeton sitesiyle veya diğer projelerle KARIŞTIRMA.
 - Yanıtlar ve site içeriği Türkçe.
 
