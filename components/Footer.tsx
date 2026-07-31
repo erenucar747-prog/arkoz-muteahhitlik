@@ -18,7 +18,6 @@ export default async function Footer() {
     { href: "/sektorler", etiket: nav("sektorler") },
     { href: "/bizden-haberler", etiket: nav("haberler") },
     { href: "/kariyer", etiket: nav("kariyer") },
-    { href: "/referanslar", etiket: nav("referanslar") },
     { href: "/iletisim", etiket: nav("iletisim") },
   ];
 

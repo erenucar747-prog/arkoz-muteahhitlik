@@ -15,6 +15,17 @@
     "atlama": "Skip to content",
     "tel": "+90 216 466 16 10"
   },
+  "Hakkimizda": {
+    "ustbaslik": "Corporate",
+    "isMerkeziAlt": "Arkoz Business Center, Ümraniye / İstanbul",
+    "degerlerUst": "Our Values",
+    "degerlerBaslik": "The principles that define us"
+  },
+  "Sektorler": {
+    "ustbaslik": "Fields of Activity",
+    "baslik": "Sectors",
+    "projeSayisi": "{adet} projects"
+  },
   "Projeler": {
     "ustbaslik": "Our Projects",
     "baslik": "All Projects",

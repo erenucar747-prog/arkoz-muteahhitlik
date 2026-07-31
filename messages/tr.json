@@ -15,6 +15,17 @@
     "atlama": "İçeriğe geç",
     "tel": "+90 216 466 16 10"
   },
+  "Hakkimizda": {
+    "ustbaslik": "Kurumsal",
+    "isMerkeziAlt": "Arkoz İş Merkezi, Ümraniye / İstanbul",
+    "degerlerUst": "Değerlerimiz",
+    "degerlerBaslik": "Bizi biz yapan ilkeler"
+  },
+  "Sektorler": {
+    "ustbaslik": "Faaliyet Alanları",
+    "baslik": "Sektörler",
+    "projeSayisi": "{adet} proje"
+  },
   "Projeler": {
     "ustbaslik": "Projelerimiz",
     "baslik": "Tüm Projeler",
