@@ -35,6 +35,27 @@
     "m2Kolon": "m²",
     "kapat": "Kapat"
   },
+  "Haberler": {
+    "ustbaslik": "Bizden Haberler",
+    "baslik": "Haberler",
+    "bos": "Haber içeriklerimiz yakında burada yayımlanacak. Bu süre içinde projelerimizi inceleyebilirsiniz.",
+    "projelereGit": "Projelerimize Göz Atın"
+  },
+  "Kariyer": {
+    "ustbaslik": "Kariyer",
+    "baslik": "Bizimle Çalışın",
+    "metin": "Açık pozisyonlar ve başvurular için özgeçmişinizi e-posta ile iletebilirsiniz.",
+    "basvur": "Başvuru Yap"
+  },
+  "Iletisim": {
+    "ustbaslik": "İletişim",
+    "baslik": "Bize Ulaşın",
+    "merkezBaslik": "Merkez Ofis",
+    "adres": "Şerifali Mah. Türker Cad. No:35 Arkoz İş Merkezi, Ümraniye / İstanbul",
+    "haritaBaslik": "Arkoz İş Merkezi konumu — Google Haritalar",
+    "subelerUst": "Ofislerimiz",
+    "subelerBaslik": "Şubeler"
+  },
   "Footer": {
     "siteBaslik": "Site",
     "iletisimBaslik": "İletişim",
