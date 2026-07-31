@@ -176,6 +176,21 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 .proje-kart__ad { color: var(--beyaz); font-size: clamp(1.15rem, 2.4vw, 1.6rem); font-weight: 800; }
 .proje-kart__meta { font-size: .9rem; opacity: .92; margin-top: .25rem; }
 
+/* ---------- Sektör kartları ---------- */
+.sektor-izgara { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--s3); }
+.sektor-kart {
+  display: block; background: var(--beyaz);
+  border: 1px solid var(--cizgi); border-top: 2px solid var(--kirmizi);
+  padding: var(--s3);
+  transition: border-color var(--gecis), transform 150ms ease;
+}
+.sektor-kart:hover { border-color: var(--murekkep); transform: translateY(-2px); }
+.sektor-kart h3 { font-size: 1.05rem; margin-bottom: .5rem; }
+.sektor-kart p { font-size: .875rem; }
+
+@media (max-width: 1023px) { .sektor-izgara { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 479px) { .sektor-izgara { grid-template-columns: 1fr; } }
+
 /* ---------- CTA bandı ---------- */
 .cta { background: var(--kirmizi); color: var(--beyaz); }
 .cta__ic {

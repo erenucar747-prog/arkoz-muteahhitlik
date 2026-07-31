@@ -24,6 +24,17 @@
   "Anasayfa": {
     "baslik": "Arkoz Müteahhitlik",
     "slogan": "Enterprising, Innovative and Pioneering",
-    "heroAlt": "ARSİM Yalı Zeytinburnu — aerial view"
+    "heroAlt": "ARSİM Yalı Zeytinburnu — aerial view",
+    "projelerBtn": "Our Projects",
+    "iletisimBtn": "Contact",
+    "hakkimizdaUst": "About Us",
+    "detay": "Details",
+    "isMerkeziAlt": "Arkoz Business Center, Ümraniye / İstanbul",
+    "sektorlerUst": "Fields of Activity",
+    "sektorlerBaslik": "Sectors",
+    "projelerUst": "Our Projects",
+    "projelerBaslik": "Featured Projects",
+    "tumProjeler": "All Projects",
+    "ctaBaslik": "Our info line for your projects"
   }
 }

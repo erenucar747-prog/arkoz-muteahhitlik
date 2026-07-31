@@ -1,103 +1,93 @@
 {
- "slug": "green-diamond",
- "slugEn": "green-diamond",
- "category": "ust-yapi",
- "flagship": false,
- "title": {
-  "tr": "Green Diamond",
-  "en": "Green Diamond"
- },
- "body": {
-  "tr": [
-   "2.100 konut, kapalı otopark ve ticari alanlardan oluşan proje; geniş yeşil alanları, ferah mimarisi ve sosyal donatılarıyla ön plana çıkmıştır.",
-   "Green Diamond, Tiflis'te Avrupa standartlarında yaşamın simgelerinden biri hâline gelmiştir."
+  "slug": "green-diamond",
+  "slugEn": "green-diamond",
+  "category": "ust-yapi",
+  "flagship": false,
+  "title": {
+    "tr": "Green Diamond",
+    "en": "Green Diamond"
+  },
+  "body": {
+    "tr": [
+      "2.100 konut, kapalı otopark ve ticari alanlardan oluşan proje; geniş yeşil alanları, ferah mimarisi ve sosyal donatılarıyla ön plana çıkmıştır.",
+      "Green Diamond, Tiflis'te Avrupa standartlarında yaşamın simgelerinden biri hâline gelmiştir."
+    ],
+    "en": [
+      "A project consisting of 2,100 residential units with covered parking and commercial areas, distinguished by its extensive green spaces, spacious architecture, and social amenities.",
+      "Green Diamond has become one of the symbols of European-standard living in Tbilisi."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/green-diamond/katalog-02.jpg",
+    "w": 1743,
+    "h": 643
+  },
+  "gallery": [
+    {
+      "src": "/projeler/green-diamond/cover.jpg",
+      "w": 1170,
+      "h": 530
+    },
+    {
+      "src": "/projeler/green-diamond/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/green-diamond/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/green-diamond/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/green-diamond/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": [
-   "A project consisting of 2,100 residential units with covered parking and commercial areas, distinguished by its extensive green spaces, spacious architecture, and social amenities.",
-   "Green Diamond has become one of the symbols of European-standard living in Tbilisi."
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/green-diamond",
+    "en": "https://arkoz.wscp.net/en/project/green-diamond",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.35-36"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Tiflis, Gürcistan",
+        "en": "Tbilisi, Georgia"
+      }
+    },
+    {
+      "label": {
+        "tr": "Konut",
+        "en": "Residential units"
+      },
+      "value": {
+        "tr": "2.100",
+        "en": "2,100"
+      }
+    },
+    {
+      "label": {
+        "tr": "Donatılar",
+        "en": "Amenities"
+      },
+      "value": {
+        "tr": "Kapalı otopark, ticari alanlar, yeşil alanlar",
+        "en": "Covered parking, commercial areas, green spaces"
+      }
+    }
   ]
- },
- "cover": {
-  "src": "/projeler/green-diamond/katalog-00.jpg",
-  "w": 2326,
-  "h": 2469
- },
- "gallery": [
-  {
-   "src": "/projeler/green-diamond/katalog-01.jpg",
-   "w": 1738,
-   "h": 1235
-  },
-  {
-   "src": "/projeler/green-diamond/katalog-02.jpg",
-   "w": 1743,
-   "h": 643
-  },
-  {
-   "src": "/projeler/green-diamond/cover.jpg",
-   "w": 1170,
-   "h": 530
-  },
-  {
-   "src": "/projeler/green-diamond/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/green-diamond/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/green-diamond/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/green-diamond/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/green-diamond",
-  "en": "https://arkoz.wscp.net/en/project/green-diamond",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.35-36"
- },
- "kunye": [
-  {
-   "label": {
-    "tr": "Konum",
-    "en": "Location"
-   },
-   "value": {
-    "tr": "Tiflis, Gürcistan",
-    "en": "Tbilisi, Georgia"
-   }
-  },
-  {
-   "label": {
-    "tr": "Konut",
-    "en": "Residential units"
-   },
-   "value": {
-    "tr": "2.100",
-    "en": "2,100"
-   }
-  },
-  {
-   "label": {
-    "tr": "Donatılar",
-    "en": "Amenities"
-   },
-   "value": {
-    "tr": "Kapalı otopark, ticari alanlar, yeşil alanlar",
-    "en": "Covered parking, commercial areas, green spaces"
-   }
-  }
- ]
 }

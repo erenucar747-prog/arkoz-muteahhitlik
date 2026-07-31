@@ -1,67 +1,57 @@
 {
- "slug": "arkoz-mobilya-tesisleri",
- "slugEn": "maqro-mobilya-fabrikasi-mmc",
- "category": "sanayi",
- "flagship": false,
- "title": {
-  "tr": "Arkoz Mobilya Tesisleri — Glorya & Bellisa",
-  "en": "Arkoz Furniture Facilities — Glorya & Bellisa"
- },
- "body": {
-  "tr": [
-   "40.000 m² kapalı alana sahip modern fabrikalarımız, modüler ve dekorasyon mobilyası üretimi yapmaktadır."
+  "slug": "arkoz-mobilya-tesisleri",
+  "slugEn": "maqro-mobilya-fabrikasi-mmc",
+  "category": "sanayi",
+  "flagship": false,
+  "title": {
+    "tr": "Arkoz Mobilya Tesisleri — Glorya & Bellisa",
+    "en": "Arkoz Furniture Facilities — Glorya & Bellisa"
+  },
+  "body": {
+    "tr": [
+      "40.000 m² kapalı alana sahip modern fabrikalarımız, modüler ve dekorasyon mobilyası üretimi yapmaktadır."
+    ],
+    "en": [
+      "Our modern factories with 40,000 m² of enclosed area produce modular and decorative furniture."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/arkoz-mobilya-tesisleri/katalog-00.jpg",
+    "w": 3496,
+    "h": 1566
+  },
+  "gallery": [
+    {
+      "src": "/projeler/arkoz-mobilya-tesisleri/katalog-01.jpg",
+      "w": 3496,
+      "h": 1566
+    }
   ],
-  "en": [
-   "Our modern factories with 40,000 m² of enclosed area produce modular and decorative furniture."
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/maqro-mobilya-fabrikasi-mmc",
+    "en": "https://arkoz.wscp.net/en/project/maqro-mobilya-fabrikasi-mmc",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.77-78"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Kapalı alan",
+        "en": "Enclosed area"
+      },
+      "value": {
+        "tr": "40.000 m²",
+        "en": "40,000 m²"
+      }
+    },
+    {
+      "label": {
+        "tr": "Markalar",
+        "en": "Brands"
+      },
+      "value": {
+        "tr": "Glorya · Bellisa",
+        "en": "Glorya · Bellisa"
+      }
+    }
   ]
- },
- "cover": {
-  "src": "/projeler/arkoz-mobilya-tesisleri/katalog-00.jpg",
-  "w": 3496,
-  "h": 1566
- },
- "gallery": [
-  {
-   "src": "/projeler/arkoz-mobilya-tesisleri/katalog-01.jpg",
-   "w": 3496,
-   "h": 1566
-  },
-  {
-   "src": "/projeler/arkoz-mobilya-tesisleri/katalog-02.jpg",
-   "w": 1742,
-   "h": 1229
-  },
-  {
-   "src": "/projeler/arkoz-mobilya-tesisleri/katalog-03.jpg",
-   "w": 1742,
-   "h": 1229
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/maqro-mobilya-fabrikasi-mmc",
-  "en": "https://arkoz.wscp.net/en/project/maqro-mobilya-fabrikasi-mmc",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.77-78"
- },
- "kunye": [
-  {
-   "label": {
-    "tr": "Kapalı alan",
-    "en": "Enclosed area"
-   },
-   "value": {
-    "tr": "40.000 m²",
-    "en": "40,000 m²"
-   }
-  },
-  {
-   "label": {
-    "tr": "Markalar",
-    "en": "Brands"
-   },
-   "value": {
-    "tr": "Glorya · Bellisa",
-    "en": "Glorya · Bellisa"
-   }
-  }
- ]
 }

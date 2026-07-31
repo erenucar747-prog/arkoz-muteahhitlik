@@ -1,124 +1,114 @@
 {
- "slug": "azergold-altin-uretim-tesisi",
- "slugEn": "daskesen-chovdar-altin-madeni-projesi",
- "category": "insaat",
- "flagship": false,
- "title": {
-  "tr": "AzerGold Altın Üretim Tesisi (Çovdar)",
-  "en": "AzerGold Gold Production Facility (Chovdar)"
- },
- "body": {
-  "tr": [
-   "Azerbaycan Devlet Varlık Fonu için yaklaşık 1,5 yılda inşa edilen tesis, 2023'te işletmeye alınmıştır.",
-   "Proje kapsamında 571.000 m³ kapasiteli ham su barajı, 2 mm HDPE membranlı 8,5 milyon m³ atık depolama alanı (TSF) ve saatte 137 ton kapasiteli CIL altın işleme tesisi inşa edilmiştir. Toplam yatırım 160 milyon dolardır."
+  "slug": "azergold-altin-uretim-tesisi",
+  "slugEn": "daskesen-chovdar-altin-madeni-projesi",
+  "category": "insaat",
+  "flagship": false,
+  "title": {
+    "tr": "AzerGold Altın Üretim Tesisi (Çovdar)",
+    "en": "AzerGold Gold Production Facility (Chovdar)"
+  },
+  "body": {
+    "tr": [
+      "Azerbaycan Devlet Varlık Fonu için yaklaşık 1,5 yılda inşa edilen tesis, 2023'te işletmeye alınmıştır.",
+      "Proje kapsamında 571.000 m³ kapasiteli ham su barajı, 2 mm HDPE membranlı 8,5 milyon m³ atık depolama alanı (TSF) ve saatte 137 ton kapasiteli CIL altın işleme tesisi inşa edilmiştir. Toplam yatırım 160 milyon dolardır."
+    ],
+    "en": [
+      "Built in approximately 1.5 years for the Azerbaijan State Asset Fund, the facility was commissioned in 2023.",
+      "The project included a 571,000 m³ raw water dam, an 8.5 million m³ tailings storage facility (TSF) with 2 mm HDPE membrane, and a 137 t/h CIL gold processing plant. Total investment: $160 million."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/azergold-altin-uretim-tesisi/katalog-02.jpg",
+    "w": 1743,
+    "h": 683
+  },
+  "gallery": [
+    {
+      "src": "/projeler/azergold-altin-uretim-tesisi/katalog-03.jpg",
+      "w": 1742,
+      "h": 532
+    },
+    {
+      "src": "/projeler/azergold-altin-uretim-tesisi/katalog-04.jpg",
+      "w": 1142,
+      "h": 786
+    },
+    {
+      "src": "/projeler/azergold-altin-uretim-tesisi/katalog-05.jpg",
+      "w": 1142,
+      "h": 786
+    },
+    {
+      "src": "/projeler/azergold-altin-uretim-tesisi/katalog-06.jpg",
+      "w": 1142,
+      "h": 786
+    }
   ],
-  "en": [
-   "Built in approximately 1.5 years for the Azerbaijan State Asset Fund, the facility was commissioned in 2023.",
-   "The project included a 571,000 m³ raw water dam, an 8.5 million m³ tailings storage facility (TSF) with 2 mm HDPE membrane, and a 137 t/h CIL gold processing plant. Total investment: $160 million."
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/daskesen-chovdar-altin-madeni-projesi",
+    "en": "https://arkoz.wscp.net/en/project/daskesen-chovdar-altin-madeni-projesi",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.19-24"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "İşveren",
+        "en": "Client"
+      },
+      "value": {
+        "tr": "Azerbaycan Devlet Varlık Fonu",
+        "en": "Azerbaijan State Asset Fund"
+      }
+    },
+    {
+      "label": {
+        "tr": "Süre",
+        "en": "Duration"
+      },
+      "value": {
+        "tr": "~1,5 yıl · 2023'te işletmede",
+        "en": "~1.5 years · operational in 2023"
+      }
+    },
+    {
+      "label": {
+        "tr": "CIL kapasitesi",
+        "en": "CIL capacity"
+      },
+      "value": {
+        "tr": "137 ton/saat",
+        "en": "137 t/h"
+      }
+    },
+    {
+      "label": {
+        "tr": "Atık depolama",
+        "en": "Tailings storage"
+      },
+      "value": {
+        "tr": "8.500.000 m³ (2 mm HDPE)",
+        "en": "8,500,000 m³ (2 mm HDPE)"
+      }
+    },
+    {
+      "label": {
+        "tr": "Ham su barajı",
+        "en": "Raw water dam"
+      },
+      "value": {
+        "tr": "571.000 m³",
+        "en": "571,000 m³"
+      }
+    },
+    {
+      "label": {
+        "tr": "Yatırım",
+        "en": "Investment"
+      },
+      "value": {
+        "tr": "160 milyon $",
+        "en": "$160 million"
+      }
+    }
   ]
- },
- "cover": {
-  "src": "/projeler/azergold-altin-uretim-tesisi/katalog-00.jpg",
-  "w": 2326,
-  "h": 2469
- },
- "gallery": [
-  {
-   "src": "/projeler/azergold-altin-uretim-tesisi/katalog-01.jpg",
-   "w": 2326,
-   "h": 2469
-  },
-  {
-   "src": "/projeler/azergold-altin-uretim-tesisi/katalog-02.jpg",
-   "w": 1743,
-   "h": 683
-  },
-  {
-   "src": "/projeler/azergold-altin-uretim-tesisi/katalog-03.jpg",
-   "w": 1742,
-   "h": 532
-  },
-  {
-   "src": "/projeler/azergold-altin-uretim-tesisi/katalog-04.jpg",
-   "w": 1142,
-   "h": 786
-  },
-  {
-   "src": "/projeler/azergold-altin-uretim-tesisi/katalog-05.jpg",
-   "w": 1142,
-   "h": 786
-  },
-  {
-   "src": "/projeler/azergold-altin-uretim-tesisi/katalog-06.jpg",
-   "w": 1142,
-   "h": 786
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/daskesen-chovdar-altin-madeni-projesi",
-  "en": "https://arkoz.wscp.net/en/project/daskesen-chovdar-altin-madeni-projesi",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.19-24"
- },
- "kunye": [
-  {
-   "label": {
-    "tr": "İşveren",
-    "en": "Client"
-   },
-   "value": {
-    "tr": "Azerbaycan Devlet Varlık Fonu",
-    "en": "Azerbaijan State Asset Fund"
-   }
-  },
-  {
-   "label": {
-    "tr": "Süre",
-    "en": "Duration"
-   },
-   "value": {
-    "tr": "~1,5 yıl · 2023'te işletmede",
-    "en": "~1.5 years · operational in 2023"
-   }
-  },
-  {
-   "label": {
-    "tr": "CIL kapasitesi",
-    "en": "CIL capacity"
-   },
-   "value": {
-    "tr": "137 ton/saat",
-    "en": "137 t/h"
-   }
-  },
-  {
-   "label": {
-    "tr": "Atık depolama",
-    "en": "Tailings storage"
-   },
-   "value": {
-    "tr": "8.500.000 m³ (2 mm HDPE)",
-    "en": "8,500,000 m³ (2 mm HDPE)"
-   }
-  },
-  {
-   "label": {
-    "tr": "Ham su barajı",
-    "en": "Raw water dam"
-   },
-   "value": {
-    "tr": "571.000 m³",
-    "en": "571,000 m³"
-   }
-  },
-  {
-   "label": {
-    "tr": "Yatırım",
-    "en": "Investment"
-   },
-   "value": {
-    "tr": "160 milyon $",
-    "en": "$160 million"
-   }
-  }
- ]
 }

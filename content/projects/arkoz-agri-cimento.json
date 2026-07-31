@@ -1,92 +1,72 @@
 {
- "slug": "arkoz-agri-cimento",
- "slugEn": "agri-cimento-fabrikasi-arkoz-madencilik-enerji-sanayi-ve-ticaret-a_s",
- "category": "sanayi",
- "flagship": false,
- "title": {
-  "tr": "Arkoz Ağrı Çimento Fabrikası",
-  "en": "Arkoz Ağrı Cement Factory"
- },
- "body": {
-  "tr": [
-   "Günlük 2.500 ton klinker ve yıllık 1 milyon ton çimento üretim kapasitesiyle bölgenin en büyük özel yatırımlarından birisidir."
+  "slug": "arkoz-agri-cimento",
+  "slugEn": "agri-cimento-fabrikasi-arkoz-madencilik-enerji-sanayi-ve-ticaret-a_s",
+  "category": "sanayi",
+  "flagship": false,
+  "title": {
+    "tr": "Arkoz Ağrı Çimento Fabrikası",
+    "en": "Arkoz Ağrı Cement Factory"
+  },
+  "body": {
+    "tr": [
+      "Günlük 2.500 ton klinker ve yıllık 1 milyon ton çimento üretim kapasitesiyle bölgenin en büyük özel yatırımlarından birisidir."
+    ],
+    "en": [
+      "With daily 2,500 tons of clinker and annual 1 million tons of cement production capacity, it is one of the region's largest private investments."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/arkoz-agri-cimento/katalog-02.jpg",
+    "w": 2213,
+    "h": 1235
+  },
+  "gallery": [
+    {
+      "src": "/projeler/arkoz-agri-cimento/katalog-05.jpg",
+      "w": 953,
+      "h": 575
+    },
+    {
+      "src": "/projeler/arkoz-agri-cimento/katalog-06.jpg",
+      "w": 953,
+      "h": 575
+    }
   ],
-  "en": [
-   "With daily 2,500 tons of clinker and annual 1 million tons of cement production capacity, it is one of the region's largest private investments."
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/agri-cimento-fabrikasi-arkoz-madencilik-enerji-sanayi-ve-ticaret-a_s",
+    "en": "https://arkoz.wscp.net/en/project/agri-cimento-fabrikasi-arkoz-madencilik-enerji-sanayi-ve-ticaret-a_s",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.64-68"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Klinker",
+        "en": "Clinker"
+      },
+      "value": {
+        "tr": "2.500 ton/gün",
+        "en": "2,500 t/day"
+      }
+    },
+    {
+      "label": {
+        "tr": "Çimento",
+        "en": "Cement"
+      },
+      "value": {
+        "tr": "1.000.000 ton/yıl",
+        "en": "1,000,000 t/year"
+      }
+    },
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Doğubayazıt, Ağrı",
+        "en": "Doğubayazıt, Ağrı"
+      }
+    }
   ]
- },
- "cover": {
-  "src": "/projeler/arkoz-agri-cimento/katalog-00.jpg",
-  "w": 2313,
-  "h": 2469
- },
- "gallery": [
-  {
-   "src": "/projeler/arkoz-agri-cimento/katalog-01.jpg",
-   "w": 2313,
-   "h": 2469
-  },
-  {
-   "src": "/projeler/arkoz-agri-cimento/katalog-02.jpg",
-   "w": 2213,
-   "h": 1235
-  },
-  {
-   "src": "/projeler/arkoz-agri-cimento/katalog-03.jpg",
-   "w": 1742,
-   "h": 1229
-  },
-  {
-   "src": "/projeler/arkoz-agri-cimento/katalog-04.jpg",
-   "w": 1742,
-   "h": 1229
-  },
-  {
-   "src": "/projeler/arkoz-agri-cimento/katalog-05.jpg",
-   "w": 953,
-   "h": 575
-  },
-  {
-   "src": "/projeler/arkoz-agri-cimento/katalog-06.jpg",
-   "w": 953,
-   "h": 575
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/agri-cimento-fabrikasi-arkoz-madencilik-enerji-sanayi-ve-ticaret-a_s",
-  "en": "https://arkoz.wscp.net/en/project/agri-cimento-fabrikasi-arkoz-madencilik-enerji-sanayi-ve-ticaret-a_s",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.64-68"
- },
- "kunye": [
-  {
-   "label": {
-    "tr": "Klinker",
-    "en": "Clinker"
-   },
-   "value": {
-    "tr": "2.500 ton/gün",
-    "en": "2,500 t/day"
-   }
-  },
-  {
-   "label": {
-    "tr": "Çimento",
-    "en": "Cement"
-   },
-   "value": {
-    "tr": "1.000.000 ton/yıl",
-    "en": "1,000,000 t/year"
-   }
-  },
-  {
-   "label": {
-    "tr": "Konum",
-    "en": "Location"
-   },
-   "value": {
-    "tr": "Doğubayazıt, Ağrı",
-    "en": "Doğubayazıt, Ağrı"
-   }
-  }
- ]
 }

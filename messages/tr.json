@@ -24,6 +24,17 @@
   "Anasayfa": {
     "baslik": "Arkoz Müteahhitlik",
     "slogan": "Girişimci, Yenilikçi ve Öncüyüz",
-    "heroAlt": "ARSİM Yalı Zeytinburnu — havadan görünüm"
+    "heroAlt": "ARSİM Yalı Zeytinburnu — havadan görünüm",
+    "projelerBtn": "Projelerimiz",
+    "iletisimBtn": "İletişim",
+    "hakkimizdaUst": "Hakkımızda",
+    "detay": "Detay",
+    "isMerkeziAlt": "Arkoz İş Merkezi, Ümraniye / İstanbul",
+    "sektorlerUst": "Faaliyet Alanları",
+    "sektorlerBaslik": "Sektörler",
+    "projelerUst": "Projelerimiz",
+    "projelerBaslik": "Öne Çıkan Projeler",
+    "tumProjeler": "Tüm Projeler",
+    "ctaBaslik": "Projeleriniz için bilgi hattımız"
   }
 }

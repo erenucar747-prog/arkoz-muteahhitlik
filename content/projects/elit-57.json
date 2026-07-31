@@ -1,103 +1,93 @@
 {
- "slug": "elit-57",
- "slugEn": "elit",
- "category": "ust-yapi",
- "flagship": false,
- "title": {
-  "tr": "Elit 57",
-  "en": "Elit 57"
- },
- "body": {
-  "tr": [
-   "Nahçıvan'da 180 konut, kapalı otopark ve ticari alandan oluşmaktadır.",
-   "2008'de başlayan proje 2010 yılında tamamlanmış; açık ve kapalı otoparklar, çocuk oyun parkları ve rekreasyon alanlarıyla teslim edilmiştir."
+  "slug": "elit-57",
+  "slugEn": "elit",
+  "category": "ust-yapi",
+  "flagship": false,
+  "title": {
+    "tr": "Elit 57",
+    "en": "Elit 57"
+  },
+  "body": {
+    "tr": [
+      "Nahçıvan'da 180 konut, kapalı otopark ve ticari alandan oluşmaktadır.",
+      "2008'de başlayan proje 2010 yılında tamamlanmış; açık ve kapalı otoparklar, çocuk oyun parkları ve rekreasyon alanlarıyla teslim edilmiştir."
+    ],
+    "en": [
+      "Consists of 180 residential units with covered parking and commercial areas in Nakhchivan.",
+      "Started in 2008 and completed in 2010, delivered with open and covered parking, children's playgrounds and recreation areas."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/elit-57/katalog-02.jpg",
+    "w": 1742,
+    "h": 1090
+  },
+  "gallery": [
+    {
+      "src": "/projeler/elit-57/katalog-03.jpg",
+      "w": 1623,
+      "h": 909
+    },
+    {
+      "src": "/projeler/elit/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/elit/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/elit/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/elit/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": [
-   "Consists of 180 residential units with covered parking and commercial areas in Nakhchivan.",
-   "Started in 2008 and completed in 2010, delivered with open and covered parking, children's playgrounds and recreation areas."
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/elit",
+    "en": "https://arkoz.wscp.net/en/project/elit",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.39-40"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Nahçıvan merkezi",
+        "en": "Nakhchivan center"
+      }
+    },
+    {
+      "label": {
+        "tr": "Konut",
+        "en": "Residential units"
+      },
+      "value": {
+        "tr": "180",
+        "en": "180"
+      }
+    },
+    {
+      "label": {
+        "tr": "Süreç",
+        "en": "Timeline"
+      },
+      "value": {
+        "tr": "2008 – 2010 · Tamamlandı",
+        "en": "2008 – 2010 · Completed"
+      }
+    }
   ]
- },
- "cover": {
-  "src": "/projeler/elit-57/katalog-00.jpg",
-  "w": 2326,
-  "h": 2469
- },
- "gallery": [
-  {
-   "src": "/projeler/elit-57/katalog-01.jpg",
-   "w": 1738,
-   "h": 1235
-  },
-  {
-   "src": "/projeler/elit-57/katalog-02.jpg",
-   "w": 1742,
-   "h": 1090
-  },
-  {
-   "src": "/projeler/elit-57/katalog-03.jpg",
-   "w": 1623,
-   "h": 909
-  },
-  {
-   "src": "/projeler/elit/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/elit/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/elit/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/elit/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/elit",
-  "en": "https://arkoz.wscp.net/en/project/elit",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.39-40"
- },
- "kunye": [
-  {
-   "label": {
-    "tr": "Konum",
-    "en": "Location"
-   },
-   "value": {
-    "tr": "Nahçıvan merkezi",
-    "en": "Nakhchivan center"
-   }
-  },
-  {
-   "label": {
-    "tr": "Konut",
-    "en": "Residential units"
-   },
-   "value": {
-    "tr": "180",
-    "en": "180"
-   }
-  },
-  {
-   "label": {
-    "tr": "Süreç",
-    "en": "Timeline"
-   },
-   "value": {
-    "tr": "2008 – 2010 · Tamamlandı",
-    "en": "2008 – 2010 · Completed"
-   }
-  }
- ]
 }

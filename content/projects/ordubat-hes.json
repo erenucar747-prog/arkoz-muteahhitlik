@@ -1,52 +1,47 @@
 {
- "slug": "ordubat-hes",
- "slugEn": "ordubat-hidroelektrik-elektrik-santrali",
- "category": "enerji",
- "flagship": false,
- "title": {
-  "tr": "Ordubat Hidroelektrik Santrali",
-  "en": "Ordubad Hydroelectric Power Plant"
- },
- "body": {
-  "tr": [
-   "36 MW kurulu güce sahip Ordubat Hidroelektrik Santrali, bölgenin en büyük hidroelektrik yatırımlarından biridir."
-  ],
-  "en": [
-   "With 36 MW installed capacity, the Ordubad HPP is one of the region's largest hydroelectric investments."
-  ]
- },
- "cover": {
-  "src": "/projeler/ordubat-hes/katalog-00.jpg",
-  "w": 2326,
-  "h": 2469
- },
- "gallery": [
-  {
-   "src": "/projeler/ordubat-hes/katalog-01.jpg",
-   "w": 1742,
-   "h": 1234
+  "slug": "ordubat-hes",
+  "slugEn": "ordubat-hidroelektrik-elektrik-santrali",
+  "category": "enerji",
+  "flagship": false,
+  "title": {
+    "tr": "Ordubat Hidroelektrik Santrali",
+    "en": "Ordubad Hydroelectric Power Plant"
   },
-  {
-   "src": "/projeler/ordubat-hes/katalog-02.jpg",
-   "w": 1742,
-   "h": 835
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/ordubat-hidroelektrik-elektrik-santrali",
-  "en": "https://arkoz.wscp.net/en/project/ordubat-hidroelektrik-elektrik-santrali",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.29-30"
- },
- "kunye": [
-  {
-   "label": {
-    "tr": "Kurulu güç",
-    "en": "Installed capacity"
-   },
-   "value": {
-    "tr": "36 MW",
-    "en": "36 MW"
-   }
-  }
- ]
+  "body": {
+    "tr": [
+      "36 MW kurulu güce sahip Ordubat Hidroelektrik Santrali, bölgenin en büyük hidroelektrik yatırımlarından biridir."
+    ],
+    "en": [
+      "With 36 MW installed capacity, the Ordubad HPP is one of the region's largest hydroelectric investments."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/ordubat-hes/katalog-01.jpg",
+    "w": 1742,
+    "h": 1234
+  },
+  "gallery": [
+    {
+      "src": "/projeler/ordubat-hes/katalog-02.jpg",
+      "w": 1742,
+      "h": 835
+    }
+  ],
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/ordubat-hidroelektrik-elektrik-santrali",
+    "en": "https://arkoz.wscp.net/en/project/ordubat-hidroelektrik-elektrik-santrali",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.29-30"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Kurulu güç",
+        "en": "Installed capacity"
+      },
+      "value": {
+        "tr": "36 MW",
+        "en": "36 MW"
+      }
+    }
+  ]
 }

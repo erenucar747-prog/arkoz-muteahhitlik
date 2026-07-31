@@ -1,58 +1,52 @@
 {
- "slug": "gunes-enerji-santralleri",
- "slugEn": "gunes-enerji-santralleri",
- "gallery": [
-  {
-   "src": "/projeler/gunes-enerji-santralleri/katalog-01.jpg",
-   "w": 1743,
-   "h": 683
-  }
- ],
- "cover": {
-  "src": "/projeler/gunes-enerji-santralleri/katalog-00.jpg",
-  "w": 2326,
-  "h": 2469
- },
- "title": {
-  "tr": "Güneş Enerji Santralleri",
-  "en": "Solar Power Plants"
- },
- "summary": {
-  "tr": "",
-  "en": ""
- },
- "body": {
-  "tr": [
-   "Gabıllı, Halhal, Zeyve ve Culfa'da kurulan güneş enerji santrallerimizin toplam kurulu gücü 33 MW'tır."
-  ],
-  "en": [
-   "Our solar power plants in Gabilli, Halhal, Zeyve and Julfa have a total installed capacity of 33 MW."
-  ]
- },
- "sources": {
-  "katalog": "Arkoz & Maqro Group Kataloğu s.22-24"
- },
- "category": "enerji",
- "kunye": [
-  {
-   "label": {
-    "tr": "Toplam kurulu güç",
-    "en": "Total installed capacity"
-   },
-   "value": {
-    "tr": "33 MW",
-    "en": "33 MW"
-   }
+  "slug": "gunes-enerji-santralleri",
+  "slugEn": "gunes-enerji-santralleri",
+  "gallery": [],
+  "cover": {
+    "src": "/projeler/gunes-enerji-santralleri/katalog-01.jpg",
+    "w": 1743,
+    "h": 683
   },
-  {
-   "label": {
-    "tr": "Sahalar",
-    "en": "Sites"
-   },
-   "value": {
-    "tr": "Gabıllı · Halhal · Zeyve · Culfa",
-    "en": "Gabilli · Halhal · Zeyve · Julfa"
-   }
-  }
- ]
+  "title": {
+    "tr": "Güneş Enerji Santralleri",
+    "en": "Solar Power Plants"
+  },
+  "summary": {
+    "tr": "",
+    "en": ""
+  },
+  "body": {
+    "tr": [
+      "Gabıllı, Halhal, Zeyve ve Culfa'da kurulan güneş enerji santrallerimizin toplam kurulu gücü 33 MW'tır."
+    ],
+    "en": [
+      "Our solar power plants in Gabilli, Halhal, Zeyve and Julfa have a total installed capacity of 33 MW."
+    ]
+  },
+  "sources": {
+    "katalog": "Arkoz & Maqro Group Kataloğu s.22-24"
+  },
+  "category": "enerji",
+  "kunye": [
+    {
+      "label": {
+        "tr": "Toplam kurulu güç",
+        "en": "Total installed capacity"
+      },
+      "value": {
+        "tr": "33 MW",
+        "en": "33 MW"
+      }
+    },
+    {
+      "label": {
+        "tr": "Sahalar",
+        "en": "Sites"
+      },
+      "value": {
+        "tr": "Gabıllı · Halhal · Zeyve · Culfa",
+        "en": "Gabilli · Halhal · Zeyve · Julfa"
+      }
+    }
+  ]
 }
