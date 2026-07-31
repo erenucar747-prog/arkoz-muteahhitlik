@@ -2,8 +2,8 @@
 
 ## Proje
 - Arkoz Müteahhitlik için *tanıtım web sitesi* (kurumsal vitrin; e-ticaret yok, KVKK/yasal metin yok).
-- Repo: github.com/erenucar747-prog/arkoz-muteahhitlik — GitHub Pages'te yayınlanır.
-  Yayın adresi: https://erenucar747-prog.github.io/arkoz-muteahhitlik/
+- Repo: github.com/erenucar747-prog/arkoz-muteahhitlik — Vercel'de yayınlanır
+  (push → otomatik deploy). Eski GitHub Pages yayını Faz 12'de kapatılacak.
 - Bağımsız proje: Arkoz GazBeton sitesiyle veya diğer projelerle KARIŞTIRMA.
 - Yanıtlar ve site içeriği Türkçe.
 
@@ -19,8 +19,13 @@
   indigo #201060 + yaprak yeşili #58B040. Onay gelmeden varsayma.
 
 ## Teknoloji
-- Vanilla HTML/CSS/JS — framework yok, build adımı yok.
-- Yapı: index.html + sayfa başına ayrı .html, css/, js/, assets/ klasörleri.
+- Next.js (App Router, TypeScript) + next-intl (TR kökte, EN /en altında). Tailwind YOK.
+- Stil: app/globals.css (onaylı Swiss sistem, BEM) + yeni bileşenlerde CSS Modules.
+- İçerik katmanı: content/ altında JSON (projects/, pages/, news/, sectors.json,
+  offices.json, _ledger/images.json) — CMS yok; lib/content.ts tipli loader.
+- Görseller: public/projeler/<slug>/ ve public/marka/. KURAL: hiçbir görsel doğal
+  genişliğinin ÜZERİNDE render edilmez; w<600 görsel yalnız thumbnail (thumbOnly).
+- Doğrulama scripti: python scripts/validate_content.py (0 ihlal şartı).
 - Responsive zorunlu; mobil öncelikli düşün.
 
 ## Çalışma Akışı
@@ -34,7 +39,7 @@
 
 ## Doğrulama
 - "Bitti" demeden önce Playwright ile ekran görüntüsü al ve görüntüyü mutlaka OKU.
-- En az iki genişlikte kontrol: mobil (375px) + masaüstü (1440px).
+- Üç genişlikte kontrol: mobil (390px) + tablet (768px) + masaüstü (1440px).
 - Eksik/hatalı iş teslim etme; her şeyi çift kontrol et.
 
 ## Git Akışı

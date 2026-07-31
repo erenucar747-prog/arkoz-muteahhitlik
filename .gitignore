@@ -1,3 +1,29 @@
-node_modules/
+# bağımlılıklar
+/node_modules
+/.pnp
+.pnp.*
+
+# next.js
+/.next/
+/out/
+/build
+*.tsbuildinfo
+next-env.d.ts
+
+# test
+/coverage
+/test-results/
+/playwright-report/
+
+# ortam değişkenleri
+.env*
+
+# vercel
+.vercel
+
+# işletim sistemi
 .DS_Store
 Thumbs.db
+
+# günlükler
+npm-debug.log*
