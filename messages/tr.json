@@ -1,0 +1,29 @@
+{
+  "Nav": {
+    "anasayfa": "Anasayfa",
+    "hakkimizda": "Hakkımızda",
+    "projeler": "Projelerimiz",
+    "sektorler": "Sektörler",
+    "haberler": "Bizden Haberler",
+    "kariyer": "Kariyer",
+    "referanslar": "Referanslar",
+    "iletisim": "İletişim",
+    "menuAc": "Menüyü aç",
+    "dilDegistir": "English'e geç"
+  },
+  "Ortak": {
+    "atlama": "İçeriğe geç",
+    "tel": "+90 216 466 16 10"
+  },
+  "Footer": {
+    "siteBaslik": "Site",
+    "iletisimBaslik": "İletişim",
+    "adres": "Şerifali Mah. Türker Cad. No:35 Arkoz İş Merkezi, Ümraniye / İstanbul",
+    "hak": "Tüm hakları saklıdır."
+  },
+  "Anasayfa": {
+    "baslik": "Arkoz Müteahhitlik",
+    "slogan": "Girişimci, Yenilikçi ve Öncüyüz",
+    "heroAlt": "ARSİM Yalı Zeytinburnu — havadan görünüm"
+  }
+}
