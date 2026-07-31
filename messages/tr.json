@@ -15,6 +15,15 @@
     "atlama": "İçeriğe geç",
     "tel": "+90 216 466 16 10"
   },
+  "Projeler": {
+    "ustbaslik": "Projelerimiz",
+    "baslik": "Tüm Projeler",
+    "tipBaslik": "Daire Tipleri",
+    "tipKolon": "Tip",
+    "adetKolon": "Adet",
+    "m2Kolon": "m²",
+    "kapat": "Kapat"
+  },
   "Footer": {
     "siteBaslik": "Site",
     "iletisimBaslik": "İletişim",

@@ -254,9 +254,9 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 .tip-tablo th:nth-child(2), .tip-tablo th:nth-child(3) { text-align: right; }
 
 .galeri { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--s2); margin-top: var(--s4); }
-.galeri a { display: block; overflow: hidden; }
-.galeri img { aspect-ratio: 4 / 3; object-fit: cover; transition: transform 300ms ease; }
-.galeri a:hover img { transform: scale(1.04); }
+.galeri a, .galeri button { display: block; overflow: hidden; padding: 0; border: 0; background: none; cursor: pointer; }
+.galeri img { width: 100%; aspect-ratio: 4 / 3; object-fit: cover; transition: transform 300ms ease; }
+.galeri a:hover img, .galeri button:hover img { transform: scale(1.04); }
 
 .lightbox { border: 0; padding: 0; background: transparent; max-width: min(92vw, 1400px); overscroll-behavior: contain; }
 .lightbox::backdrop { background: rgba(37, 37, 37, .88); }

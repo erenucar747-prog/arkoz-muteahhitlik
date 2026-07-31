@@ -15,6 +15,15 @@
     "atlama": "Skip to content",
     "tel": "+90 216 466 16 10"
   },
+  "Projeler": {
+    "ustbaslik": "Our Projects",
+    "baslik": "All Projects",
+    "tipBaslik": "Apartment Types",
+    "tipKolon": "Type",
+    "adetKolon": "Units",
+    "m2Kolon": "m²",
+    "kapat": "Close"
+  },
   "Footer": {
     "siteBaslik": "Site",
     "iletisimBaslik": "Contact",

@@ -39,17 +39,33 @@ function jsonOku<T>(...parcalar: string[]): T {
 
 let projeOnbellek: Proje[] | null = null;
 
+/** Kaynak JSON'larda opsiyonel alanlar eksik olabilir — güvenli varsayılanlar doldurulur. */
+function normalize(ham: Partial<Proje> & Record<string, unknown>): Proje {
+  const summary = (ham.summary ?? {}) as Partial<Yerel>;
+  const body = (ham.body ?? {}) as Partial<{ tr: string[]; en: string[] }>;
+  return {
+    ...(ham as Proje),
+    summary: {
+      tr: summary.tr ?? "",
+      en: summary.en ?? summary.tr ?? "",
+    },
+    body: { tr: body.tr ?? [], en: body.en ?? [] },
+    kunye: ham.kunye ?? [],
+    gallery: ham.gallery ?? [],
+    cover: ham.cover ?? null,
+  };
+}
+
 export function tumProjeler(): Proje[] {
   if (!projeOnbellek) {
     const klasor = path.join(KOK, "content", "projects");
     projeOnbellek = fs
       .readdirSync(klasor)
       .filter((d) => d.endsWith(".json"))
-      .map(
-        (d) =>
-          JSON.parse(
-            fs.readFileSync(path.join(klasor, d), "utf8")
-          ) as Proje
+      .map((d) =>
+        normalize(
+          JSON.parse(fs.readFileSync(path.join(klasor, d), "utf8"))
+        )
       );
   }
   return projeOnbellek;
