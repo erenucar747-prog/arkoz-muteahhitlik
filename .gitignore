@@ -28,3 +28,6 @@ Thumbs.db
 
 # günlükler
 npm-debug.log*
+
+.vercel
+.env*

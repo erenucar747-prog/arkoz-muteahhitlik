@@ -1,26 +1,28 @@
 {
- "slug": "covdar-yataginin-sulfur-faz-muhendisligi",
- "slugEn": "covdar-yataginin-sulfur-faz-muhendisligi",
- "category": "ust-yapi",
- "flagship": false,
- "title": {
-  "tr": "Çovdar Yatağının Sülfür Faz Mühendisliği",
-  "en": "Arkoz Müteahhitlik"
- },
- "body": {
-  "tr": [
-   "\"ARKOZ İnşaat\", müşterisi AzerGold A.Ş'ye ait Azerbaycan Cumhuriyeti'nin Daşkesen ilçesinde yer alan 2 projenin inşaat ve montaj işlerini yürütmektedir. Çovdar Yatağının Sülfür Aşaması ile ilgili Mühendislik, Tedarik ve İnşaat Projesinin amacı, transit ve sülfit cevherlerinin işlenmesi için yeni bir tank liç (CIL) yöntemi ile çalışacak işleme tesisinin inşasıdır. Ayrıca proje, bu tesisin işletilmesi için gerekli olacak su kaynaklarının temini, rezervuar ve barajların yapımını da içermektedir. \"Toplu alkalizasyon alanı 4\" projesinin amacı, Çavdar üretim sahasında madenden çıkarılan kayaların yıkanması işlemini gerçekleştirmektir."
-  ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/covdar-yataginin-sulfur-faz-muhendisligi/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/covdar-yataginin-sulfur-faz-muhendisligi",
-  "en": "https://arkoz.wscp.net/en/project/covdar-yataginin-sulfur-faz-muhendisligi"
- }
+  "slug": "covdar-yataginin-sulfur-faz-muhendisligi",
+  "slugEn": "covdar-yataginin-sulfur-faz-muhendisligi",
+  "category": "ust-yapi",
+  "flagship": false,
+  "title": {
+    "tr": "Çovdar Yatağının Sülfür Faz Mühendisliği",
+    "en": "Arkoz Müteahhitlik"
+  },
+  "body": {
+    "tr": [
+      "\"ARKOZ İnşaat\", müşterisi AzerGold A.Ş'ye ait Azerbaycan Cumhuriyeti'nin Daşkesen ilçesinde yer alan 2 projenin inşaat ve montaj işlerini yürütmektedir. Çovdar Yatağının Sülfür Aşaması ile ilgili Mühendislik, Tedarik ve İnşaat Projesinin amacı, transit ve sülfit cevherlerinin işlenmesi için yeni bir tank liç (CIL) yöntemi ile çalışacak işleme tesisinin inşasıdır. Ayrıca proje, bu tesisin işletilmesi için gerekli olacak su kaynaklarının temini, rezervuar ve barajların yapımını da içermektedir. \"Toplu alkalizasyon alanı 4\" projesinin amacı, Çavdar üretim sahasında madenden çıkarılan kayaların yıkanması işlemini gerçekleştirmektir."
+    ],
+    "en": [
+      "\"ARKOZ İnşaat\" carries out the construction and installation works of 2 projects located in the Dashkasan district of the Republic of Azerbaijan for its client AzerGold CJSC. The aim of the Engineering, Procurement and Construction Project for the Sulphide Phase of the Chovdar Deposit is the construction of a processing plant that will operate with a new tank leaching (CIL) method for the processing of transitional and sulphide ores. The project also includes the supply of the water resources required for the operation of this facility and the construction of reservoirs and dams. The aim of the \"Bulk Alkalisation Area 4\" project is to carry out the washing of rocks extracted from the mine at the Chovdar production site."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/covdar-yataginin-sulfur-faz-muhendisligi/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [],
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/covdar-yataginin-sulfur-faz-muhendisligi",
+    "en": "https://arkoz.wscp.net/en/project/covdar-yataginin-sulfur-faz-muhendisligi"
+  }
 }

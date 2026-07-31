@@ -1,53 +1,56 @@
 {
- "slug": "dogum-merkezi",
- "slugEn": "dogum-merkezi",
- "category": "ust-yapi",
- "flagship": false,
- "title": {
-  "tr": "Doğum Merkezi",
-  "en": "Maternity Center"
- },
- "body": {
-  "tr": [
-   "Merkezin toplam alanı 1.26 hektardır. Binanın alanı 14.520 metrekaredir. Altı katlı sağlık kurumunun 100 yatağı var. Merkezde 7 adet perinatal tanı ve poliklinik, tüp bebek, fizyolojik doğum, jinekoloji, gebelik patolojisi, anesteziyoloji, resüsitasyon ve yoğun bakım, klinik laboratuvar bulunmaktadır. Ayrıca Yenidoğan resüsitasyon ve yoğun bakım Üniteleri ve erken resüsitasyon bölümleri vardır. Sağlık merkezinde ayrıca bir ameliyathane bulunmaktadır.",
-   "Doğum merkezinde fizik tedavi odası, embriyoloji ve androloji odaları, 2 büyük ve 2 küçük ameliyathane, diş ve jinekolojik muayene odaları bulunmaktadır. Tıp kurumunda 65 doktor, 102 hemşire, 61 genç hemşire, 42 servis çalışanı, toplam 270 kişi çalışıyor."
+  "slug": "dogum-merkezi",
+  "slugEn": "dogum-merkezi",
+  "category": "ust-yapi",
+  "flagship": false,
+  "title": {
+    "tr": "Doğum Merkezi",
+    "en": "Maternity Center"
+  },
+  "body": {
+    "tr": [
+      "Merkezin toplam alanı 1.26 hektardır. Binanın alanı 14.520 metrekaredir. Altı katlı sağlık kurumunun 100 yatağı var. Merkezde 7 adet perinatal tanı ve poliklinik, tüp bebek, fizyolojik doğum, jinekoloji, gebelik patolojisi, anesteziyoloji, resüsitasyon ve yoğun bakım, klinik laboratuvar bulunmaktadır. Ayrıca Yenidoğan resüsitasyon ve yoğun bakım Üniteleri ve erken resüsitasyon bölümleri vardır. Sağlık merkezinde ayrıca bir ameliyathane bulunmaktadır.",
+      "Doğum merkezinde fizik tedavi odası, embriyoloji ve androloji odaları, 2 büyük ve 2 küçük ameliyathane, diş ve jinekolojik muayene odaları bulunmaktadır. Tıp kurumunda 65 doktor, 102 hemşire, 61 genç hemşire, 42 servis çalışanı, toplam 270 kişi çalışıyor."
+    ],
+    "en": [
+      "The total area of the centre is 1.26 hectares. The building covers 14,520 square metres. The six-storey healthcare institution has 100 beds. The centre includes 7 perinatal diagnosis and outpatient units, IVF, physiological delivery, gynaecology, pregnancy pathology, anaesthesiology, resuscitation and intensive care, and a clinical laboratory. There are also neonatal resuscitation and intensive care units and early resuscitation departments. The medical centre also has an operating theatre.",
+      "The maternity centre includes a physiotherapy room, embryology and andrology rooms, 2 large and 2 small operating theatres, and dental and gynaecological examination rooms. The institution employs 65 doctors, 102 nurses, 61 junior nurses and 42 service staff — 270 people in total."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/dogum-merkezi/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [
+    {
+      "src": "/projeler/dogum-merkezi/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/dogum-merkezi/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/dogum-merkezi/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/dogum-merkezi/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/dogum-merkezi/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [
-  {
-   "src": "/projeler/dogum-merkezi/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/dogum-merkezi/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/dogum-merkezi/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/dogum-merkezi/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/dogum-merkezi",
+    "en": "https://arkoz.wscp.net/en/project/dogum-merkezi",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.60"
   }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/dogum-merkezi",
-  "en": "https://arkoz.wscp.net/en/project/dogum-merkezi",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
- }
 }

@@ -134,7 +134,7 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 }
 .hero__slogan { font-size: clamp(1.05rem, 2vw, 1.3rem); color: var(--govde-renk); margin-top: var(--s3); }
 .hero__butonlar { display: flex; flex-wrap: wrap; gap: var(--s2); margin-top: var(--s4); }
-.hero__gorsel { position: relative; }
+.hero__gorsel { position: relative; display: block; }
 .hero__gorsel::before { /* kırmızı cetvel köşesi */
   content: ""; position: absolute; top: -14px; left: -14px;
   width: 96px; height: 96px;

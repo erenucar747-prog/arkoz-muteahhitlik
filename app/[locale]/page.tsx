@@ -73,7 +73,11 @@ export default async function Anasayfa({
               </Link>
             </div>
           </div>
-          <div className="hero__gorsel">
+          <Link
+            className="hero__gorsel"
+            href="/projelerimiz/arsim-yali-zeytinburnu"
+            aria-label={t("heroAlt")}
+          >
             {/* 1920×1357 doğal boyut — doğal genişliğin üzerinde render edilmez */}
             <img
               src="/projeler/arsim-yali-zeytinburnu/aerial-day.jpg"
@@ -82,7 +86,7 @@ export default async function Anasayfa({
               height={1357}
               fetchPriority="high"
             />
-          </div>
+          </Link>
         </div>
       </section>
 

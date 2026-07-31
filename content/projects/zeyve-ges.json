@@ -1,26 +1,28 @@
 {
- "slug": "zeyve-ges",
- "slugEn": "zeyve-ges",
- "category": "enerji",
- "flagship": false,
- "title": {
-  "tr": "Zeyve-GES",
-  "en": "Arkoz Müteahhitlik"
- },
- "body": {
-  "tr": [
-   "Proje zeyve köyü arasinde 80 000 m2 alanda yerleşmiştir. Proje tek parselden oluşuyor, projenin kurulu gücü 5 megawatt'tır. Projede 5 adet trafo merkezi, 1 adet pdl binası, 200 m2 tek katlı idare etme binası yapıldı. Arazi etrafı 1600 metre telçit ile çevrildi, 1200 metre kablo kanalı kazıldı, 6016 adet panel masa direği çakıldı, 376 panel masası kuruldu, 16544 adet panel montajı yapıldı."
-  ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/zeyve-ges/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/zeyve-ges",
-  "en": "https://arkoz.wscp.net/en/project/zeyve-ges"
- }
+  "slug": "zeyve-ges",
+  "slugEn": "zeyve-ges",
+  "category": "enerji",
+  "flagship": false,
+  "title": {
+    "tr": "Zeyve-GES",
+    "en": "Arkoz Müteahhitlik"
+  },
+  "body": {
+    "tr": [
+      "Proje zeyve köyü arasinde 80 000 m2 alanda yerleşmiştir. Proje tek parselden oluşuyor, projenin kurulu gücü 5 megawatt'tır. Projede 5 adet trafo merkezi, 1 adet pdl binası, 200 m2 tek katlı idare etme binası yapıldı. Arazi etrafı 1600 metre telçit ile çevrildi, 1200 metre kablo kanalı kazıldı, 6016 adet panel masa direği çakıldı, 376 panel masası kuruldu, 16544 adet panel montajı yapıldı."
+    ],
+    "en": [
+      "The project is located on an 80,000 m² site near the village of Zeyve. It consists of a single parcel, and its installed capacity is 5 megawatts. Within the project, 5 transformer stations, 1 PDL building and a 200 m² single-storey administration building were built. The site was enclosed with 1,600 metres of wire fencing, 1,200 metres of cable channel were trenched, 6,016 panel table posts were driven, 376 panel tables were erected and 16,544 panels were installed."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/zeyve-ges/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [],
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/zeyve-ges",
+    "en": "https://arkoz.wscp.net/en/project/zeyve-ges"
+  }
 }
