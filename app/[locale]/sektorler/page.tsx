@@ -35,7 +35,7 @@ export default async function Sektorler({
 
       <section className="bolum">
         <div className="kapsayici">
-          <div className="sektor-izgara">
+          <div className="sektor-izgara sektor-izgara--numarali">
             {Object.entries(sektorler()).map(([anahtar, s]) => {
               const adet = projeler.filter(
                 (p) => p.category === anahtar

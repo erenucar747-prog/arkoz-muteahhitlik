@@ -125,7 +125,7 @@ export default async function Anasayfa({
             <p className="ustbaslik">{t("sektorlerUst")}</p>
             <h2 className="baslik-buyuk">{t("sektorlerBaslik")}</h2>
           </div>
-          <div className="sektor-izgara">
+          <div className="sektor-izgara sektor-izgara--numarali">
             {sektorListesi.map(([anahtar, s]) => (
               <Link
                 key={anahtar}

@@ -83,6 +83,44 @@ export function sayfaGetir(slug: string): Sayfa {
   return jsonOku<Sayfa>("pages", `${slug}.json`);
 }
 
+/** Eren'in istediği makro düzen: Altyapı / Üst Yapı / Oteller / Fabrikalar / Perakende */
+export type UstGrup = {
+  anahtar: string;
+  kategoriler: string[];
+  ad: Yerel;
+};
+
+export const UST_GRUPLAR: UstGrup[] = [
+  {
+    anahtar: "altyapi",
+    kategoriler: ["yol", "su", "enerji"],
+    ad: { tr: "Altyapı Projeleri", en: "Infrastructure Projects" },
+  },
+  {
+    anahtar: "ust-yapi",
+    kategoriler: ["ust-yapi"],
+    ad: { tr: "Üst Yapı Projeleri", en: "Superstructure Projects" },
+  },
+  {
+    anahtar: "oteller",
+    kategoriler: ["turizm"],
+    ad: { tr: "Oteller ve Turizm", en: "Hotels and Tourism" },
+  },
+  {
+    anahtar: "fabrikalar",
+    kategoriler: ["sanayi", "insaat"],
+    ad: {
+      tr: "Fabrikalar ve Endüstriyel Tesisler",
+      en: "Factories and Industrial Facilities",
+    },
+  },
+  {
+    anahtar: "perakende",
+    kategoriler: ["perakende"],
+    ad: { tr: "Perakende Yatırımları", en: "Retail Investments" },
+  },
+];
+
 /** EN gövdesi boşsa TR'ye düşer (çeviri uydurulmaz — Faz 9 raporuna girer). */
 export function govde(p: { body: { tr: string[]; en: string[] } }, dil: Dil): string[] {
   return dil === "en" && p.body.en.length ? p.body.en : p.body.tr;

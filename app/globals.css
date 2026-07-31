@@ -174,7 +174,10 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
   color: var(--beyaz);
 }
 .proje-kart__ad { color: var(--beyaz); font-size: clamp(1.15rem, 2.4vw, 1.6rem); font-weight: 800; }
-.proje-kart__meta { font-size: .9rem; opacity: .92; margin-top: .25rem; }
+.proje-kart__meta {
+  font-size: .75rem; opacity: .92; margin-top: .35rem;
+  text-transform: uppercase; letter-spacing: .14em; font-weight: 600;
+}
 
 /* ---------- Sektör kartları ---------- */
 .sektor-izgara { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--s3); }
@@ -190,6 +193,40 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 
 @media (max-width: 1023px) { .sektor-izgara { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 479px) { .sektor-izgara { grid-template-columns: 1fr; } }
+
+/* ---------- Numaralı sektör kartları (premium) ---------- */
+.sektor-izgara--numarali { counter-reset: sektor; }
+.sektor-izgara--numarali .sektor-kart::before {
+  counter-increment: sektor;
+  content: counter(sektor, decimal-leading-zero);
+  display: block; margin-bottom: .75rem;
+  color: var(--kirmizi); font-weight: 700; font-size: .8125rem;
+  letter-spacing: .18em; font-variant-numeric: tabular-nums;
+}
+
+/* ---------- Proje üst grupları ---------- */
+.altgrup + .altgrup { margin-top: clamp(2.5rem, 6vw, 4rem); }
+.altgrup__baslik {
+  font-size: 1.3rem; margin-bottom: var(--s3);
+  display: flex; align-items: baseline; gap: var(--s2); flex-wrap: wrap;
+}
+.altgrup__istatistik {
+  font-size: .75rem; font-weight: 600; color: var(--kirmizi);
+  letter-spacing: .14em; text-transform: uppercase;
+}
+
+/* ---------- Otel editoryal satırları (premium) ---------- */
+.otel-liste { display: grid; gap: clamp(3rem, 7vw, 5.5rem); }
+.otel-satir {
+  display: grid; grid-template-columns: 7fr 5fr;
+  gap: clamp(2rem, 5vw, 4.5rem); align-items: center;
+}
+.otel-satir--ters .otel-satir__gorsel { order: 2; }
+.otel-satir__gorsel { display: block; overflow: hidden; }
+.otel-satir__gorsel img { width: 100%; transition: transform 400ms ease; }
+.otel-satir__gorsel:hover img { transform: scale(1.02); }
+.otel-satir__baslik { font-size: clamp(1.35rem, 2.6vw, 1.9rem); margin-bottom: var(--s2); }
+.otel-satir__link { margin-top: var(--s3); }
 
 /* ---------- CTA bandı ---------- */
 .cta { background: var(--kirmizi); color: var(--beyaz); }
@@ -324,7 +361,8 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
   .hero__izgara { grid-template-columns: 1fr; }
   .hero__gorsel { order: -1; margin-inline: calc(-1 * clamp(1.25rem, 4vw, 2.5rem)); }
   .hero__gorsel::before { display: none; }
-  .kurumsal__izgara, .proje__izgara, .iletisim__izgara, .tanitim__izgara { grid-template-columns: 1fr; }
+  .kurumsal__izgara, .proje__izgara, .iletisim__izgara, .tanitim__izgara, .otel-satir { grid-template-columns: 1fr; }
+  .otel-satir--ters .otel-satir__gorsel { order: -1; }
   .kurumsal__gorsel { position: static; }
   .galeri { grid-template-columns: repeat(3, 1fr); }
   .footer__izgara { grid-template-columns: 1fr 1fr; }
