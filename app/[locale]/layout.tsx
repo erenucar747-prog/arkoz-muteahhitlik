@@ -18,12 +18,32 @@ export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
 
-export const metadata: Metadata = {
-  title: {
-    default: "Arkoz Müteahhitlik",
-    template: "%s — Arkoz Müteahhitlik",
-  },
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale, namespace: "Meta" });
+  return {
+    metadataBase: new URL(
+      process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"
+    ),
+    title: {
+      default: "Arkoz Müteahhitlik",
+      template: "%s — Arkoz Müteahhitlik",
+    },
+    description: t("aciklama"),
+    openGraph: {
+      type: "website",
+      locale: locale === "tr" ? "tr_TR" : "en_US",
+      siteName: "Arkoz Müteahhitlik",
+      title: "Arkoz Müteahhitlik",
+      description: t("aciklama"),
+      images: ["/projeler/arsim-yali-zeytinburnu/aerial-day.jpg"],
+    },
+  };
+}
 
 export default async function LocaleLayout({
   children,
