@@ -1,0 +1,29 @@
+{
+ "slug": "devlet-konuk-evi",
+ "slugEn": "devlet-konuk-evi",
+ "gallery": [
+  {
+   "src": "/projeler/devlet-konuk-evi/katalog-thumb.jpg",
+   "w": 468,
+   "h": 249,
+   "thumbOnly": true
+  }
+ ],
+ "cover": null,
+ "title": {
+  "tr": "Devlet Konuk Evi",
+  "en": "State Guest House"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ },
+ "category": "ust-yapi"
+}

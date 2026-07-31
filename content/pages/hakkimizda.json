@@ -1,0 +1,79 @@
+{
+ "slug": "hakkimizda",
+ "title": {
+  "tr": "Hakkımızda",
+  "en": "Arkoz Müteahhitlik"
+ },
+ "body": {
+  "tr": [
+   "Arkoz & Maqro Group; 1998'den bu yana başta Azerbaycan, Gürcistan ve Türkiye olmak üzere birçok ülkede endüstriyel üretim ve inşaat alanında faaliyet göstermektedir.",
+   "Asya Kalkınma Bankası, Avrupa İmar ve Kalkınma Bankası ve Dünya Bankası destekli projeler dahil olmak üzere; bugüne kadar toplam değeri 5 milyar doları aşan altyapı ve üstyapı projelerini hayata geçirmiştir.",
+   "Otoyollar, viyadükler, tüneller ve havalimanı pistlerinden su yapıları ve kıyı tahkimatlarına; hidroelektrik ve güneş enerji santrallerinden spor kompleksleri ve üniversite kampüslerine; altın üretim tesislerinden çimento, alçı, gazbeton ve tuğla fabrikalarına; şehir hastanelerinden beş yıldızlı otellere uzanan geniş bir yelpazede 4.000'i aşkın uzman kadrosuyla çalışmaktadır.",
+   "Gayrimenkul geliştirme alanında 6.500'ü aşkın bağımsız konut ve ticari alan üretmiştir.",
+   "Grubumuz; entegre yapısıyla birçok alanda büyük ölçekli çok sayıda proje ve üretim tesisini gerçekleştirmiş olup gerçekleştirmeye devam etmektedir."
+  ],
+  "en": [
+   "Arkoz & Maqro Group has been operating in industrial production and construction since 1998, primarily in Azerbaijan, Georgia and Türkiye.",
+   "It has delivered infrastructure and superstructure projects exceeding $5 billion in total value, including projects supported by the Asian Development Bank, the EBRD and the World Bank.",
+   "With a team of more than 4,000 experts, its portfolio ranges from highways, viaducts, tunnels and airport runways to water structures and bank reinforcements; from hydroelectric and solar power plants to sports complexes and university campuses; from gold production facilities to cement, gypsum, AAC and brick factories; from city hospitals to five-star hotels.",
+   "In real estate development, it has produced more than 6,500 independent residential and commercial units.",
+   "As seen across our portfolio, our group has realized and continues to realize numerous large-scale projects and production facilities in many areas in an integrated manner."
+  ]
+ },
+ "sources": {
+  "tr": "https://arkoz.wscp.net/hakkimizda",
+  "en": "https://arkoz.wscp.net/en/about"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kuruluş",
+    "en": "Founded"
+   },
+   "value": {
+    "tr": "1998",
+    "en": "1998"
+   }
+  },
+  {
+   "label": {
+    "tr": "Faaliyet",
+    "en": "Operations"
+   },
+   "value": {
+    "tr": "Azerbaycan · Gürcistan · Türkiye",
+    "en": "Azerbaijan · Georgia · Türkiye"
+   }
+  },
+  {
+   "label": {
+    "tr": "Proje hacmi",
+    "en": "Project volume"
+   },
+   "value": {
+    "tr": "5 milyar $+",
+    "en": "$5 billion+"
+   }
+  },
+  {
+   "label": {
+    "tr": "Uzman kadro",
+    "en": "Experts"
+   },
+   "value": {
+    "tr": "4.000+",
+    "en": "4,000+"
+   }
+  },
+  {
+   "label": {
+    "tr": "Konut/ticari üretim",
+    "en": "Residential/commercial units"
+   },
+   "value": {
+    "tr": "6.500+",
+    "en": "6,500+"
+   }
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "han-sarayi",
+ "slugEn": "han-sarayi",
+ "gallery": [
+  {
+   "src": "/projeler/han-sarayi/katalog-thumb.jpg",
+   "w": 468,
+   "h": 249,
+   "thumbOnly": true
+  }
+ ],
+ "cover": null,
+ "title": {
+  "tr": "Han Sarayı",
+  "en": "Khan Palace"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ },
+ "category": "ust-yapi"
+}

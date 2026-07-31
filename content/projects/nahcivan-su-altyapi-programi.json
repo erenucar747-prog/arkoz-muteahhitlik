@@ -1,0 +1,80 @@
+{
+ "slug": "nahcivan-su-altyapi-programi",
+ "slugEn": "nahcivan-su-altyapi-programi",
+ "gallery": [
+  {
+   "src": "/projeler/nahcivan-su-altyapi-programi/katalog-01.jpg",
+   "w": 1742,
+   "h": 618
+  }
+ ],
+ "cover": {
+  "src": "/projeler/nahcivan-su-altyapi-programi/katalog-00.jpg",
+  "w": 1745,
+  "h": 619
+ },
+ "title": {
+  "tr": "Nahçıvan Su Altyapı Programı",
+  "en": "Nakhchivan Water Infrastructure Program"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Nahçıvan ve beş ilçesini kapsayan program; barajlardan içme suyu ve kanalizasyon hatlarına, taşkın önlemeden tarımsal sulamaya uzanan bütünleşik bir altyapı yatırımıdır.",
+   "Asya Kalkınma Bankası finansmanıyla yürütülen çalışmaların toplam değeri 600 milyon doları aşmaktadır. Program kapsamında temiz su depoları ve atıksu arıtma tesisleri de inşa edilmiştir."
+  ],
+  "en": [
+   "Covering Nakhchivan and five districts, the program is an integrated infrastructure investment ranging from dams, drinking water and sewerage lines to flood prevention and agricultural irrigation.",
+   "Carried out with Asian Development Bank financing, the works exceed $600 million in total value, including clean water reservoirs and wastewater treatment plants."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.15-16"
+ },
+ "category": "su",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kapsam",
+    "en": "Scope"
+   },
+   "value": {
+    "tr": "Nahçıvan + 5 ilçe",
+    "en": "Nakhchivan + 5 districts"
+   }
+  },
+  {
+   "label": {
+    "tr": "Finansman",
+    "en": "Financing"
+   },
+   "value": {
+    "tr": "Asya Kalkınma Bankası",
+    "en": "Asian Development Bank"
+   }
+  },
+  {
+   "label": {
+    "tr": "Yatırım",
+    "en": "Investment"
+   },
+   "value": {
+    "tr": "600 milyon $+",
+    "en": "$600 million+"
+   }
+  },
+  {
+   "label": {
+    "tr": "Bileşenler",
+    "en": "Components"
+   },
+   "value": {
+    "tr": "İçme suyu, kanalizasyon, taşkın önleme, sulama, arıtma",
+    "en": "Drinking water, sewerage, flood control, irrigation, treatment"
+   }
+  }
+ ]
+}

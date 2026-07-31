@@ -1,0 +1,55 @@
+{
+ "slug": "culfa-res",
+ "slugEn": "culfa-res",
+ "category": "enerji",
+ "flagship": false,
+ "title": {
+  "tr": "Culfa-RES",
+  "en": "Arkoz Müteahhitlik"
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "cover": {
+  "src": "/projeler/culfa-res/cover.jpg",
+  "w": 1170,
+  "h": 530
+ },
+ "gallery": [
+  {
+   "src": "/projeler/culfa-res/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/culfa-res/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/culfa-res/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/culfa-res/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/culfa-res/g-05.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/culfa-res",
+  "en": "https://arkoz.wscp.net/en/project/culfa-res"
+ }
+}

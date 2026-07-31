@@ -1,0 +1,47 @@
+{
+ "slug": "swissotel-tiflis",
+ "slugEn": "tiflis-swiss-otel",
+ "category": "turizm",
+ "flagship": false,
+ "title": {
+  "tr": "Swissotel Tiflis",
+  "en": "Swissotel Tbilisi"
+ },
+ "body": {
+  "tr": [
+   "Turizm faaliyetlerimiz kapsamında işlettiğimiz Swissotel Tiflis; restoranları, SPA'sı ve çatı terasıyla şehrin önde gelen beş yıldızlı otellerindendir."
+  ],
+  "en": [
+   "Operated within our tourism activities, Swissotel Tbilisi is one of the city's leading five-star hotels with its restaurants, spa and rooftop terrace."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/swissotel-tiflis/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "gallery": [
+  {
+   "src": "/projeler/swissotel-tiflis/katalog-01.jpg",
+   "w": 1742,
+   "h": 643
+  },
+  {
+   "src": "/projeler/tiflis-swiss-otel/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/tiflis-swiss-otel/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/tiflis-swiss-otel",
+  "en": "https://arkoz.wscp.net/en/project/tiflis-swiss-otel",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.81-84"
+ }
+}

@@ -1,0 +1,73 @@
+[
+ {
+  "sehir": {
+   "tr": "İstanbul",
+   "en": "Istanbul"
+  },
+  "ulke": {
+   "tr": "Türkiye",
+   "en": "Türkiye"
+  },
+  "adres": {
+   "tr": "Şerifali Mah. Türker Cad. No:35 Arkoz İş Merkezi, Ümraniye / İstanbul",
+   "en": "Serifali Mah. Turker Cad. No:35 Arkoz Is Merkezi, Umraniye / Istanbul"
+  },
+  "tel": "+90 216 466 16 10",
+  "merkez": true
+ },
+ {
+  "sehir": {
+   "tr": "Ankara",
+   "en": "Ankara"
+  },
+  "ulke": {
+   "tr": "Türkiye",
+   "en": "Türkiye"
+  },
+  "tel": null
+ },
+ {
+  "sehir": {
+   "tr": "Nahçıvan",
+   "en": "Nakhchivan"
+  },
+  "ulke": {
+   "tr": "Azerbaycan",
+   "en": "Azerbaijan"
+  },
+  "tel": "+994 36 545 00 20"
+ },
+ {
+  "sehir": {
+   "tr": "Bakü",
+   "en": "Baku"
+  },
+  "ulke": {
+   "tr": "Azerbaycan",
+   "en": "Azerbaijan"
+  },
+  "tel": "+994 12 526 36 97"
+ },
+ {
+  "sehir": {
+   "tr": "Tiflis",
+   "en": "Tbilisi"
+  },
+  "ulke": {
+   "tr": "Gürcistan",
+   "en": "Georgia"
+  },
+  "tel": "+995 32 200 09 09"
+ },
+ {
+  "sehir": {
+   "tr": "Kiev",
+   "en": "Kyiv"
+  },
+  "ulke": {
+   "tr": "Ukrayna",
+   "en": "Ukraine"
+  },
+  "tel": "+380 674 74 20 44"
+ }
+]

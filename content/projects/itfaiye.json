@@ -1,0 +1,29 @@
+{
+ "slug": "itfaiye",
+ "slugEn": "itfaiye",
+ "gallery": [
+  {
+   "src": "/projeler/itfaiye/katalog-thumb.jpg",
+   "w": 468,
+   "h": 248,
+   "thumbOnly": true
+  }
+ ],
+ "cover": null,
+ "title": {
+  "tr": "İtfaiye Binası",
+  "en": "Firefighting Building"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ },
+ "category": "ust-yapi"
+}

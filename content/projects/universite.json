@@ -1,0 +1,28 @@
+{
+ "slug": "universite",
+ "slugEn": "universite",
+ "gallery": [
+  {
+   "src": "/projeler/universite/katalog-thumb.jpg",
+   "w": 1742,
+   "h": 283
+  }
+ ],
+ "cover": null,
+ "title": {
+  "tr": "Üniversite Kampüsü",
+  "en": "University Campus"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ },
+ "category": "ust-yapi"
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "tiflis-buz-arenasi",
+ "slugEn": "tiflis-buz-arenasi",
+ "gallery": [
+  {
+   "src": "/projeler/tiflis-buz-arenasi/katalog-01.jpg",
+   "w": 1742,
+   "h": 1234
+  }
+ ],
+ "cover": {
+  "src": "/projeler/tiflis-buz-arenasi/katalog-00.jpg",
+  "w": 1743,
+  "h": 1234
+ },
+ "title": {
+  "tr": "Yeni Tiflis Buz Arenası",
+  "en": "New Tbilisi Ice Arena"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Uluslararası standartlarda inşa edilen modern tesis, 700 kişilik kapasitesiyle buz hokeyi, paten ve curling müsabakalarına ev sahipliği yapmaktadır."
+  ],
+  "en": [
+   "A modern facility built to international standards with a capacity of 700 people, hosting ice hockey, skating, and curling competitions."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.47-48"
+ },
+ "category": "ust-yapi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Tiflis, Gürcistan",
+    "en": "Tbilisi, Georgia"
+   }
+  },
+  {
+   "label": {
+    "tr": "Kapasite",
+    "en": "Capacity"
+   },
+   "value": {
+    "tr": "700 kişi",
+    "en": "700 people"
+   }
+  },
+  {
+   "label": {
+    "tr": "Branşlar",
+    "en": "Sports"
+   },
+   "value": {
+    "tr": "Buz hokeyi · paten · curling",
+    "en": "Ice hockey · skating · curling"
+   }
+  }
+ ]
+}

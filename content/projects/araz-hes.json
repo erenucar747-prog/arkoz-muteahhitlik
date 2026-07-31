@@ -1,0 +1,24 @@
+{
+ "slug": "araz-hes",
+ "slugEn": "araz-hes",
+ "category": "enerji",
+ "flagship": false,
+ "title": {
+  "tr": "Araz-HES",
+  "en": "Arkoz Müteahhitlik"
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "cover": {
+  "src": "/projeler/araz-hes/cover.jpg",
+  "w": 1170,
+  "h": 530
+ },
+ "gallery": [],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/araz-hes",
+  "en": "https://arkoz.wscp.net/en/project/araz-hes"
+ }
+}

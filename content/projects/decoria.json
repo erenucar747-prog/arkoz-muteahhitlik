@@ -1,0 +1,84 @@
+{
+ "slug": "decoria",
+ "slugEn": "decoria",
+ "category": "perakende",
+ "flagship": false,
+ "title": {
+  "tr": "Decoria",
+  "en": "Decoria"
+ },
+ "body": {
+  "tr": [
+   "Arkoz Group bünyesinde faaliyet gösteren Decoria markası Azerbaycan genelinde 5 mağaza ve 15.000 m2 toplam satış alanı ile hizmet vermektedir.",
+   "Decoria markası bünyesinde toplam 17.000 çeşit ürün bulunmaktadır. Mağazamızda mutfak malzemeleri, elektrik malzemeleri ve ekipmanları, küçük, tamir ve inşaat aletleri, plastik borular, duvar kağıdı, yatak odası ve bahçe mobilya takımları, ahşap ve çelik kapılar, hediyelik ürünler, ev aletleri, kırtasiye, temizlik ürünleri, güvenlik ekipmanları ve giyim, boya ve yalıtım ürünleri, banyo ve araba aksesuarları ve diğer ürünler satılmaktadır."
+  ],
+  "en": [
+   "Decoria was established as a home improvement brand in Azerbaijan in 2017. Decoria has 4 stores in 3 regions of Azerbaijan. It is like a solution center gathering all the needs under one roof in order to develop and beautify every moment of our life. The product range includes more than 8000 products. It has a total sales area of 6750 square meters."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/decoria/cover.jpg",
+  "w": 1170,
+  "h": 530
+ },
+ "gallery": [
+  {
+   "src": "/projeler/decoria/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-05.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-06.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-07.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-08.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/decoria/g-09.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/decoria",
+  "en": "https://arkoz.wscp.net/en/project/decoria"
+ }
+}

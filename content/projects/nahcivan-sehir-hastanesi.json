@@ -1,0 +1,36 @@
+{
+ "slug": "nahcivan-sehir-hastanesi",
+ "slugEn": "nahcivan-sehir-hastanesi",
+ "gallery": [
+  {
+   "src": "/projeler/nahcivan-sehir-hastanesi/katalog-01.jpg",
+   "w": 1742,
+   "h": 902
+  }
+ ],
+ "cover": {
+  "src": "/projeler/nahcivan-sehir-hastanesi/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "title": {
+  "tr": "Nahçıvan Şehir Hastanesi",
+  "en": "Nakhchivan City Hospital"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Bölgenin en kapsamlı sağlık yerleşkelerinden biri olan hastane; poliklinikler, ameliyathaneler ve konferans salonuyla birlikte inşa edilmiştir."
+  ],
+  "en": [
+   "One of the region's most comprehensive healthcare campuses, built with polyclinics, operating theatres and a conference hall."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.58-58"
+ },
+ "category": "ust-yapi"
+}

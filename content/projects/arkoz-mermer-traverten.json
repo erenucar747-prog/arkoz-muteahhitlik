@@ -1,0 +1,78 @@
+{
+ "slug": "arkoz-mermer-traverten",
+ "slugEn": "arkoz-mermer-traverten",
+ "gallery": [
+  {
+   "src": "/projeler/arkoz-mermer-traverten/katalog-01.jpg",
+   "w": 2313,
+   "h": 2469
+  },
+  {
+   "src": "/projeler/arkoz-mermer-traverten/katalog-02.jpg",
+   "w": 2045,
+   "h": 1449
+  },
+  {
+   "src": "/projeler/arkoz-mermer-traverten/katalog-03.jpg",
+   "w": 2044,
+   "h": 1449
+  },
+  {
+   "src": "/projeler/arkoz-mermer-traverten/katalog-04.jpg",
+   "w": 1742,
+   "h": 1229
+  },
+  {
+   "src": "/projeler/arkoz-mermer-traverten/katalog-05.jpg",
+   "w": 1742,
+   "h": 1229
+  }
+ ],
+ "cover": {
+  "src": "/projeler/arkoz-mermer-traverten/katalog-00.jpg",
+  "w": 2313,
+  "h": 2469
+ },
+ "title": {
+  "tr": "Arkoz Mermer ve Traverten Fabrikası",
+  "en": "Arkoz Marble and Travertine Facility"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "2006'da kurulan doğal taş işleme tesisimiz, yıllık 1.500.000 m² üretim kapasitesiyle traverten ve mermer üretiminin büyük bir kısmını Azerbaycan ve Gürcistan pazarına satmaktadır."
+  ],
+  "en": [
+   "Established in 2006, our natural stone processing facility with an annual capacity of 1,500,000 m² sells a large portion of its travertine and marble production to the Azerbaijani and Georgian markets."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.73-74"
+ },
+ "category": "sanayi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kapasite",
+    "en": "Capacity"
+   },
+   "value": {
+    "tr": "1.500.000 m²/yıl",
+    "en": "1,500,000 m²/year"
+   }
+  },
+  {
+   "label": {
+    "tr": "Kuruluş",
+    "en": "Established"
+   },
+   "value": {
+    "tr": "2006",
+    "en": "2006"
+   }
+  }
+ ]
+}

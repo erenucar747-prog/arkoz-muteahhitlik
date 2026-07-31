@@ -1,0 +1,26 @@
+{
+ "slug": "metal-isleme-tesisi",
+ "slugEn": "metal-isleme-tesisi",
+ "gallery": [],
+ "cover": null,
+ "title": {
+  "tr": "Metal İşleme Tesisi",
+  "en": "Metal Processing Facility"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Kompozit paneller, metal konstrüksiyon ürünleri ve çeşitli yapı elemanları üretiyor."
+  ],
+  "en": [
+   "Produces composite panels, metal construction products, and various building elements."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.76-76"
+ },
+ "category": "sanayi"
+}

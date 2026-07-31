@@ -1,0 +1,26 @@
+{
+ "slug": "gabilli-ges",
+ "slugEn": "gabilli-ges",
+ "category": "enerji",
+ "flagship": false,
+ "title": {
+  "tr": "Gabıllı-GES",
+  "en": "Arkoz Müteahhitlik"
+ },
+ "body": {
+  "tr": [
+   "Proje gabıllı köyü arasinde 98 000 m2 alanda yerleşmiştir. Proje 2 ayrı parselden oluşuyor, projenin kurulu gücü 5 megawatt'tır. Projede 5 adet trafo merkezi, 1 adet pdl binası, 70m2 tek katlı idare etme binası yapıldı. Arazi etrafı 3200 metre telçit ile çevrildi, 1700 metre kablo kanalı kazıldı, 6016 adet panel masa direği çakıldı, 376 panel masası kuruldu, 16544 adet panel montajı yapıldı."
+  ],
+  "en": []
+ },
+ "cover": {
+  "src": "/projeler/gabilli-ges/cover.jpg",
+  "w": 1170,
+  "h": 530
+ },
+ "gallery": [],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/gabilli-ges",
+  "en": "https://arkoz.wscp.net/en/project/gabilli-ges"
+ }
+}

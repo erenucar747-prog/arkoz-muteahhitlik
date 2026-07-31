@@ -1,0 +1,80 @@
+{
+ "slug": "nahcivan-havalimani-pisti",
+ "slugEn": "nahcivan-havalimani-pisti",
+ "gallery": [
+  {
+   "src": "/projeler/nahcivan-havalimani-pisti/katalog-01.jpg",
+   "w": 1740,
+   "h": 774
+  },
+  {
+   "src": "/projeler/nahcivan-havalimani-pisti/katalog-02.jpg",
+   "w": 1142,
+   "h": 786
+  },
+  {
+   "src": "/projeler/nahcivan-havalimani-pisti/katalog-03.jpg",
+   "w": 1142,
+   "h": 786
+  }
+ ],
+ "cover": {
+  "src": "/projeler/nahcivan-havalimani-pisti/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "title": {
+  "tr": "Nahçıvan Uluslararası Havalimanı Pisti",
+  "en": "Nakhchivan International Airport Runway"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "3.500 metre uzunluğundaki pist, tüm altyapı sistemleriyle birlikte modern havacılık standartlarında inşa edilmiştir.",
+   "50 milyon dolar yatırımla tamamlanan proje, bölgenin hava ulaşım kapasitesini önemli ölçüde artırmıştır."
+  ],
+  "en": [
+   "The 3,500-metre runway was built to modern aviation standards together with all infrastructure systems.",
+   "Completed with a $50 million investment, the project significantly increased the region's air transport capacity."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.7-9"
+ },
+ "category": "yol",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Pist uzunluğu",
+    "en": "Runway length"
+   },
+   "value": {
+    "tr": "3.500 m",
+    "en": "3,500 m"
+   }
+  },
+  {
+   "label": {
+    "tr": "Yatırım",
+    "en": "Investment"
+   },
+   "value": {
+    "tr": "50 milyon $",
+    "en": "$50 million"
+   }
+  },
+  {
+   "label": {
+    "tr": "Kapsam",
+    "en": "Scope"
+   },
+   "value": {
+    "tr": "Pist + tüm altyapı sistemleri",
+    "en": "Runway + all infrastructure systems"
+   }
+  }
+ ]
+}

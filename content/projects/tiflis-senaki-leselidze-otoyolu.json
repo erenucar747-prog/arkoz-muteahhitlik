@@ -1,0 +1,63 @@
+{
+ "slug": "tiflis-senaki-leselidze-otoyolu",
+ "slugEn": "tiflis-senaki-leselidze-otoyolu",
+ "gallery": [
+  {
+   "src": "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-01.jpg",
+   "w": 1142,
+   "h": 786
+  },
+  {
+   "src": "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-02.jpg",
+   "w": 1142,
+   "h": 786
+  }
+ ],
+ "cover": {
+  "src": "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-00.jpg",
+  "w": 1060,
+  "h": 1235
+ },
+ "title": {
+  "tr": "Tiflis–Senaki–Leselidze Otoyolu",
+  "en": "Tbilisi–Senaki–Leselidze Highway"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Heyelan riski taşıyan bölgede gerçekleştirilen otoyol inşası ve tahkimat çalışmaları, 40 milyon dolarlık yatırımla tamamlanmıştır."
+  ],
+  "en": [
+   "Highway construction and reinforcement works in a landslide-prone area, completed with a $40 million investment."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.13-14"
+ },
+ "category": "yol",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kapsam",
+    "en": "Scope"
+   },
+   "value": {
+    "tr": "Heyelanlı bölge tahkimatı ve yol inşası",
+    "en": "Landslide-area reinforcement and road construction"
+   }
+  },
+  {
+   "label": {
+    "tr": "Yatırım",
+    "en": "Investment"
+   },
+   "value": {
+    "tr": "40 milyon $",
+    "en": "$40 million"
+   }
+  }
+ ]
+}

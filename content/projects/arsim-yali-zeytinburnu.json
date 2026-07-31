@@ -1,0 +1,145 @@
+{
+ "slug": "arsim-yali-zeytinburnu",
+ "slugEn": "arsim-yali-zeytinburnu",
+ "category": "ust-yapi",
+ "flagship": true,
+ "title": {
+  "tr": "ARSİM Yalı Zeytinburnu",
+  "en": "ARSİM Yalı Zeytinburnu"
+ },
+ "summary": {
+  "tr": "Modern Yaşamın Yeni Mimarisi — Sümer Mahallesi kentsel dönüşüm alanı, Zeytinburnu / İstanbul.",
+  "en": "The New Architecture of Modern Living — Sümer district urban renewal area, Zeytinburnu / Istanbul."
+ },
+ "body": {
+  "tr": [
+   "Modern Yaşamın Yeni Mimarisi. İstanbul'un yerleşik kent dokusuyla yeniden yorumlanan çağdaş mimari; Marmara kıyısı ile tarihi yarımada arasında konumlanıyor.",
+   "Yeşil avlular, çatı bahçeleri, çocuk oyun alanları, açık spor alanları ve sosyal teraslar; zemin katta kafe, restoran ve mağazalar; yaya promenadı ve marina yakınlığı ile gündelik yaşamın tüm ihtiyaçları proje içinde karşılanıyor."
+  ],
+  "en": [
+   "The New Architecture of Modern Living. Contemporary architecture reinterpreted with Istanbul's established urban fabric, positioned between the Marmara coastline and the historic peninsula.",
+   "Green courtyards, rooftop gardens, children's playgrounds, outdoor sports areas and social terraces; cafes, restaurants and shops at ground level; a pedestrian promenade and marina proximity meet the needs of daily life within the project."
+  ]
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Sümer Mah., Zeytinburnu / İstanbul",
+    "en": "Sümer district, Zeytinburnu / Istanbul"
+   }
+  },
+  {
+   "label": {
+    "tr": "Yapı",
+    "en": "Structure"
+   },
+   "value": {
+    "tr": "6 konut bloğu + 1 ofis bloğu",
+    "en": "6 residential blocks + 1 office block"
+   }
+  },
+  {
+   "label": {
+    "tr": "Toplam",
+    "en": "Total"
+   },
+   "value": {
+    "tr": "1.983 daire",
+    "en": "1,983 apartments"
+   }
+  },
+  {
+   "label": {
+    "tr": "Ticari",
+    "en": "Commercial"
+   },
+   "value": {
+    "tr": "Zemin katta kafe, restoran ve mağazalar",
+    "en": "Cafes, restaurants and shops at ground level"
+   }
+  }
+ ],
+ "tipTablosu": [
+  {
+   "tip": "1+1",
+   "adet": 366,
+   "m2": "55,55"
+  },
+  {
+   "tip": "2+1",
+   "adet": 329,
+   "m2": "72,80"
+  },
+  {
+   "tip": {
+    "tr": "2+1 Ayrı Mutfak",
+    "en": "2+1 Separate Kitchen"
+   },
+   "adet": 877,
+   "m2": "96,70"
+  },
+  {
+   "tip": {
+    "tr": "2+1 Dubleks",
+    "en": "2+1 Duplex"
+   },
+   "adet": 82,
+   "m2": "110,60"
+  },
+  {
+   "tip": "3+1",
+   "adet": 329,
+   "m2": "120,45"
+  }
+ ],
+ "cover": {
+  "src": "/projeler/arsim-yali-zeytinburnu/aerial-day.jpg",
+  "w": 1920,
+  "h": 1357
+ },
+ "gallery": [
+  {
+   "src": "/projeler/arsim-yali-zeytinburnu/hero-poster.jpg",
+   "w": 1600,
+   "h": 900
+  },
+  {
+   "src": "/projeler/arsim-yali-zeytinburnu/marina-eye.jpg",
+   "w": 1920,
+   "h": 1357
+  },
+  {
+   "src": "/projeler/arsim-yali-zeytinburnu/courtyard-social.jpg",
+   "w": 1920,
+   "h": 1357
+  },
+  {
+   "src": "/projeler/arsim-yali-zeytinburnu/aerial-courtyard.jpg",
+   "w": 1920,
+   "h": 1357
+  },
+  {
+   "src": "/projeler/arsim-yali-zeytinburnu/blocks-boulevard.jpg",
+   "w": 1920,
+   "h": 1357
+  },
+  {
+   "src": "/projeler/arsim-yali-zeytinburnu/promenade.jpg",
+   "w": 1920,
+   "h": 1357
+  },
+  {
+   "src": "/projeler/arsim-yali-zeytinburnu/aerial-marina.jpg",
+   "w": 1920,
+   "h": 1357
+  }
+ ],
+ "sources": {
+  "tr": "https://arsim-three.vercel.app",
+  "en": "https://arsim-three.vercel.app"
+ }
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "tivi-hes",
+ "slugEn": "tivi-hes",
+ "category": "enerji",
+ "flagship": false,
+ "title": {
+  "tr": "Tivi Hidroelektrik Santrali",
+  "en": "Tivi Hydroelectric Power Plant"
+ },
+ "body": {
+  "tr": [
+   "15 MW kurulu güce sahip Tivi Hidroelektrik Santrali'nin kanal ve sanat yapıları grubumuzca inşa edilmiştir."
+  ],
+  "en": [
+   "The 15 MW Tivi HPP's canal and engineering structures were built by our group."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/tivi-hes/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "gallery": [
+  {
+   "src": "/projeler/tivi-hes/katalog-01.jpg",
+   "w": 1742,
+   "h": 845
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/tivi-hes",
+  "en": "https://arkoz.wscp.net/en/project/tivi-hes",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.34-34"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kurulu güç",
+    "en": "Installed capacity"
+   },
+   "value": {
+    "tr": "15 MW",
+    "en": "15 MW"
+   }
+  }
+ ]
+}

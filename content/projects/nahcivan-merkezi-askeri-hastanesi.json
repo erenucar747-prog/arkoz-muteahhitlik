@@ -1,0 +1,52 @@
+{
+ "slug": "nahcivan-merkezi-askeri-hastanesi",
+ "slugEn": "nahcivan-merkezi-askeri-hastanesi",
+ "category": "ust-yapi",
+ "flagship": false,
+ "title": {
+  "tr": "Garnizon Merkez Askeri Hastanesi",
+  "en": "Garrison Central Military Hospital"
+ },
+ "body": {
+  "tr": [
+   "2013 yılından itibaren Genel Ordu'ya bağlı olan Nahçıvan Garnizon Merkez Hastanesi için inşa edilen yeni bina 5 katlıdır. Modern tıbbi cihazlarla donatılmış 290 yataklı hastanede 1 yatan hasta bölümü, 11 yatan hasta ünitesi ve 13 yardımcı ünite bulunmaktadır. Bina, merkezi ısıtma, tibbi atık yakma fırını, havalandırma, soğutma, elektrik ve su sistemleri ile ameliyathaneler bakteriyolojik filtre ile donatılmıştır."
+  ],
+  "en": []
+ },
+ "cover": {
+  "src": "/projeler/nahcivan-merkezi-askeri-hastanesi/cover.jpg",
+  "w": 1170,
+  "h": 530
+ },
+ "gallery": [
+  {
+   "src": "/projeler/nahcivan-merkezi-askeri-hastanesi/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/nahcivan-merkezi-askeri-hastanesi/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/nahcivan-merkezi-askeri-hastanesi/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/nahcivan-merkezi-askeri-hastanesi/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/nahcivan-merkezi-askeri-hastanesi",
+  "en": "https://arkoz.wscp.net/en/project/nahcivan-merkezi-askeri-hastanesi",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ }
+}

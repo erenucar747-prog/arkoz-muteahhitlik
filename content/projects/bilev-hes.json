@@ -1,0 +1,52 @@
+{
+ "slug": "bilev-hes",
+ "slugEn": "bilev-hidroelektrik-elektrik-santrali",
+ "category": "enerji",
+ "flagship": false,
+ "title": {
+  "tr": "Bilev Hidroelektrik Santrali",
+  "en": "Bilev Hydroelectric Power Plant"
+ },
+ "body": {
+  "tr": [
+   "20 MW kurulu güce sahip Bilev Hidroelektrik Santrali, kanal ve şalt sahasıyla birlikte anahtar teslim inşa edilmiştir."
+  ],
+  "en": [
+   "With 20 MW installed capacity, the Bilev HPP was built turnkey together with its canal and switchyard."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/bilev-hes/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "gallery": [
+  {
+   "src": "/projeler/bilev-hes/katalog-01.jpg",
+   "w": 1742,
+   "h": 1234
+  },
+  {
+   "src": "/projeler/bilev-hes/katalog-02.jpg",
+   "w": 1742,
+   "h": 845
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/bilev-hidroelektrik-elektrik-santrali",
+  "en": "https://arkoz.wscp.net/en/project/bilev-hidroelektrik-elektrik-santrali",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.31-33"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kurulu güç",
+    "en": "Installed capacity"
+   },
+   "value": {
+    "tr": "20 MW",
+    "en": "20 MW"
+   }
+  }
+ ]
+}

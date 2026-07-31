@@ -1,0 +1,29 @@
+{
+ "slug": "rekreasyon-merkezi",
+ "slugEn": "rekreasyon-merkezi",
+ "gallery": [
+  {
+   "src": "/projeler/rekreasyon-merkezi/katalog-thumb.jpg",
+   "w": 469,
+   "h": 249,
+   "thumbOnly": true
+  }
+ ],
+ "cover": null,
+ "title": {
+  "tr": "Rekreasyon Merkezi",
+  "en": "Recreation Center"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ },
+ "category": "ust-yapi"
+}

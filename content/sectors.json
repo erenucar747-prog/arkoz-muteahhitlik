@@ -1,0 +1,82 @@
+{
+ "yol": {
+  "ad": {
+   "tr": "Yol ve Ulaştırma",
+   "en": "Roads and Transportation"
+  },
+  "istatistik": {
+   "tr": "2.120.000 m² şehir içi · 8.200.000 m² şehirlerarası yol",
+   "en": "2,120,000 m² urban · 8,200,000 m² intercity roads"
+  }
+ },
+ "su": {
+  "ad": {
+   "tr": "Su ve Altyapı",
+   "en": "Water and Infrastructure"
+  },
+  "istatistik": {
+   "tr": "2.100 km temiz su hattı · 1.500 km kanalizasyon hattı",
+   "en": "2,100 km clean water lines · 1,500 km sewerage lines"
+  }
+ },
+ "insaat": {
+  "ad": {
+   "tr": "Endüstriyel İnşaat",
+   "en": "Industrial Construction"
+  },
+  "istatistik": {
+   "tr": "160 milyon $ AzerGold altın üretim tesisi",
+   "en": "$160M AzerGold gold production facility"
+  }
+ },
+ "enerji": {
+  "ad": {
+   "tr": "Enerji",
+   "en": "Energy"
+  },
+  "istatistik": {
+   "tr": "93,5 MW HES · 33 MW GES kurulu güç",
+   "en": "93.5 MW hydro · 33 MW solar installed capacity"
+  }
+ },
+ "ust-yapi": {
+  "ad": {
+   "tr": "Üst Yapı",
+   "en": "Buildings"
+  },
+  "istatistik": {
+   "tr": "Konut, hastane, cami, arena ve kamu yapıları",
+   "en": "Housing, hospitals, mosques, arenas and public buildings"
+  }
+ },
+ "sanayi": {
+  "ad": {
+   "tr": "Sanayi",
+   "en": "Industry"
+  },
+  "istatistik": {
+   "tr": "Çimento, gazbeton, mermer, tuğla, mobilya üretimi",
+   "en": "Cement, AAC, marble, brick and furniture production"
+  }
+ },
+ "turizm": {
+  "ad": {
+   "tr": "Turizm",
+   "en": "Tourism"
+  },
+  "istatistik": {
+   "tr": "Swissotel ve Mercure otel yatırımları",
+   "en": "Swissotel and Mercure hotel investments"
+  }
+ },
+ "perakende": {
+  "ad": {
+   "tr": "Perakende",
+   "en": "Retail"
+  },
+  "istatistik": {
+   "tr": "Madame Coco ve Decoria mağaza yatırımları",
+   "en": "Madame Coco and Decoria retail investments"
+  }
+ }
+}

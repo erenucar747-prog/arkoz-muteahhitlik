@@ -1,0 +1,38 @@
+{
+ "slug": "beton-uretim-tesisleri",
+ "slugEn": "beton-uretim-tesisleri",
+ "gallery": [],
+ "cover": null,
+ "title": {
+  "tr": "Beton Üretim Tesisleri",
+  "en": "Concrete Production Facilities"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Şemkir, Ağdaş, Kazak, Guba ve Pirşahi'deki hazır beton santrallerimiz, yüksek kapasiteli beton ve agrega üretimi yapıyor. Otomatik sistemlerle donatılan bu tesisler, artan inşaat taleplerine hızlı ve güvenilir çözümler üretir."
+  ],
+  "en": [
+   "Our ready-mixed concrete plants in Shemkir, Aghdash, Kazakh, Guba, and Pirshahi produce high-capacity concrete and aggregate. Equipped with automatic systems, these facilities provide fast and reliable solutions to increasing construction demands."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.75-75"
+ },
+ "category": "sanayi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Sahalar",
+    "en": "Sites"
+   },
+   "value": {
+    "tr": "Şemkir · Ağdaş · Kazak · Guba · Pirşahi",
+    "en": "Shemkir · Aghdash · Kazakh · Guba · Pirshahi"
+   }
+  }
+ ]
+}

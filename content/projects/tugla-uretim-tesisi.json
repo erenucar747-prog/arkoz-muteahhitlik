@@ -1,0 +1,48 @@
+{
+ "slug": "tugla-uretim-tesisi",
+ "slugEn": "tugla-uretim-tesisi",
+ "gallery": [],
+ "cover": null,
+ "title": {
+  "tr": "Tuğla Üretim Tesisi",
+  "en": "Brick Production Facility"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "2008 yılında kurulan tesisimiz, günde 60.000 adet yüksek kaliteli tuğla üretmektedir."
+  ],
+  "en": [
+   "Our facility established in 2008 produces 60,000 high-quality bricks daily."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.75-75"
+ },
+ "category": "sanayi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kapasite",
+    "en": "Capacity"
+   },
+   "value": {
+    "tr": "60.000 adet/gün",
+    "en": "60,000 units/day"
+   }
+  },
+  {
+   "label": {
+    "tr": "Kuruluş",
+    "en": "Established"
+   },
+   "value": {
+    "tr": "2008",
+    "en": "2008"
+   }
+  }
+ ]
+}

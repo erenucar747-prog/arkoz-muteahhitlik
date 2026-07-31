@@ -1,0 +1,54 @@
+{
+ "slug": "haydar-aliyev-sarayi",
+ "slugEn": "haydar-aliyev-sarayi",
+ "category": "ust-yapi",
+ "flagship": false,
+ "title": {
+  "tr": "Heyder Aliyev Sarayı",
+  "en": "Heyder Aliyev Palace"
+ },
+ "body": {
+  "tr": [
+   "Nahçıvan'ın kültür yaşamının merkezi olan saray; konser ve gösteri salonları, fuayeleri ve sahne altyapısıyla grubumuzca inşa edilmiştir."
+  ],
+  "en": [
+   "The palace at the heart of Nakhchivan's cultural life was built by our group with its concert and performance halls, foyers and stage infrastructure."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/haydar-aliyev-sarayi/katalog-00.jpg",
+  "w": 1743,
+  "h": 1048
+ },
+ "gallery": [
+  {
+   "src": "/projeler/haydar-aliyev-sarayi/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/haydar-aliyev-sarayi/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/haydar-aliyev-sarayi/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/haydar-aliyev-sarayi/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/haydar-aliyev-sarayi",
+  "en": "https://arkoz.wscp.net/en/project/haydar-aliyev-sarayi",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.53-54"
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "slug": "green-budapest",
+ "slugEn": "green-budapest",
+ "category": "ust-yapi",
+ "flagship": false,
+ "title": {
+  "tr": "Green Budapest",
+  "en": "Green Budapest"
+ },
+ "body": {
+  "tr": [
+   "Şehir merkezinde 360 konut, kapalı otopark ve ticari alanlardan oluşan bu proje, Maqro İnşaat'ın bölgede hayata geçirdiği ilk konut yatırımıdır."
+  ],
+  "en": [
+   "Located in the city center, this project consists of 360 residential units with covered parking and commercial areas. This is Maqro Construction's first residential investment implemented in the region."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/green-budapest/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "gallery": [
+  {
+   "src": "/projeler/green-budapest/katalog-01.jpg",
+   "w": 1738,
+   "h": 1235
+  },
+  {
+   "src": "/projeler/green-budapest/katalog-02.jpg",
+   "w": 1743,
+   "h": 643
+  },
+  {
+   "src": "/projeler/green-budapest/cover.jpg",
+   "w": 1170,
+   "h": 530
+  },
+  {
+   "src": "/projeler/green-budapest/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/green-budapest/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/green-budapest/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/green-budapest/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/green-budapest",
+  "en": "https://arkoz.wscp.net/en/project/green-budapest",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.37-38"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Tiflis şehir merkezi, Gürcistan",
+    "en": "Tbilisi city center, Georgia"
+   }
+  },
+  {
+   "label": {
+    "tr": "Konut",
+    "en": "Residential units"
+   },
+   "value": {
+    "tr": "360",
+    "en": "360"
+   }
+  },
+  {
+   "label": {
+    "tr": "Not",
+    "en": "Note"
+   },
+   "value": {
+    "tr": "Bölgedeki ilk konut yatırımımız",
+    "en": "Our first residential investment in the region"
+   }
+  }
+ ]
+}

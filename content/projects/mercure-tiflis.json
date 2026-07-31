@@ -1,0 +1,59 @@
+{
+ "slug": "mercure-tiflis",
+ "slugEn": "tiflis-mercure-otel",
+ "category": "turizm",
+ "flagship": false,
+ "title": {
+  "tr": "Mercure Tiflis Old Town",
+  "en": "Mercure Tbilisi Old Town"
+ },
+ "body": {
+  "tr": [
+   "Tiflis'in tarihi merkezinde yer alan Mercure Tiflis Old Town, turizm yatırımlarımızın ilk halkalarındandır."
+  ],
+  "en": [
+   "Located in Tbilisi's historic center, Mercure Tbilisi Old Town is among the first of our tourism investments."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/mercure-tiflis/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "gallery": [
+  {
+   "src": "/projeler/mercure-tiflis/katalog-01.jpg",
+   "w": 1742,
+   "h": 902
+  },
+  {
+   "src": "/projeler/tiflis-mercure-otel/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/tiflis-mercure-otel/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/tiflis-mercure-otel/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/tiflis-mercure-otel/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/tiflis-mercure-otel",
+  "en": "https://arkoz.wscp.net/en/project/tiflis-mercure-otel",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.85-86"
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "slug": "arkoz-kazak-cimento",
+ "slugEn": "arkoz-qazax-cimento-fabrikasi-mmc",
+ "category": "sanayi",
+ "flagship": false,
+ "title": {
+  "tr": "Arkoz Kazak Çimento Fabrikası",
+  "en": "Arkoz Kazakh Cement Factory"
+ },
+ "body": {
+  "tr": [
+   "Günlük 3.500 ton klinker ve yıllık 1,3 milyon ton çimento üretim kapasitesiyle ülkenin önemli sanayi merkezlerinden biri konumundadır."
+  ],
+  "en": [
+   "With daily 3,500 tons of clinker and annual 1.3 million tons of cement production capacity, it is one of the country's important industrial centers."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/arkoz-kazak-cimento/katalog-00.jpg",
+  "w": 2313,
+  "h": 2469
+ },
+ "gallery": [
+  {
+   "src": "/projeler/arkoz-kazak-cimento/katalog-01.jpg",
+   "w": 2313,
+   "h": 2469
+  },
+  {
+   "src": "/projeler/arkoz-kazak-cimento/katalog-02.jpg",
+   "w": 2313,
+   "h": 2469
+  },
+  {
+   "src": "/projeler/arkoz-kazak-cimento/katalog-03.jpg",
+   "w": 2213,
+   "h": 1235
+  },
+  {
+   "src": "/projeler/arkoz-kazak-cimento/katalog-04.jpg",
+   "w": 2213,
+   "h": 1235
+  },
+  {
+   "src": "/projeler/arkoz-kazak-cimento/katalog-05.jpg",
+   "w": 1742,
+   "h": 1229
+  },
+  {
+   "src": "/projeler/arkoz-kazak-cimento/katalog-06.jpg",
+   "w": 1742,
+   "h": 1229
+  },
+  {
+   "src": "/projeler/arkoz-kazak-cimento/katalog-07.jpg",
+   "w": 1742,
+   "h": 1229
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/arkoz-qazax-cimento-fabrikasi-mmc",
+  "en": "https://arkoz.wscp.net/en/project/arkoz-qazax-cimento-fabrikasi-mmc",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.61-65"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Klinker",
+    "en": "Clinker"
+   },
+   "value": {
+    "tr": "3.500 ton/gün",
+    "en": "3,500 t/day"
+   }
+  },
+  {
+   "label": {
+    "tr": "Çimento",
+    "en": "Cement"
+   },
+   "value": {
+    "tr": "1.300.000 ton/yıl",
+    "en": "1,300,000 t/year"
+   }
+  }
+ ]
+}

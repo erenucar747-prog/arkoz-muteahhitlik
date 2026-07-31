@@ -1,0 +1,36 @@
+{
+ "slug": "gumruk-kapisi",
+ "slugEn": "gumruk-kapisi",
+ "gallery": [
+  {
+   "src": "/projeler/gumruk-kapisi/katalog-01.jpg",
+   "w": 1742,
+   "h": 903
+  }
+ ],
+ "cover": {
+  "src": "/projeler/gumruk-kapisi/katalog-00.jpg",
+  "w": 2326,
+  "h": 2469
+ },
+ "title": {
+  "tr": "Gümrük Kapısı",
+  "en": "Customs Gate"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Modern sınır kapısı kompleksi; yolcu ve yük terminalleri, denetim altyapısı ve idari binalarıyla anahtar teslim tamamlanmıştır."
+  ],
+  "en": [
+   "A modern border-gate complex delivered turnkey with passenger and freight terminals, inspection infrastructure and administrative buildings."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.57-57"
+ },
+ "category": "ust-yapi"
+}

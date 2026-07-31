@@ -1,0 +1,109 @@
+{
+ "slug": "sagarejo-badiauri-yolu",
+ "slugEn": "gurcistan-sagarejo-yol-projesi",
+ "category": "yol",
+ "flagship": false,
+ "title": {
+  "tr": "Sagarejo–Badiauri Yolu",
+  "en": "Sagarejo–Badiauri Road"
+ },
+ "body": {
+  "tr": [
+   "Tiflis'i Azerbaycan sınırına bağlayan 26 kilometrelik modern yol, Dünya Bankası finansmanıyla inşa edilmiştir.",
+   "155 milyon dolar yatırım değerine sahip proje, Gürcistan'ın doğu koridorunun ana arterlerinden biridir."
+  ],
+  "en": [
+   "A 26-kilometre modern road connecting Tbilisi to the Azerbaijani border, built with World Bank financing.",
+   "With an investment value of $155 million, it is one of the main arteries of Georgia's eastern corridor."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/sagarejo-badiauri-yolu/katalog-00.jpg",
+  "w": 1059,
+  "h": 1235
+ },
+ "gallery": [
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-01.jpg",
+   "w": 779,
+   "h": 547
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-02.jpg",
+   "w": 808,
+   "h": 559
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-03.jpg",
+   "w": 799,
+   "h": 558
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-04.jpg",
+   "w": 803,
+   "h": 558
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-05.jpg",
+   "w": 1252,
+   "h": 859
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-06.jpg",
+   "w": 803,
+   "h": 559
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-07.jpg",
+   "w": 803,
+   "h": 565
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-08.jpg",
+   "w": 810,
+   "h": 565
+  },
+  {
+   "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-09.jpg",
+   "w": 810,
+   "h": 564
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/gurcistan-sagarejo-yol-projesi",
+  "en": "https://arkoz.wscp.net/en/project/gurcistan-sagarejo-yol-projesi",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.10-12"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Uzunluk",
+    "en": "Length"
+   },
+   "value": {
+    "tr": "26 km",
+    "en": "26 km"
+   }
+  },
+  {
+   "label": {
+    "tr": "Finansman",
+    "en": "Financing"
+   },
+   "value": {
+    "tr": "Dünya Bankası",
+    "en": "World Bank"
+   }
+  },
+  {
+   "label": {
+    "tr": "Yatırım",
+    "en": "Investment"
+   },
+   "value": {
+    "tr": "155 milyon $",
+    "en": "$155 million"
+   }
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "slug": "maqro-city-batumi",
+ "slugEn": "maqro-city-batumi",
+ "gallery": [
+  {
+   "src": "/projeler/maqro-city-batumi/katalog-01.jpg",
+   "w": 1742,
+   "h": 974
+  }
+ ],
+ "cover": {
+  "src": "/projeler/maqro-city-batumi/katalog-00.jpg",
+  "w": 1740,
+  "h": 1232
+ },
+ "title": {
+  "tr": "Maqro City Batum",
+  "en": "Maqro City Batumi"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Batum şehir merkezindeki 87.000 m² arazide geliştirilen proje; 3.000 konutluk kapalı otopark, ticari ve sosyal alanlardan oluşan yapısıyla prestijli bir yaşam alanı sunmaktadır.",
+   "Modern yaşamla birlikte yüksek yatırım getirisi hedefiyle lansman sürecine hazırlanmaktadır."
+  ],
+  "en": [
+   "Developed on 87,000 m² of land in Batumi city center, this project offers a prestigious living space with its structure consisting of 3,000 residential units with covered parking, commercial and social areas.",
+   "It is being prepared for launch with the goal of combining modern living with high investment returns."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.44-46"
+ },
+ "category": "ust-yapi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Batum şehir merkezi, Gürcistan",
+    "en": "Batumi city center, Georgia"
+   }
+  },
+  {
+   "label": {
+    "tr": "Arazi",
+    "en": "Land"
+   },
+   "value": {
+    "tr": "87.000 m²",
+    "en": "87,000 m²"
+   }
+  },
+  {
+   "label": {
+    "tr": "Konut",
+    "en": "Residential units"
+   },
+   "value": {
+    "tr": "3.000",
+    "en": "3,000"
+   }
+  },
+  {
+   "label": {
+    "tr": "Durum",
+    "en": "Status"
+   },
+   "value": {
+    "tr": "Lansmana hazırlanıyor",
+    "en": "Preparing for launch"
+   }
+  }
+ ]
+}

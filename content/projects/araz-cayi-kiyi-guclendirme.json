@@ -1,0 +1,53 @@
+{
+ "slug": "araz-cayi-kiyi-guclendirme",
+ "slugEn": "araz-cayi-kiyi-guclendirme",
+ "gallery": [
+  {
+   "src": "/projeler/araz-cayi-kiyi-guclendirme/katalog-01.jpg",
+   "w": 1142,
+   "h": 786
+  },
+  {
+   "src": "/projeler/araz-cayi-kiyi-guclendirme/katalog-02.jpg",
+   "w": 1142,
+   "h": 786
+  }
+ ],
+ "cover": {
+  "src": "/projeler/araz-cayi-kiyi-guclendirme/katalog-00.jpg",
+  "w": 1060,
+  "h": 1235
+ },
+ "title": {
+  "tr": "Araz Çayı Kıyı Güçlendirme",
+  "en": "Araz River Bank Reinforcement"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Araz Çayı boyunca 32 kilometrelik sahil güçlendirme çalışması gerçekleştirilmiştir."
+  ],
+  "en": [
+   "A 32-kilometre bank reinforcement work was carried out along the Araz River."
+  ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.17-18"
+ },
+ "category": "su",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Uzunluk",
+    "en": "Length"
+   },
+   "value": {
+    "tr": "32 km",
+    "en": "32 km"
+   }
+  }
+ ]
+}

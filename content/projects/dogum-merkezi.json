@@ -1,0 +1,53 @@
+{
+ "slug": "dogum-merkezi",
+ "slugEn": "dogum-merkezi",
+ "category": "ust-yapi",
+ "flagship": false,
+ "title": {
+  "tr": "Doğum Merkezi",
+  "en": "Maternity Center"
+ },
+ "body": {
+  "tr": [
+   "Merkezin toplam alanı 1.26 hektardır. Binanın alanı 14.520 metrekaredir. Altı katlı sağlık kurumunun 100 yatağı var. Merkezde 7 adet perinatal tanı ve poliklinik, tüp bebek, fizyolojik doğum, jinekoloji, gebelik patolojisi, anesteziyoloji, resüsitasyon ve yoğun bakım, klinik laboratuvar bulunmaktadır. Ayrıca Yenidoğan resüsitasyon ve yoğun bakım Üniteleri ve erken resüsitasyon bölümleri vardır. Sağlık merkezinde ayrıca bir ameliyathane bulunmaktadır.",
+   "Doğum merkezinde fizik tedavi odası, embriyoloji ve androloji odaları, 2 büyük ve 2 küçük ameliyathane, diş ve jinekolojik muayene odaları bulunmaktadır. Tıp kurumunda 65 doktor, 102 hemşire, 61 genç hemşire, 42 servis çalışanı, toplam 270 kişi çalışıyor."
+  ],
+  "en": []
+ },
+ "cover": {
+  "src": "/projeler/dogum-merkezi/cover.jpg",
+  "w": 1170,
+  "h": 530
+ },
+ "gallery": [
+  {
+   "src": "/projeler/dogum-merkezi/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/dogum-merkezi/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/dogum-merkezi/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/dogum-merkezi/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/dogum-merkezi",
+  "en": "https://arkoz.wscp.net/en/project/dogum-merkezi",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ }
+}

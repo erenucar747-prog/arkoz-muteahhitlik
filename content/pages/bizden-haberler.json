@@ -1,0 +1,31 @@
+{
+ "slug": "bizden-haberler",
+ "title": {
+  "tr": "Bizden Haberler",
+  "en": "News"
+ },
+ "body": {
+  "tr": [
+   "Bilgi Hattı",
+   "Şerifali Mah.Türker Cad.No:35 Arkoz İş Merkezi Ümraniye / İstanbul",
+   "+90 216 466 16 10",
+   "info@arkozdisticaret.com.tr",
+   "Son haberlerimiz ve projelerimiz hakkında bilgi almak için kayıt olun.",
+   "© Copyright 2023 | Arkoz Müteahhitlik",
+   "Web Tasarım WebStudio"
+  ],
+  "en": [
+   "Information Line",
+   "Şerifali Mah.Türker Cad.No:35 Arkoz İş Merkezi Ümraniye / İstanbul",
+   "+90 216 466 16 10",
+   "info@arkozdisticaret.com.tr",
+   "Sign up to receive information about our latest news and projects.",
+   "© Copyright 2023 | Arkoz Müteahhitlik",
+   "Web Desing WebStudio"
+  ]
+ },
+ "sources": {
+  "tr": "https://arkoz.wscp.net/bizden-haberler",
+  "en": "https://arkoz.wscp.net/en/news"
+ }
+}

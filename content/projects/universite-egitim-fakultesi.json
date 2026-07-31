@@ -1,0 +1,29 @@
+{
+ "slug": "universite-egitim-fakultesi",
+ "slugEn": "universite-egitim-fakultesi",
+ "gallery": [
+  {
+   "src": "/projeler/universite-egitim-fakultesi/katalog-thumb.jpg",
+   "w": 469,
+   "h": 249,
+   "thumbOnly": true
+  }
+ ],
+ "cover": null,
+ "title": {
+  "tr": "Üniversite Eğitim Fakültesi",
+  "en": "University Faculty of Education"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [],
+  "en": []
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ },
+ "category": "ust-yapi"
+}
