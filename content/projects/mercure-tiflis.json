@@ -50,5 +50,17 @@
     "tr": "https://arkoz.wscp.net/projelerimiz/tiflis-mercure-otel",
     "en": "https://arkoz.wscp.net/en/project/tiflis-mercure-otel",
     "katalog": "Arkoz & Maqro Group Kataloğu s.85-86"
-  }
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Tiflis",
+        "en": "Tbilisi"
+      }
+    }
+  ]
 }

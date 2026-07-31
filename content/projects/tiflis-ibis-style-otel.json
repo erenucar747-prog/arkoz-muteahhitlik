@@ -1,57 +1,69 @@
 {
- "slug": "tiflis-ibis-style-otel",
- "slugEn": "tiflis-ibis-style-otel",
- "category": "turizm",
- "flagship": false,
- "title": {
-  "tr": "Tiflis İbis Style Otel",
-  "en": "Arkoz Müteahhitlik"
- },
- "body": {
-  "tr": [
-   "Son yılların en popüler turizm destinasyonlarından olan Tiflis şehrinin özgürlük meydanında yer almaktadır. 119 oda ve 238 yatak kapasitesi ile faaliyetini sürdürmektedir."
+  "slug": "tiflis-ibis-style-otel",
+  "slugEn": "tiflis-ibis-style-otel",
+  "category": "turizm",
+  "flagship": false,
+  "title": {
+    "tr": "Tiflis İbis Style Otel",
+    "en": "Arkoz Müteahhitlik"
+  },
+  "body": {
+    "tr": [
+      "Son yılların en popüler turizm destinasyonlarından olan Tiflis şehrinin özgürlük meydanında yer almaktadır. 119 oda ve 238 yatak kapasitesi ile faaliyetini sürdürmektedir."
+    ],
+    "en": []
+  },
+  "cover": {
+    "src": "/projeler/tiflis-ibis-style-otel/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [
+    {
+      "src": "/projeler/tiflis-ibis-style-otel/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-ibis-style-otel/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-ibis-style-otel/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-ibis-style-otel/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-ibis-style-otel/g-05.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/tiflis-ibis-style-otel/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [
-  {
-   "src": "/projeler/tiflis-ibis-style-otel/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/tiflis-ibis-style-otel",
+    "en": "https://arkoz.wscp.net/en/project/tiflis-ibis-style-otel"
   },
-  {
-   "src": "/projeler/tiflis-ibis-style-otel/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tiflis-ibis-style-otel/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tiflis-ibis-style-otel/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tiflis-ibis-style-otel/g-05.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/tiflis-ibis-style-otel",
-  "en": "https://arkoz.wscp.net/en/project/tiflis-ibis-style-otel"
- }
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Tiflis",
+        "en": "Tbilisi"
+      }
+    }
+  ]
 }

@@ -1,27 +1,39 @@
 {
- "slug": "culfa-ges",
- "slugEn": "culfa-ges",
- "category": "enerji",
- "flagship": false,
- "title": {
-  "tr": "Culfa-GES",
-  "en": "Arkoz Müteahhitlik"
- },
- "body": {
-  "tr": [
-   "Proje, Culfa ilçesinde 27.000 m2'lik bir alanda yer almaktadır. Proje tek parselden oluşmakta olup, projenin üretim kapasitesi 1 megavattır. Projede 1 trafo merkezi, 36 m2 tek katlı kontrol binası yapılmıştır.",
-   "Projeye 5 adet 10.000 watt'lık rüzgar türbini sonradan eklenmiştir. Alan 720 metre tel pano ile çevrilmiş, 700 metre enerji hattı kazılmış, 2080 panel desteği betonlanmış, 80 panel desteği takılmış, 3520 panel yerleştirilmiştir."
-  ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/culfa-ges/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/culfa-ges",
-  "en": "https://arkoz.wscp.net/en/project/culfa-ges"
- }
+  "slug": "culfa-ges",
+  "slugEn": "culfa-ges",
+  "category": "enerji",
+  "flagship": false,
+  "title": {
+    "tr": "Culfa-GES",
+    "en": "Arkoz Müteahhitlik"
+  },
+  "body": {
+    "tr": [
+      "Proje, Culfa ilçesinde 27.000 m2'lik bir alanda yer almaktadır. Proje tek parselden oluşmakta olup, projenin üretim kapasitesi 1 megavattır. Projede 1 trafo merkezi, 36 m2 tek katlı kontrol binası yapılmıştır.",
+      "Projeye 5 adet 10.000 watt'lık rüzgar türbini sonradan eklenmiştir. Alan 720 metre tel pano ile çevrilmiş, 700 metre enerji hattı kazılmış, 2080 panel desteği betonlanmış, 80 panel desteği takılmış, 3520 panel yerleştirilmiştir."
+    ],
+    "en": []
+  },
+  "cover": {
+    "src": "/projeler/culfa-ges/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [],
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/culfa-ges",
+    "en": "https://arkoz.wscp.net/en/project/culfa-ges"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Culfa",
+        "en": "Julfa"
+      }
+    }
+  ]
 }

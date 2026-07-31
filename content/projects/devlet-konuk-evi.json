@@ -1,29 +1,55 @@
 {
- "slug": "devlet-konuk-evi",
- "slugEn": "devlet-konuk-evi",
- "gallery": [
-  {
-   "src": "/projeler/devlet-konuk-evi/katalog-thumb.jpg",
-   "w": 468,
-   "h": 249,
-   "thumbOnly": true
-  }
- ],
- "cover": null,
- "title": {
-  "tr": "Devlet Konuk Evi",
-  "en": "State Guest House"
- },
- "summary": {
-  "tr": "",
-  "en": ""
- },
- "body": {
-  "tr": [],
-  "en": []
- },
- "sources": {
-  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
- },
- "category": "ust-yapi"
+  "slug": "devlet-konuk-evi",
+  "slugEn": "devlet-konuk-evi",
+  "gallery": [
+    {
+      "src": "/projeler/devlet-konuk-evi/katalog-thumb.jpg",
+      "w": 468,
+      "h": 249,
+      "thumbOnly": true
+    }
+  ],
+  "cover": null,
+  "title": {
+    "tr": "Devlet Konuk Evi",
+    "en": "State Guest House"
+  },
+  "summary": {
+    "tr": "",
+    "en": ""
+  },
+  "body": {
+    "tr": [
+      "Nahçıvan'da hayata geçirilen kamu yapıları programı kapsamında inşa edilen Devlet Konuk Evi, resmî konukların ağırlanması için tasarlanmış bir üst yapı projesidir."
+    ],
+    "en": [
+      "Built as part of the public buildings programme realised in Nakhchivan, the State Guest House is a superstructure project designed to host official guests."
+    ]
+  },
+  "sources": {
+    "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+  },
+  "category": "ust-yapi",
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Nahçıvan, Azerbaycan",
+        "en": "Nakhchivan, Azerbaijan"
+      }
+    },
+    {
+      "label": {
+        "tr": "Tür",
+        "en": "Type"
+      },
+      "value": {
+        "tr": "Kamu binası",
+        "en": "Public building"
+      }
+    }
+  ]
 }

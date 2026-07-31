@@ -109,6 +109,16 @@
         "tr": "160 milyon $",
         "en": "$160 million"
       }
+    },
+    {
+      "label": {
+        "tr": "Tamamlanma",
+        "en": "Completed"
+      },
+      "value": {
+        "tr": "2023",
+        "en": "2023"
+      }
     }
   ]
 }

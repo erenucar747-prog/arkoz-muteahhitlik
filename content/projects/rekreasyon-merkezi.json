@@ -1,29 +1,55 @@
 {
- "slug": "rekreasyon-merkezi",
- "slugEn": "rekreasyon-merkezi",
- "gallery": [
-  {
-   "src": "/projeler/rekreasyon-merkezi/katalog-thumb.jpg",
-   "w": 469,
-   "h": 249,
-   "thumbOnly": true
-  }
- ],
- "cover": null,
- "title": {
-  "tr": "Rekreasyon Merkezi",
-  "en": "Recreation Center"
- },
- "summary": {
-  "tr": "",
-  "en": ""
- },
- "body": {
-  "tr": [],
-  "en": []
- },
- "sources": {
-  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
- },
- "category": "ust-yapi"
+  "slug": "rekreasyon-merkezi",
+  "slugEn": "rekreasyon-merkezi",
+  "gallery": [
+    {
+      "src": "/projeler/rekreasyon-merkezi/katalog-thumb.jpg",
+      "w": 469,
+      "h": 249,
+      "thumbOnly": true
+    }
+  ],
+  "cover": null,
+  "title": {
+    "tr": "Rekreasyon Merkezi",
+    "en": "Recreation Center"
+  },
+  "summary": {
+    "tr": "",
+    "en": ""
+  },
+  "body": {
+    "tr": [
+      "Nahçıvan'daki kamu yapıları programı kapsamında inşa edilen rekreasyon merkezi, bölge halkının sosyal yaşamına hizmet eden bir üst yapı projesidir."
+    ],
+    "en": [
+      "Built within the public buildings programme in Nakhchivan, the recreation centre is a superstructure project serving the social life of the region."
+    ]
+  },
+  "sources": {
+    "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+  },
+  "category": "ust-yapi",
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Nahçıvan, Azerbaycan",
+        "en": "Nakhchivan, Azerbaijan"
+      }
+    },
+    {
+      "label": {
+        "tr": "Tür",
+        "en": "Type"
+      },
+      "value": {
+        "tr": "Sosyal tesis",
+        "en": "Social facility"
+      }
+    }
+  ]
 }

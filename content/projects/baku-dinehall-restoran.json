@@ -1,58 +1,70 @@
 {
- "slug": "baku-dinehall-restoran",
- "slugEn": "baku-dinehall-restoran",
- "category": "turizm",
- "flagship": false,
- "title": {
-  "tr": "Bakü Dinehall Restoran",
-  "en": "Arkoz Müteahhitlik"
- },
- "body": {
-  "tr": [
-   "Grubun 1300m2 alan ile faaliyete giren Dinehall restoranın ikinci şubesi Bakü'de yer almaktadır. Şehrin en popüler turizm bölgesinde ve Bakü bulvarı üzerinde, DENİZ MALL bünyesinde bulunmaktadır.",
-   "Ayrıca fast food alanındaki ilk şubesi Bakü Genclik Mall'de yakında faaliyete başlayacaktır."
+  "slug": "baku-dinehall-restoran",
+  "slugEn": "baku-dinehall-restoran",
+  "category": "turizm",
+  "flagship": false,
+  "title": {
+    "tr": "Bakü Dinehall Restoran",
+    "en": "Arkoz Müteahhitlik"
+  },
+  "body": {
+    "tr": [
+      "Grubun 1300m2 alan ile faaliyete giren Dinehall restoranın ikinci şubesi Bakü'de yer almaktadır. Şehrin en popüler turizm bölgesinde ve Bakü bulvarı üzerinde, DENİZ MALL bünyesinde bulunmaktadır.",
+      "Ayrıca fast food alanındaki ilk şubesi Bakü Genclik Mall'de yakında faaliyete başlayacaktır."
+    ],
+    "en": []
+  },
+  "cover": {
+    "src": "/projeler/baku-dinehall-restoran/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [
+    {
+      "src": "/projeler/baku-dinehall-restoran/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/baku-dinehall-restoran/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/baku-dinehall-restoran/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/baku-dinehall-restoran/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/baku-dinehall-restoran/g-05.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/baku-dinehall-restoran/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [
-  {
-   "src": "/projeler/baku-dinehall-restoran/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/baku-dinehall-restoran",
+    "en": "https://arkoz.wscp.net/en/project/baku-dinehall-restoran"
   },
-  {
-   "src": "/projeler/baku-dinehall-restoran/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/baku-dinehall-restoran/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/baku-dinehall-restoran/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/baku-dinehall-restoran/g-05.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/baku-dinehall-restoran",
-  "en": "https://arkoz.wscp.net/en/project/baku-dinehall-restoran"
- }
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Bakü",
+        "en": "Baku"
+      }
+    }
+  ]
 }

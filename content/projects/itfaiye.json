@@ -1,29 +1,55 @@
 {
- "slug": "itfaiye",
- "slugEn": "itfaiye",
- "gallery": [
-  {
-   "src": "/projeler/itfaiye/katalog-thumb.jpg",
-   "w": 468,
-   "h": 248,
-   "thumbOnly": true
-  }
- ],
- "cover": null,
- "title": {
-  "tr": "İtfaiye Binası",
-  "en": "Firefighting Building"
- },
- "summary": {
-  "tr": "",
-  "en": ""
- },
- "body": {
-  "tr": [],
-  "en": []
- },
- "sources": {
-  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
- },
- "category": "ust-yapi"
+  "slug": "itfaiye",
+  "slugEn": "itfaiye",
+  "gallery": [
+    {
+      "src": "/projeler/itfaiye/katalog-thumb.jpg",
+      "w": 468,
+      "h": 248,
+      "thumbOnly": true
+    }
+  ],
+  "cover": null,
+  "title": {
+    "tr": "İtfaiye Binası",
+    "en": "Firefighting Building"
+  },
+  "summary": {
+    "tr": "",
+    "en": ""
+  },
+  "body": {
+    "tr": [
+      "Nahçıvan'daki kamu yapıları programı kapsamında inşa edilen itfaiye binası, bölgenin acil müdahale altyapısına hizmet etmektedir."
+    ],
+    "en": [
+      "Built within the public buildings programme in Nakhchivan, the fire station serves the region's emergency response infrastructure."
+    ]
+  },
+  "sources": {
+    "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+  },
+  "category": "ust-yapi",
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Nahçıvan, Azerbaycan",
+        "en": "Nakhchivan, Azerbaijan"
+      }
+    },
+    {
+      "label": {
+        "tr": "Tür",
+        "en": "Type"
+      },
+      "value": {
+        "tr": "Kamu binası",
+        "en": "Public building"
+      }
+    }
+  ]
 }

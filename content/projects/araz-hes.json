@@ -1,24 +1,50 @@
 {
- "slug": "araz-hes",
- "slugEn": "araz-hes",
- "category": "enerji",
- "flagship": false,
- "title": {
-  "tr": "Araz-HES",
-  "en": "Arkoz Müteahhitlik"
- },
- "body": {
-  "tr": [],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/araz-hes/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/araz-hes",
-  "en": "https://arkoz.wscp.net/en/project/araz-hes"
- }
+  "slug": "araz-hes",
+  "slugEn": "araz-hes",
+  "category": "enerji",
+  "flagship": false,
+  "title": {
+    "tr": "Araz-HES",
+    "en": "Arkoz Müteahhitlik"
+  },
+  "body": {
+    "tr": [
+      "Araz Çayı üzerinde konumlanan hidroelektrik santral projesidir."
+    ],
+    "en": [
+      "A hydroelectric power plant project located on the Araz River."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/araz-hes/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [],
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/araz-hes",
+    "en": "https://arkoz.wscp.net/en/project/araz-hes"
+  },
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Araz Çayı",
+        "en": "Araz River"
+      }
+    },
+    {
+      "label": {
+        "tr": "Tür",
+        "en": "Type"
+      },
+      "value": {
+        "tr": "Hidroelektrik santral",
+        "en": "Hydroelectric power plant"
+      }
+    }
+  ]
 }

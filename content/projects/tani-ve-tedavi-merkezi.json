@@ -1,53 +1,65 @@
 {
- "slug": "tani-ve-tedavi-merkezi",
- "slugEn": "tani-ve-tedavi-merkezi",
- "category": "ust-yapi",
- "flagship": false,
- "title": {
-  "tr": "Tanı ve Tedavi Merkezi",
-  "en": "Diagnostic and Treatment Center"
- },
- "body": {
-  "tr": [
-   "Sağlık merkezi, Haziran 2007'den beri faaliyet göstermek- tedir. Merkez bir bodrum ve 5 kattan oluşmaktadır. Birinci katta bilgisayarlı tomografi, nükleer manyetik rezonans, radyoloji ve laboratuar bölümleri ile röntgen muayene odaları, hastaların merkeze kabul ve sevkleri için bir kabul odası ve Konsültatif-Teşhis Polikliniği'nin birkaç kabini bulunmaktadır. Hemodiyaliz bölümü ve danışma-tani polikli- nik bölümünün diğer bölümleri ikinci katta faaliyet göstermektedir.",
-   "Üçüncü kat cerrahi, anestezi, resüsitasyon bölümleri ve ameliyathane için ayrılmıştır. Dördüncü katta Kalp Cerrahisi, Kalp Resüsitasyon Bölümü, Operasyon Bölümü, beşinci katta ise toplantı ve konferans salonları dahil merkezin idari personeli bulunmaktadır."
+  "slug": "tani-ve-tedavi-merkezi",
+  "slugEn": "tani-ve-tedavi-merkezi",
+  "category": "ust-yapi",
+  "flagship": false,
+  "title": {
+    "tr": "Tanı ve Tedavi Merkezi",
+    "en": "Diagnostic and Treatment Center"
+  },
+  "body": {
+    "tr": [
+      "Sağlık merkezi, Haziran 2007'den beri faaliyet göstermek- tedir. Merkez bir bodrum ve 5 kattan oluşmaktadır. Birinci katta bilgisayarlı tomografi, nükleer manyetik rezonans, radyoloji ve laboratuar bölümleri ile röntgen muayene odaları, hastaların merkeze kabul ve sevkleri için bir kabul odası ve Konsültatif-Teşhis Polikliniği'nin birkaç kabini bulunmaktadır. Hemodiyaliz bölümü ve danışma-tani polikli- nik bölümünün diğer bölümleri ikinci katta faaliyet göstermektedir.",
+      "Üçüncü kat cerrahi, anestezi, resüsitasyon bölümleri ve ameliyathane için ayrılmıştır. Dördüncü katta Kalp Cerrahisi, Kalp Resüsitasyon Bölümü, Operasyon Bölümü, beşinci katta ise toplantı ve konferans salonları dahil merkezin idari personeli bulunmaktadır."
+    ],
+    "en": []
+  },
+  "cover": {
+    "src": "/projeler/tani-ve-tedavi-merkezi/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [
+    {
+      "src": "/projeler/tani-ve-tedavi-merkezi/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tani-ve-tedavi-merkezi/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tani-ve-tedavi-merkezi/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tani-ve-tedavi-merkezi/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/tani-ve-tedavi-merkezi/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [
-  {
-   "src": "/projeler/tani-ve-tedavi-merkezi/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/tani-ve-tedavi-merkezi",
+    "en": "https://arkoz.wscp.net/en/project/tani-ve-tedavi-merkezi",
+    "katalog": "Arkoz & Maqro Group Kataloğu s.60"
   },
-  {
-   "src": "/projeler/tani-ve-tedavi-merkezi/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tani-ve-tedavi-merkezi/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tani-ve-tedavi-merkezi/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/tani-ve-tedavi-merkezi",
-  "en": "https://arkoz.wscp.net/en/project/tani-ve-tedavi-merkezi",
-  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
- }
+  "kunye": [
+    {
+      "label": {
+        "tr": "Faaliyet",
+        "en": "In operation"
+      },
+      "value": {
+        "tr": "2007'ten bu yana",
+        "en": "Since 2007"
+      }
+    }
+  ]
 }

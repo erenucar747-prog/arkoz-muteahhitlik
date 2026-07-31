@@ -26,5 +26,17 @@
   "sources": {
     "katalog": "Arkoz & Maqro Group Kataloğu s.56-56"
   },
-  "category": "ust-yapi"
+  "category": "ust-yapi",
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Nahçıvan",
+        "en": "Nakhchivan"
+      }
+    }
+  ]
 }

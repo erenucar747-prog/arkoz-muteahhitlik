@@ -1,57 +1,69 @@
 {
- "slug": "tiflis-dinehall-restoran",
- "slugEn": "tiflis-dinehall-restoran",
- "category": "turizm",
- "flagship": false,
- "title": {
-  "tr": "Tiflis Dinehall Restoran",
-  "en": "Arkoz Müteahhitlik"
- },
- "body": {
-  "tr": [
-   "2016 yılında ilk şubesi Tiflis şehrinin Rustavelli caddesinde açılan 1150 m2 alana yayılan restoran 5 salondan oluşmaktadır. \"Good food is a human right\" (İyi yemek herkesin hakkıdır) sloganı ile yola çıkan Dine hall sadece en taze ve kaliteli malzemeleri kullanmaktadır."
+  "slug": "tiflis-dinehall-restoran",
+  "slugEn": "tiflis-dinehall-restoran",
+  "category": "turizm",
+  "flagship": false,
+  "title": {
+    "tr": "Tiflis Dinehall Restoran",
+    "en": "Arkoz Müteahhitlik"
+  },
+  "body": {
+    "tr": [
+      "2016 yılında ilk şubesi Tiflis şehrinin Rustavelli caddesinde açılan 1150 m2 alana yayılan restoran 5 salondan oluşmaktadır. \"Good food is a human right\" (İyi yemek herkesin hakkıdır) sloganı ile yola çıkan Dine hall sadece en taze ve kaliteli malzemeleri kullanmaktadır."
+    ],
+    "en": []
+  },
+  "cover": {
+    "src": "/projeler/tiflis-dinehall-restoran/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [
+    {
+      "src": "/projeler/tiflis-dinehall-restoran/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-dinehall-restoran/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-dinehall-restoran/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-dinehall-restoran/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/tiflis-dinehall-restoran/g-05.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": []
- },
- "cover": {
-  "src": "/projeler/tiflis-dinehall-restoran/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [
-  {
-   "src": "/projeler/tiflis-dinehall-restoran/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/tiflis-dinehall-restoran",
+    "en": "https://arkoz.wscp.net/en/project/tiflis-dinehall-restoran"
   },
-  {
-   "src": "/projeler/tiflis-dinehall-restoran/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tiflis-dinehall-restoran/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tiflis-dinehall-restoran/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/tiflis-dinehall-restoran/g-05.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/tiflis-dinehall-restoran",
-  "en": "https://arkoz.wscp.net/en/project/tiflis-dinehall-restoran"
- }
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Tiflis",
+        "en": "Tbilisi"
+      }
+    }
+  ]
 }

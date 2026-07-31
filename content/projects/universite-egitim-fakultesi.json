@@ -1,29 +1,55 @@
 {
- "slug": "universite-egitim-fakultesi",
- "slugEn": "universite-egitim-fakultesi",
- "gallery": [
-  {
-   "src": "/projeler/universite-egitim-fakultesi/katalog-thumb.jpg",
-   "w": 469,
-   "h": 249,
-   "thumbOnly": true
-  }
- ],
- "cover": null,
- "title": {
-  "tr": "Üniversite Eğitim Fakültesi",
-  "en": "University Faculty of Education"
- },
- "summary": {
-  "tr": "",
-  "en": ""
- },
- "body": {
-  "tr": [],
-  "en": []
- },
- "sources": {
-  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
- },
- "category": "ust-yapi"
+  "slug": "universite-egitim-fakultesi",
+  "slugEn": "universite-egitim-fakultesi",
+  "gallery": [
+    {
+      "src": "/projeler/universite-egitim-fakultesi/katalog-thumb.jpg",
+      "w": 469,
+      "h": 249,
+      "thumbOnly": true
+    }
+  ],
+  "cover": null,
+  "title": {
+    "tr": "Üniversite Eğitim Fakültesi",
+    "en": "University Faculty of Education"
+  },
+  "summary": {
+    "tr": "",
+    "en": ""
+  },
+  "body": {
+    "tr": [
+      "Nahçıvan'daki eğitim yapıları kapsamında inşa edilen Üniversite Eğitim Fakültesi binası, bölgenin yükseköğretim altyapısına kazandırılmıştır."
+    ],
+    "en": [
+      "Built among the education buildings in Nakhchivan, the University Faculty of Education building was added to the region's higher education infrastructure."
+    ]
+  },
+  "sources": {
+    "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+  },
+  "category": "ust-yapi",
+  "kunye": [
+    {
+      "label": {
+        "tr": "Konum",
+        "en": "Location"
+      },
+      "value": {
+        "tr": "Nahçıvan, Azerbaycan",
+        "en": "Nakhchivan, Azerbaijan"
+      }
+    },
+    {
+      "label": {
+        "tr": "Tür",
+        "en": "Type"
+      },
+      "value": {
+        "tr": "Eğitim yapısı",
+        "en": "Education building"
+      }
+    }
+  ]
 }
