@@ -23,7 +23,7 @@ export default function ProjectCard({
       className={`proje-kart${genis ? " proje-kart--genis" : ""}${
         gorsel ? "" : " proje-kart--yazi"
       }`}
-      href={`/projelerimiz/${projeYolu(proje, dil)}`}
+      href={`/projelerimiz/${projeYolu(proje)}`}
     >
       {gorsel && (
         <Image

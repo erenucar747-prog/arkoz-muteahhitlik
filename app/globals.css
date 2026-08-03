@@ -228,9 +228,13 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
   position: absolute; top: .5rem; right: .5rem; z-index: 2;
   display: flex;
 }
-.hero-slider__nokta {
-  width: 30px; height: 30px; padding: 0; border: 0; background: none;
+.hero-slider__nokta, .hero-slider__durdur {
+  width: 44px; height: 44px; padding: 0; border: 0; background: none;
   cursor: pointer; display: grid; place-items: center;
+}
+.hero-slider__durdur {
+  color: var(--beyaz); font-size: .8rem; line-height: 1;
+  text-shadow: 0 1px 4px rgba(37, 37, 37, .6);
 }
 .hero-slider__nokta::before {
   content: ""; width: 10px; height: 10px;
@@ -318,9 +322,13 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
   white-space: nowrap;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1023px) {
   .rakamlar__izgara { grid-template-columns: repeat(2, 1fr); row-gap: var(--s4); }
   .rakam:nth-child(3) { border-left: 0; padding-left: 0; }
+}
+@media (max-width: 479px) {
+  .rakamlar__izgara { grid-template-columns: 1fr; }
+  .rakam { border-left: 0; padding-left: 0; }
 }
 
 /* ---------- Foto-maskeli kuruluş yılı (hakkımızda) ---------- */

@@ -106,6 +106,7 @@ export default async function ProjeDetay({
           {sektor && <p className="ustbaslik">{sektor.ad[dil]}</p>}
           <h1>
             {proje.title[dil]}
+            {/* eslint-disable-next-line @next/next/no-img-element -- küçük SVG marka işareti, optimizasyon gereksiz */}
             <img
               className="sayfa-bas__isaret"
               src="/marka/logo-mark.svg"
@@ -170,7 +171,7 @@ export default async function ProjeDetay({
               {onceki ? (
                 <Link
                   className="proje-gezinme__link"
-                  href={`/projelerimiz/${projeYolu(onceki, dil)}`}
+                  href={`/projelerimiz/${projeYolu(onceki)}`}
                 >
                   <span className="proje-gezinme__yon">← {t("onceki")}</span>
                   <span className="proje-gezinme__ad">{onceki.title[dil]}</span>
@@ -181,7 +182,7 @@ export default async function ProjeDetay({
               {sonraki && (
                 <Link
                   className="proje-gezinme__link proje-gezinme__link--sag"
-                  href={`/projelerimiz/${projeYolu(sonraki, dil)}`}
+                  href={`/projelerimiz/${projeYolu(sonraki)}`}
                 >
                   <span className="proje-gezinme__yon">{t("sonraki")} →</span>
                   <span className="proje-gezinme__ad">{sonraki.title[dil]}</span>

@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import type { Metadata } from "next";
+import { dilAlternatifleri } from "@/lib/seo";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { Dil, Yerel } from "@/lib/content";
 
@@ -31,7 +32,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "Iletisim" });
-  return { title: t("baslik") };
+  return {
+    title: t("baslik"),
+    alternates: dilAlternatifleri("/iletisim", locale),
+  };
 }
 
 export default async function Iletisim({

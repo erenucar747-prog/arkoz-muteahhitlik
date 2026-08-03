@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useCallback, useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { Link } from "@/i18n/navigation";
 
 export type HeroSlayt = {
@@ -18,27 +18,28 @@ const SURE = 5500;
 export default function HeroSlider({
   slaytlar,
   etiket,
+  duraklatEtiketi,
+  oynatEtiketi,
 }: {
   slaytlar: HeroSlayt[];
   etiket: string;
+  duraklatEtiketi: string;
+  oynatEtiketi: string;
 }) {
   const [aktif, setAktif] = useState(0);
-  const duraklat = useRef(false);
+  const [duraklatildi, setDuraklatildi] = useState(false);
+  const hoverDuraklat = useRef(false);
   const sayi = slaytlar.length;
 
-  const ilerle = useCallback(
-    () => setAktif((a) => (a + 1) % sayi),
-    [sayi]
-  );
-
+  // `aktif` bağımlılığı kasıtlı: manuel seçim sayacı sıfırlar (yarış önlenir)
   useEffect(() => {
-    if (sayi < 2) return;
+    if (sayi < 2 || duraklatildi) return;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
     const zamanlayici = setInterval(() => {
-      if (!duraklat.current) ilerle();
+      if (!hoverDuraklat.current) setAktif((a) => (a + 1) % sayi);
     }, SURE);
     return () => clearInterval(zamanlayici);
-  }, [ilerle, sayi]);
+  }, [sayi, duraklatildi, aktif]);
 
   return (
     <div
@@ -46,10 +47,10 @@ export default function HeroSlider({
       role="group"
       aria-roledescription="carousel"
       aria-label={etiket}
-      onMouseEnter={() => (duraklat.current = true)}
-      onMouseLeave={() => (duraklat.current = false)}
-      onFocus={() => (duraklat.current = true)}
-      onBlur={() => (duraklat.current = false)}
+      onMouseEnter={() => (hoverDuraklat.current = true)}
+      onMouseLeave={() => (hoverDuraklat.current = false)}
+      onFocus={() => (hoverDuraklat.current = true)}
+      onBlur={() => (hoverDuraklat.current = false)}
     >
       {slaytlar.map((s, i) => (
         <Link
@@ -60,6 +61,8 @@ export default function HeroSlider({
           }`}
           tabIndex={i === aktif ? 0 : -1}
           aria-hidden={i !== aktif}
+          aria-roledescription="slide"
+          aria-label={`${s.ad} (${i + 1}/${sayi})`}
         >
           <Image
             src={s.src}
@@ -77,6 +80,16 @@ export default function HeroSlider({
       ))}
       {sayi > 1 && (
         <div className="hero-slider__noktalar">
+          {/* WCAG 2.2.2: otomatik oynatma için görünür durdurma kontrolü */}
+          <button
+            type="button"
+            className="hero-slider__durdur"
+            aria-pressed={duraklatildi}
+            aria-label={duraklatildi ? oynatEtiketi : duraklatEtiketi}
+            onClick={() => setDuraklatildi((d) => !d)}
+          >
+            {duraklatildi ? "▶" : "❚❚"}
+          </button>
           {slaytlar.map((s, i) => (
             <button
               key={s.href}

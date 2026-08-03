@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { dilAlternatifleri } from "@/lib/seo";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 
 export async function generateMetadata({
@@ -8,7 +9,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "Kariyer" });
-  return { title: t("baslik") };
+  return {
+    title: t("baslik"),
+    alternates: dilAlternatifleri("/kariyer", locale),
+  };
 }
 
 export default async function Kariyer({

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { dilAlternatifleri } from "@/lib/seo";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import ProjectCard from "@/components/ProjectCard";
@@ -16,7 +17,10 @@ export async function generateMetadata({
   const { locale, kategori } = await params;
   const sektor = sektorler()[kategori];
   if (!sektor) return {};
-  return { title: sektor.ad[locale as Dil] };
+  return {
+    title: sektor.ad[locale as Dil],
+    alternates: dilAlternatifleri(`/sektorler/${kategori}`, locale),
+  };
 }
 
 export default async function SektorDetay({

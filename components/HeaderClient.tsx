@@ -26,6 +26,10 @@ export default function HeaderClient({
   const pathname = usePathname();
   const navRef = useRef<HTMLElement>(null);
   const dugmeRef = useRef<HTMLButtonElement>(null);
+  const acikRef = useRef(false);
+  useEffect(() => {
+    acikRef.current = acik;
+  }, [acik]);
 
   useEffect(() => {
     const guncelle = () => setDolu(window.scrollY > 8);
@@ -54,20 +58,24 @@ export default function HeaderClient({
   }, [acik]);
 
   useEffect(() => {
-    setAcik(false);
-  }, [pathname]);
-
-  useEffect(() => {
     const dinle = (e: KeyboardEvent) => {
-      if (e.key === "Escape") {
-        setAcik((oncekiAcik) => {
-          if (oncekiAcik) dugmeRef.current?.focus();
-          return false;
-        });
+      if (e.key === "Escape" && acikRef.current) {
+        setAcik(false);
+        dugmeRef.current?.focus();
       }
     };
     document.addEventListener("keydown", dinle);
     return () => document.removeEventListener("keydown", dinle);
+  }, []);
+
+  // Menü açıkken masaüstü genişliğine geçilirse kilidi bırak
+  useEffect(() => {
+    const mq = window.matchMedia("(min-width: 1024px)");
+    const dinle = () => {
+      if (mq.matches) setAcik(false);
+    };
+    mq.addEventListener("change", dinle);
+    return () => mq.removeEventListener("change", dinle);
   }, []);
 
   return (
@@ -79,7 +87,14 @@ export default function HeaderClient({
           aria-label={anasayfa}
           dangerouslySetInnerHTML={{ __html: logoHtml }}
         />
-        <nav ref={navRef} className={`nav${acik ? " nav--acik" : ""}`} id="ana-nav">
+        <nav
+          ref={navRef}
+          className={`nav${acik ? " nav--acik" : ""}`}
+          id="ana-nav"
+          onClick={(e) => {
+            if ((e.target as HTMLElement).closest("a")) setAcik(false);
+          }}
+        >
           {linkler.map((l) => (
             <Link
               key={l.href}

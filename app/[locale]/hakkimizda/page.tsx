@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { dilAlternatifleri } from "@/lib/seo";
 import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import KunyeTable from "@/components/KunyeTable";
@@ -55,7 +56,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const sayfa = sayfaGetir("hakkimizda");
-  return { title: sayfa.title[locale as Dil] };
+  return {
+    title: sayfa.title[locale as Dil],
+    alternates: dilAlternatifleri("/hakkimizda", locale),
+  };
 }
 
 export default async function Hakkimizda({

@@ -27,16 +27,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })),
   ];
 
-  return ciftler.flatMap(({ tr, en }) => [
-    {
-      url: `${KOK_URL}${tr || "/"}`,
-      alternates: {
-        languages: {
-          tr: `${KOK_URL}${tr || "/"}`,
-          en: `${KOK_URL}/en${en}`,
-        },
-      },
-    },
-    { url: `${KOK_URL}/en${en}` },
-  ]);
+  return ciftler.flatMap(({ tr, en }) => {
+    // hreflang karşılıklı olmalı: her iki girdide de aynı dil haritası
+    const diller = {
+      tr: `${KOK_URL}${tr || "/"}`,
+      en: `${KOK_URL}/en${en}`,
+    };
+    return [
+      { url: diller.tr, alternates: { languages: diller } },
+      { url: diller.en, alternates: { languages: diller } },
+    ];
+  });
 }

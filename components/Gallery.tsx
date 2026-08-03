@@ -1,7 +1,7 @@
 "use client";
 
 import Image from "next/image";
-import { useCallback, useRef, useState } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
 import type { Gorsel } from "@/lib/content";
 
 export default function Gallery({
@@ -19,10 +19,32 @@ export default function Gallery({
   const ac = useCallback((g: Gorsel) => {
     setAktif(g);
     kutu.current?.showModal();
+    document.body.classList.add("kilitli"); // arka plan kaydırma kilidi
   }, []);
 
   const kapat = useCallback(() => {
     kutu.current?.close();
+  }, []);
+
+  // Kapanış hangi yoldan gelirse gelsin (ESC/cancel/close()) kilidi bırak:
+  // event'e değil `open` özniteliğinin kendisine bağlanıyoruz
+  useEffect(() => {
+    const d = kutu.current;
+    if (!d) return;
+    const temizle = () => {
+      if (!d.open) {
+        setAktif(null);
+        document.body.classList.remove("kilitli");
+      }
+    };
+    d.addEventListener("close", temizle);
+    const mo = new MutationObserver(temizle);
+    mo.observe(d, { attributes: true, attributeFilter: ["open"] });
+    return () => {
+      d.removeEventListener("close", temizle);
+      mo.disconnect();
+      document.body.classList.remove("kilitli");
+    };
   }, []);
 
   if (!gorseller.length) return null;
@@ -50,17 +72,17 @@ export default function Gallery({
           if (hedef === kutu.current || hedef.classList.contains("lightbox__fon"))
             kapat();
         }}
-        onClose={() => setAktif(null)}
       >
         <div className="lightbox__fon">
           {aktif && (
+            /* eslint-disable-next-line @next/next/no-img-element -- lightbox bilinçli olarak orijinal dosyayı gösterir */
             <img
               className="lightbox__resim"
               src={aktif.src}
               alt={altOnEk}
               width={aktif.w}
               height={aktif.h}
-              style={{ maxWidth: aktif.w }}
+              style={{ maxWidth: `min(${aktif.w}px, 96vw)` }}
             />
           )}
           <button

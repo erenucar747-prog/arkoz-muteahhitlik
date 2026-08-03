@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { dilAlternatifleri } from "@/lib/seo";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import { sektorler, tumProjeler, type Dil } from "@/lib/content";
@@ -10,7 +11,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "Sektorler" });
-  return { title: t("baslik") };
+  return {
+    title: t("baslik"),
+    alternates: dilAlternatifleri("/sektorler", locale),
+  };
 }
 
 export default async function Sektorler({

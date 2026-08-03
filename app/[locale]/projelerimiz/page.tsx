@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { dilAlternatifleri } from "@/lib/seo";
 import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
@@ -20,7 +21,10 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: "Projeler" });
-  return { title: t("baslik") };
+  return {
+    title: t("baslik"),
+    alternates: dilAlternatifleri("/projelerimiz", locale),
+  };
 }
 
 function OtelSatiri({
@@ -41,7 +45,7 @@ function OtelSatiri({
       {gorsel && (
         <Link
           className="otel-satir__gorsel"
-          href={`/projelerimiz/${projeYolu(proje, dil)}`}
+          href={`/projelerimiz/${projeYolu(proje)}`}
         >
           <Image
             src={gorsel.src}
@@ -56,7 +60,7 @@ function OtelSatiri({
         <h3 className="otel-satir__baslik">{proje.title[dil]}</h3>
         {paragraflar[0] && <p>{paragraflar[0]}</p>}
         <p className="otel-satir__link">
-          <Link className="btn btn--kontur" href={`/projelerimiz/${projeYolu(proje, dil)}`}>
+          <Link className="btn btn--kontur" href={`/projelerimiz/${projeYolu(proje)}`}>
             {detay}
           </Link>
         </p>

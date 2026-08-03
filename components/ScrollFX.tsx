@@ -1,8 +1,12 @@
 "use client";
 
-import { useEffect } from "react";
+import { useEffect, useLayoutEffect } from "react";
 import Lenis from "lenis";
 import { usePathname } from "@/i18n/navigation";
+
+// Rota geçişlerinde bir karelik görünüp-gizlenme titremesini önler (paint öncesi damgala)
+const useIzoLayoutEffect =
+  typeof window !== "undefined" ? useLayoutEffect : useEffect;
 
 /** Yumuşak kaydırma (Lenis) + bölüm reveal koreografisi.
  *  Gizleme sınıfları JS ile eklenir: JS yoksa içerik daima görünür (SEO/no-JS). */
@@ -30,7 +34,7 @@ export default function ScrollFX() {
   }, []);
 
   // Reveal — rota değişiminde yeniden taranır
-  useEffect(() => {
+  useIzoLayoutEffect(() => {
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
 
     const elemanlar = Array.from(
@@ -58,7 +62,26 @@ export default function ScrollFX() {
       { rootMargin: "0px 0px -8% 0px" }
     );
     elemanlar.forEach((el) => io.observe(el));
-    return () => io.disconnect();
+
+    // Klavye güvencesi: gizli bir öğeye odaklanılırsa anında göster (WCAG 2.4.7)
+    const odakKurtar = (e: FocusEvent) => {
+      const el = (e.target as HTMLElement).closest?.(
+        '[data-reveal="bekliyor"]'
+      ) as HTMLElement | null;
+      if (el) el.dataset.reveal = "goster";
+    };
+    document.addEventListener("focusin", odakKurtar);
+
+    return () => {
+      io.disconnect();
+      document.removeEventListener("focusin", odakKurtar);
+      // Hiçbir öğe kalıcı gizli kalmasın (rota değişimi/temizlik güvencesi)
+      document
+        .querySelectorAll<HTMLElement>('[data-reveal="bekliyor"]')
+        .forEach((el) => {
+          el.dataset.reveal = "goster";
+        });
+    };
   }, [pathname]);
 
   return null;

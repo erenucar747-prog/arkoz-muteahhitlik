@@ -1,5 +1,7 @@
+import type { Metadata } from "next";
 import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { dilAlternatifleri } from "@/lib/seo";
 import { Link } from "@/i18n/navigation";
 import HeroSlider, { type HeroSlayt } from "@/components/HeroSlider";
 import ProjectCard from "@/components/ProjectCard";
@@ -12,6 +14,15 @@ import {
   tumProjeler,
   type Dil,
 } from "@/lib/content";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  return { alternates: dilAlternatifleri("", locale) };
+}
 
 export default async function Anasayfa({
   params,
@@ -75,7 +86,7 @@ export default async function Anasayfa({
     ...(amiral && amiral.cover
       ? [
           {
-            href: `/projelerimiz/${projeYolu(amiral, dil)}`,
+            href: `/projelerimiz/${projeYolu(amiral)}`,
             src: amiral.cover.src,
             w: amiral.cover.w,
             h: amiral.cover.h,
@@ -84,12 +95,13 @@ export default async function Anasayfa({
           },
         ]
       : []),
-    ...secim.slice(0, 3).flatMap(({ proje, stat }) => {
+    // Dikey kapaklı sagarejo 16/10 çerçevede ağır kırpıldığından yatay kapaklılar seçildi
+    ...[secim[0], secim[1], secim[3]].filter(Boolean).flatMap(({ proje, stat }) => {
       const g = proje.cover ?? proje.gallery[0];
       return g
         ? [
             {
-              href: `/projelerimiz/${projeYolu(proje, dil)}`,
+              href: `/projelerimiz/${projeYolu(proje)}`,
               src: g.src,
               w: g.w,
               h: g.h,
@@ -109,6 +121,7 @@ export default async function Anasayfa({
           <div>
             <h1 className="hero__baslik hero__baslik--maske">
               {t("baslik")}
+              {/* eslint-disable-next-line @next/next/no-img-element -- küçük SVG marka işareti, optimizasyon gereksiz */}
               <img
                 className="hero__nokta"
                 src="/marka/logo-mark.svg"
@@ -127,7 +140,12 @@ export default async function Anasayfa({
               </Link>
             </div>
           </div>
-          <HeroSlider slaytlar={heroSlaytlar} etiket={t("heroAlt")} />
+          <HeroSlider
+            slaytlar={heroSlaytlar}
+            etiket={t("sliderEtiket")}
+            duraklatEtiketi={t("duraklat")}
+            oynatEtiketi={t("oynat")}
+          />
         </div>
       </section>
 
