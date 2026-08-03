@@ -434,6 +434,25 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
 .deger-kart h3 { font-size: 1.15rem; margin-bottom: .75rem; }
 .deger-kart p { font-size: .95rem; }
 
+/* ---------- Kırıntı (breadcrumb) + proje gezinmesi ---------- */
+.kirinti { font-size: .8125rem; color: var(--govde-renk); margin-bottom: var(--s2); }
+.kirinti a { transition: color var(--gecis); }
+.kirinti a:hover { color: var(--kirmizi); }
+
+.proje-gezinme {
+  display: flex; justify-content: space-between; gap: var(--s3);
+  margin-top: var(--s5); padding-top: var(--s3);
+  border-top: 1px solid var(--cizgi);
+}
+.proje-gezinme__link { display: grid; gap: .2rem; max-width: 46%; }
+.proje-gezinme__link--sag { text-align: right; }
+.proje-gezinme__yon {
+  font-size: .75rem; font-weight: 600; color: var(--kirmizi);
+  letter-spacing: .14em; text-transform: uppercase;
+}
+.proje-gezinme__ad { font-weight: 600; color: var(--murekkep); transition: color var(--gecis); }
+.proje-gezinme__link:hover .proje-gezinme__ad { color: var(--kirmizi); }
+
 /* ---------- Projeler sayfası ---------- */
 .proje__kapak { position: relative; }
 .proje__kapak img { width: 100%; height: auto; }

@@ -37,7 +37,11 @@
     "adetKolon": "Adet",
     "m2Kolon": "m²",
     "kapat": "Kapat",
-    "detay": "Detay"
+    "detay": "Detay",
+    "benzerBaslik": "Aynı Sektörden Projeler",
+    "onceki": "Önceki Proje",
+    "sonraki": "Sonraki Proje",
+    "gezinme": "Proje gezinmesi"
   },
   "NotFound": {
     "baslik": "Sayfa Bulunamadı",

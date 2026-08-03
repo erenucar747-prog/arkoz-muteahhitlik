@@ -58,9 +58,33 @@ export default async function LocaleLayout({
   setRequestLocale(locale);
   const t = await getTranslations("Ortak");
 
+  const kokUrl =
+    process.env.NEXT_PUBLIC_SITE_URL ?? "https://arkoz-muteahhitlik.vercel.app";
+  const orgJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: "Arkoz Müteahhitlik",
+    url: kokUrl,
+    logo: `${kokUrl}/marka/logo-mark.svg`,
+    foundingDate: "1998",
+    telephone: "+90 216 466 16 10",
+    email: "info@arkozdisticaret.com.tr",
+    address: {
+      "@type": "PostalAddress",
+      streetAddress: "Şerifali Mah. Türker Cad. No:35 Arkoz İş Merkezi",
+      addressLocality: "Ümraniye",
+      addressRegion: "İstanbul",
+      addressCountry: "TR",
+    },
+  };
+
   return (
     <html lang={locale} className={workSans.variable}>
       <body>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(orgJsonLd) }}
+        />
         <NextIntlClientProvider>
           <a className="atlama" href="#icerik">
             {t("atlama")}

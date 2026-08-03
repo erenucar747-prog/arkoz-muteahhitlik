@@ -37,7 +37,11 @@
     "adetKolon": "Units",
     "m2Kolon": "m²",
     "kapat": "Close",
-    "detay": "Details"
+    "detay": "Details",
+    "benzerBaslik": "More From This Sector",
+    "onceki": "Previous Project",
+    "sonraki": "Next Project",
+    "gezinme": "Project navigation"
   },
   "NotFound": {
     "baslik": "Page Not Found",
