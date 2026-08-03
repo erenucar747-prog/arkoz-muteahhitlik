@@ -80,10 +80,16 @@ export default async function Hakkimizda({
 
       <section className="bolum">
         <div className="kapsayici kurumsal__izgara">
-          <div className="metin-govde">
-            {govde(sayfa, dil).map((par, i) => (
-              <p key={i}>{par}</p>
-            ))}
+          <div>
+            {/* Kuruluş yılı — ARSİM görseli rakamların içinde (foto-maske) */}
+            <p className="yil-maske" aria-hidden="true">
+              1998
+            </p>
+            <div className="metin-govde">
+              {govde(sayfa, dil).map((par, i) => (
+                <p key={i}>{par}</p>
+              ))}
+            </div>
           </div>
           <div className="kurumsal__gorsel">
             <figure>

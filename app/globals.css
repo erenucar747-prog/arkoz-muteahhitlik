@@ -238,6 +238,48 @@ a, button { touch-action: manipulation; -webkit-tap-highlight-color: transparent
   text-transform: uppercase; letter-spacing: .14em; font-weight: 600;
 }
 
+/* ---------- Rakamlar bandı (koyu zemin, Maqro'dan uyarlandı — Eren onaylı) ---------- */
+.rakamlar { background: var(--koyu); color: var(--beyaz); }
+.rakamlar__izgara {
+  display: grid; grid-template-columns: repeat(4, 1fr);
+  gap: clamp(1.5rem, 4vw, 3rem);
+  padding-block: clamp(3rem, 7vw, 5rem);
+}
+.rakam { border-left: 1px solid rgba(255, 255, 255, .16); padding-left: clamp(1rem, 2vw, 1.75rem); }
+.rakam:first-child { border-left: 0; padding-left: 0; }
+.rakam__etiket {
+  font-size: .75rem; font-weight: 600; letter-spacing: .18em;
+  text-transform: uppercase; color: #C9C6BF; margin-bottom: .6rem;
+  display: flex; align-items: center; gap: .6rem;
+}
+.rakam__etiket::before { content: ""; width: 1.5rem; height: 2px; background: var(--kirmizi); flex: none; }
+.rakam__deger {
+  font-size: clamp(1.8rem, 3.2vw, 2.5rem); font-weight: 800; line-height: 1;
+  color: var(--beyaz); letter-spacing: -.02em; font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+  .rakamlar__izgara { grid-template-columns: repeat(2, 1fr); row-gap: var(--s4); }
+  .rakam:nth-child(3) { border-left: 0; padding-left: 0; }
+}
+
+/* ---------- Foto-maskeli kuruluş yılı (hakkımızda) ---------- */
+.yil-maske {
+  font-size: clamp(5.5rem, 17vw, 12rem); font-weight: 800;
+  line-height: .9; letter-spacing: -.04em;
+  color: var(--murekkep);
+  margin-bottom: var(--s3);
+}
+@supports ((-webkit-background-clip: text) or (background-clip: text)) {
+  .yil-maske {
+    background-image: url("/projeler/arsim-yali-zeytinburnu/aerial-day.jpg");
+    background-size: cover; background-position: center 35%;
+    -webkit-background-clip: text; background-clip: text;
+    color: transparent; -webkit-text-fill-color: transparent;
+  }
+}
+
 /* ---------- Sektör kartları ---------- */
 .sektor-izgara { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--s3); }
 .sektor-kart {

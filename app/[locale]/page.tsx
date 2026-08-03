@@ -148,6 +148,35 @@ export default async function Anasayfa({
         </div>
       </section>
 
+      {/* Rakamlar bandı — hakkımızda künyesinden (katalog kanıtlı) */}
+      <section className="rakamlar" aria-label={t("rakamlarBaslik")}>
+        <div className="kapsayici rakamlar__izgara">
+          {[
+            {
+              etiket: { tr: "Kuruluş", en: "Founded" },
+              deger: { tr: "1998", en: "1998" },
+            },
+            {
+              etiket: { tr: "Proje Hacmi", en: "Project Volume" },
+              deger: { tr: "5 milyar $+", en: "$5B+" },
+            },
+            {
+              etiket: { tr: "Uzman Kadro", en: "Experts" },
+              deger: { tr: "4.000+", en: "4,000+" },
+            },
+            {
+              etiket: { tr: "Konut ve Ticari Üretim", en: "Homes & Commercial Units" },
+              deger: { tr: "6.500+", en: "6,500+" },
+            },
+          ].map((r, i) => (
+            <div className="rakam" key={i}>
+              <p className="rakam__etiket">{r.etiket[dil]}</p>
+              <p className="rakam__deger">{r.deger[dil]}</p>
+            </div>
+          ))}
+        </div>
+      </section>
+
       {/* Sektörler */}
       <section className="bolum">
         <div className="kapsayici">
