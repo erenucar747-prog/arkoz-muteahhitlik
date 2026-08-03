@@ -27,22 +27,41 @@ export default async function Anasayfa({
   const projeler = tumProjeler();
 
   const amiral = projeler.find((p) => p.flagship);
-  // Vitrin: amiral hariç, kapak ≥1000px olanlardan kategori başına 1 proje
-  const adaylar = projeler
-    .filter((p) => !p.flagship && p.cover && p.cover.w >= 1000)
-    .sort(
-      (a, b) => b.cover!.w * b.cover!.h - a.cover!.w * a.cover!.h
-    );
-  const secim: typeof adaylar = [];
-  const gorulenKategori = new Set<string>(
-    amiral ? [amiral.category] : []
-  );
-  for (const p of adaylar) {
-    if (gorulenKategori.has(p.category)) continue;
-    gorulenKategori.add(p.category);
-    secim.push(p);
-    if (secim.length === 4) break;
-  }
+  // Vitrin: bugüne kadarki EN BÜYÜK işler — künye verileriyle küratörlü liste
+  const VITRIN: { slug: string; stat: { tr: string; en: string } }[] = [
+    {
+      slug: "nahcivan-su-altyapi-programi",
+      stat: { tr: "600M$+ yatırım", en: "$600M+ investment" },
+    },
+    {
+      slug: "azergold-altin-uretim-tesisi",
+      stat: { tr: "160M$ yatırım", en: "$160M investment" },
+    },
+    {
+      slug: "sagarejo-badiauri-yolu",
+      stat: { tr: "155M$ · 26 km", en: "$155M · 26 km" },
+    },
+    {
+      slug: "gence-kazak-otoyolu",
+      stat: { tr: "140M$ · 48 km", en: "$140M · 48 km" },
+    },
+    {
+      slug: "maqro-city-tbilisi",
+      stat: {
+        tr: "Gürcistan'ın en büyük konut yatırımı",
+        en: "Georgia's largest housing investment",
+      },
+    },
+    {
+      slug: "ordubat-hes",
+      stat: { tr: "36 MW kurulu güç", en: "36 MW installed capacity" },
+    },
+  ];
+  const amiralStat = { tr: "1.983 daire · İstanbul", en: "1,983 apartments · İstanbul" };
+  const secim = VITRIN.flatMap(({ slug, stat }) => {
+    const p = projeler.find((x) => x.slug === slug);
+    return p ? [{ proje: p, stat }] : [];
+  });
 
   const sektorAd = (kategori: string) =>
     sektorListesi.find(([k]) => k === kategori)?.[1].ad[dil] ?? "";
@@ -169,15 +188,17 @@ export default async function Anasayfa({
                 proje={amiral}
                 dil={dil}
                 kategoriAd={sektorAd(amiral.category)}
+                stat={amiralStat[dil]}
                 genis
               />
             )}
-            {secim.map((p) => (
+            {secim.map(({ proje, stat }) => (
               <ProjectCard
-                key={p.slug}
-                proje={p}
+                key={proje.slug}
+                proje={proje}
                 dil={dil}
-                kategoriAd={sektorAd(p.category)}
+                kategoriAd={sektorAd(proje.category)}
+                stat={stat[dil]}
               />
             ))}
           </div>

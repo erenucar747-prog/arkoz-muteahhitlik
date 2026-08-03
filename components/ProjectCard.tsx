@@ -7,11 +7,14 @@ export default function ProjectCard({
   dil,
   kategoriAd,
   genis = false,
+  stat,
 }: {
   proje: Proje;
   dil: Dil;
   kategoriAd: string;
   genis?: boolean;
+  /** Künyeden gelen vurgu istatistiği (ör. "600M$+ yatırım") */
+  stat?: string;
 }) {
   const gorsel = proje.cover ?? proje.gallery[0];
 
@@ -36,6 +39,7 @@ export default function ProjectCard({
         />
       )}
       <div className="proje-kart__yazi">
+        {stat && <p className="proje-kart__stat">{stat}</p>}
         <h3 className="proje-kart__ad">{proje.title[dil]}</h3>
         <p className="proje-kart__meta">{kategoriAd}</p>
       </div>
