@@ -11,7 +11,7 @@
     "kariyer": "Kariyer",
     "referanslar": "Referanslar",
     "iletisim": "İletişim",
-    "menuAc": "Menüyü aç",
+    "menu": "Menü",
     "dilDegistir": "English'e geç"
   },
   "Ortak": {
@@ -38,6 +38,12 @@
     "m2Kolon": "m²",
     "kapat": "Kapat",
     "detay": "Detay"
+  },
+  "NotFound": {
+    "baslik": "Sayfa Bulunamadı",
+    "metin": "Aradığınız sayfa taşınmış veya hiç var olmamış olabilir. Anasayfadan ya da projelerimizden devam edebilirsiniz.",
+    "anasayfa": "Anasayfa",
+    "projeler": "Projelerimiz"
   },
   "Haberler": {
     "ustbaslik": "Bizden Haberler",

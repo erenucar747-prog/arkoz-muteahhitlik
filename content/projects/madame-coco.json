@@ -1,85 +1,85 @@
 {
- "slug": "madame-coco",
- "slugEn": "madame-coco",
- "category": "perakende",
- "flagship": false,
- "title": {
-  "tr": "Madame Coco",
-  "en": "Madame Coco"
- },
- "body": {
-  "tr": [
-   "2016 yılında ev tekstili ve dekorasyon konusunda Azerbaycan ve Gürcistan'da master franchise olarak faaliyet göstermeye başlamıştır. Ürün yelpazesinde 6000'den fazla ürün çeşidi bulunmaktadır. 2 ülkede 3.500 metrekarenin üzerinde satış alanına sahiptir. Azerbaycan'ın 2 yılda 9 mağazası var. Toplam 2.500 metrekarenin üzerinde satış alanına sahiptir."
+  "slug": "madame-coco",
+  "slugEn": "madame-coco",
+  "category": "perakende",
+  "flagship": false,
+  "title": {
+    "tr": "Madame Coco",
+    "en": "Madame Coco"
+  },
+  "body": {
+    "tr": [
+      "2016 yılında ev tekstili ve dekorasyon konusunda Azerbaycan ve Gürcistan'da master franchise olarak faaliyet göstermeye başlamıştır. Ürün yelpazesinde 6000'den fazla ürün çeşidi bulunmaktadır. 2 ülkede 3.500 metrekarenin üzerinde satış alanına sahiptir. Azerbaycan'ın 2 bölgesinde 9 mağazası var. Toplam 2.500 metrekarenin üzerinde satış alanına sahiptir."
+    ],
+    "en": [
+      "\"Madame Coco\" started to operate as a master franchisee for home textiles and decoration in Azerbaijan and Georgia in 2016.",
+      "The product range includes more than 6000 product types. It totally has a sales area of over 3500 square meters in 2 countries.",
+      "It has 9 stores in 2 regions of Azerbaijan. It has a total sales area of over 2500 square meters."
+    ]
+  },
+  "cover": {
+    "src": "/projeler/madame-coco/cover.jpg",
+    "w": 1170,
+    "h": 530
+  },
+  "gallery": [
+    {
+      "src": "/projeler/madame-coco/g-01.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-02.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-03.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-04.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-05.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-06.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-07.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-08.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    },
+    {
+      "src": "/projeler/madame-coco/g-09.jpg",
+      "w": 330,
+      "h": 230,
+      "thumbOnly": true
+    }
   ],
-  "en": [
-   "\"Madame Coco\" started to operate as a master franchisee for home textiles and decoration in Azerbaijan and Georgia in 2016.",
-   "The product range includes more than 6000 product types. It totally has a sales area of over 3500 square meters in 2 countries.",
-   "It has 9 stores in 2 regions of Azerbaijan. It has a total sales area of over 2500 square meters."
-  ]
- },
- "cover": {
-  "src": "/projeler/madame-coco/cover.jpg",
-  "w": 1170,
-  "h": 530
- },
- "gallery": [
-  {
-   "src": "/projeler/madame-coco/g-01.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-02.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-03.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-04.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-05.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-06.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-07.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-08.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
-  },
-  {
-   "src": "/projeler/madame-coco/g-09.jpg",
-   "w": 330,
-   "h": 230,
-   "thumbOnly": true
+  "sources": {
+    "tr": "https://arkoz.wscp.net/projelerimiz/madame-coco",
+    "en": "https://arkoz.wscp.net/en/project/madame-coco"
   }
- ],
- "sources": {
-  "tr": "https://arkoz.wscp.net/projelerimiz/madame-coco",
-  "en": "https://arkoz.wscp.net/en/project/madame-coco"
- }
 }

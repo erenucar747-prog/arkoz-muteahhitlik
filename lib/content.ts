@@ -121,6 +121,16 @@ export const UST_GRUPLAR: UstGrup[] = [
   },
 ];
 
+/** Proje URL segmenti. NOT: slugEn İngilizce slug DEĞİL — eski CMS
+ *  konsolidasyonunun takma adı; linkler her dilde ana slug'ı kullanır,
+ *  takma adlar yalnız eski URL'lerin çözülmesi için tutulur. */
+export function projeYolu(
+  p: Pick<Proje, "slug" | "slugEn">,
+  _dil: Dil
+): string {
+  return p.slug;
+}
+
 /** EN gövdesi boşsa TR'ye düşer (çeviri uydurulmaz — Faz 9 raporuna girer). */
 export function govde(p: { body: { tr: string[]; en: string[] } }, dil: Dil): string[] {
   return dil === "en" && p.body.en.length ? p.body.en : p.body.tr;

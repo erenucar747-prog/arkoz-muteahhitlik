@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useCallback, useRef, useState } from "react";
 import type { Gorsel } from "@/lib/content";
 
@@ -31,12 +32,12 @@ export default function Gallery({
       <div className="galeri">
         {gorseller.map((g, i) => (
           <button key={g.src} type="button" onClick={() => ac(g)}>
-            <img
+            <Image
               src={g.src}
               alt={`${altOnEk} — ${i + 1}`}
               width={g.w}
               height={g.h}
-              loading="lazy"
+              sizes="(max-width: 767px) 50vw, (max-width: 1023px) 33vw, 270px"
             />
           </button>
         ))}

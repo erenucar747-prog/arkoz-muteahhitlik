@@ -36,7 +36,7 @@ export default async function BizdenHaberler({
           <div className="metin-govde">
             <p>{t("bos")}</p>
           </div>
-          <p style={{ marginTop: "var(--s4)" }}>
+          <p className="bolum__eylem">
             <Link className="btn btn--kontur" href="/projelerimiz">
               {t("projelereGit")}
             </Link>

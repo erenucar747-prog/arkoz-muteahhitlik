@@ -46,9 +46,9 @@ export default async function Sektorler({
                   className="sektor-kart"
                   href={`/sektorler/${anahtar}`}
                 >
-                  <h3>{s.ad[dil]}</h3>
+                  <h2>{s.ad[dil]}</h2>
                   <p>{s.istatistik[dil]}</p>
-                  <p style={{ marginTop: ".5rem", fontWeight: 600 }}>
+                  <p className="sektor-kart__vurgu">
                     {t("projeSayisi", { adet })}
                   </p>
                 </Link>

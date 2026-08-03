@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import KunyeTable from "@/components/KunyeTable";
 import { govde, sayfaGetir, type Dil } from "@/lib/content";
@@ -86,17 +87,18 @@ export default async function Hakkimizda({
           </div>
           <div className="kurumsal__gorsel">
             <figure>
-              {/* 1024×683 doğal boyut */}
-              <img
+              {/* 1024×683 doğal boyut; figcaption zaten tanımlıyor — alt boş (tekrar önleme) */}
+              <Image
                 src="/marka/is-merkezi.png"
-                alt={t("isMerkeziAlt")}
+                alt=""
                 width={1024}
                 height={683}
+                sizes="(max-width: 1023px) 100vw, 480px"
               />
               <figcaption>{t("isMerkeziAlt")}</figcaption>
             </figure>
             {sayfa.kunye && (
-              <div style={{ marginTop: "var(--s4)" }}>
+              <div className="bolum__eylem">
                 <KunyeTable kunye={sayfa.kunye} dil={dil} />
               </div>
             )}

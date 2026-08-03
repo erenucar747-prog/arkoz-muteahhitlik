@@ -1,8 +1,10 @@
+import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import ProjectCard from "@/components/ProjectCard";
 import {
   govde,
+  projeYolu,
   sayfaGetir,
   sektorler,
   tumProjeler,
@@ -75,16 +77,21 @@ export default async function Anasayfa({
           </div>
           <Link
             className="hero__gorsel"
-            href="/projelerimiz/arsim-yali-zeytinburnu"
+            href={
+              amiral
+                ? `/projelerimiz/${projeYolu(amiral, dil)}`
+                : "/projelerimiz"
+            }
             aria-label={t("heroAlt")}
           >
             {/* 1920×1357 doğal boyut — doğal genişliğin üzerinde render edilmez */}
-            <img
+            <Image
               src="/projeler/arsim-yali-zeytinburnu/aerial-day.jpg"
               alt={t("heroAlt")}
               width={1920}
               height={1357}
-              fetchPriority="high"
+              sizes="(max-width: 1023px) 100vw, 640px"
+              priority
             />
           </Link>
         </div>
@@ -111,12 +118,12 @@ export default async function Anasayfa({
           </div>
           <figure>
             {/* 1024×683 doğal boyut */}
-            <img
+            <Image
               src="/marka/is-merkezi.png"
               alt={t("isMerkeziAlt")}
               width={1024}
               height={683}
-              loading="lazy"
+              sizes="(max-width: 1023px) 100vw, 440px"
             />
           </figure>
         </div>
@@ -181,7 +188,7 @@ export default async function Anasayfa({
       <section className="cta">
         <div className="kapsayici cta__ic">
           <h2 className="cta__baslik">{t("ctaBaslik")}</h2>
-          <div className="hero__butonlar" style={{ marginTop: 0 }}>
+          <div className="cta__butonlar">
             <a
               className="btn btn--kontur-beyaz"
               href={`tel:${tel.replace(/\s/g, "")}`}

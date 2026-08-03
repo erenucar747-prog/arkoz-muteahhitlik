@@ -34,7 +34,7 @@ export default async function Kariyer({
           <div className="metin-govde">
             <p>{t("metin")}</p>
           </div>
-          <p style={{ marginTop: "var(--s4)" }}>
+          <p className="bolum__eylem">
             <a
               className="btn btn--dolu"
               href="mailto:info@arkozdisticaret.com.tr"

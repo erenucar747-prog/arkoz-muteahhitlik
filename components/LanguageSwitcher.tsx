@@ -9,7 +9,13 @@ export default function LanguageSwitcher({ etiket }: { etiket: string }) {
   const hedef = locale === "tr" ? "en" : "tr";
 
   return (
-    <Link className="dil" href={pathname} locale={hedef} aria-label={etiket}>
+    <Link
+      className="dil"
+      href={pathname}
+      locale={hedef}
+      hrefLang={hedef}
+      aria-label={`${hedef.toUpperCase()} — ${etiket}`}
+    >
       {hedef.toUpperCase()}
     </Link>
   );

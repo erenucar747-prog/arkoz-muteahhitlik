@@ -11,7 +11,7 @@
     "kariyer": "Career",
     "referanslar": "References",
     "iletisim": "Contact",
-    "menuAc": "Open menu",
+    "menu": "Menu",
     "dilDegistir": "Türkçe'ye geç"
   },
   "Ortak": {
@@ -38,6 +38,12 @@
     "m2Kolon": "m²",
     "kapat": "Close",
     "detay": "Details"
+  },
+  "NotFound": {
+    "baslik": "Page Not Found",
+    "metin": "The page you are looking for may have been moved or may never have existed. You can continue from the homepage or our projects.",
+    "anasayfa": "Home",
+    "projeler": "Our Projects"
   },
   "Haberler": {
     "ustbaslik": "News",

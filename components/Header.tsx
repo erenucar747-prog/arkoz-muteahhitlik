@@ -25,7 +25,7 @@ export default async function Header() {
       logoHtml={logoHtml}
       linkler={linkler}
       anasayfa={t("anasayfa")}
-      menuAc={t("menuAc")}
+      menu={t("menu")}
       dilDegistir={t("dilDegistir")}
       tel={ortak("tel")}
     />

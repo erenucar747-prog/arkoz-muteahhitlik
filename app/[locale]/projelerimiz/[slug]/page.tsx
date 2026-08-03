@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import Gallery from "@/components/Gallery";
@@ -13,7 +14,14 @@ import {
 } from "@/lib/content";
 
 export function generateStaticParams() {
-  return tumProjeler().map((p) => ({ slug: p.slug }));
+  // Ana slug + eski CMS takma adları (slugEn) — eski linkler kırılmasın;
+  // canonical her zaman ana slug'ı gösterir
+  const slugs = new Set<string>();
+  for (const p of tumProjeler()) {
+    slugs.add(p.slug);
+    if (p.slugEn) slugs.add(p.slugEn);
+  }
+  return [...slugs].map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({
@@ -25,7 +33,17 @@ export async function generateMetadata({
   const proje = projeGetir(decodeURIComponent(slug));
   if (!proje) return {};
   const dil = locale as Dil;
-  return { title: proje.title[dil], description: proje.summary[dil] };
+  const trYol = `/projelerimiz/${proje.slug}`;
+  const enYol = `/en/projelerimiz/${proje.slug}`;
+  return {
+    title: proje.title[dil],
+    description:
+      proje.summary[dil] || govde(proje, dil)[0]?.slice(0, 160) || undefined,
+    alternates: {
+      canonical: dil === "en" ? enYol : trYol,
+      languages: { tr: trYol, en: enYol },
+    },
+  };
 }
 
 export default async function ProjeDetay({
@@ -56,12 +74,13 @@ export default async function ProjeDetay({
         <div className="kapsayici">
           {proje.cover && (
             <div className="proje__kapak">
-              <img
+              <Image
                 src={proje.cover.src}
                 alt={proje.title[dil]}
                 width={proje.cover.w}
                 height={proje.cover.h}
-                fetchPriority="high"
+                sizes="(max-width: 1279px) 100vw, 1120px"
+                priority
               />
             </div>
           )}

@@ -27,7 +27,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale, namespace: "Meta" });
   return {
     metadataBase: new URL(
-      process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000"
+      process.env.NEXT_PUBLIC_SITE_URL ?? "https://arkoz-muteahhitlik.vercel.app"
     ),
     title: {
       default: "Arkoz Müteahhitlik",

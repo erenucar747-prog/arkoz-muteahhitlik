@@ -1,5 +1,6 @@
+import Image from "next/image";
 import { Link } from "@/i18n/navigation";
-import type { Dil, Proje } from "@/lib/content";
+import { projeYolu, type Dil, type Proje } from "@/lib/content";
 
 export default function ProjectCard({
   proje,
@@ -13,20 +14,27 @@ export default function ProjectCard({
   genis?: boolean;
 }) {
   const gorsel = proje.cover ?? proje.gallery[0];
-  if (!gorsel) return null;
 
   return (
     <Link
-      className={`proje-kart${genis ? " proje-kart--genis" : ""}`}
-      href={`/projelerimiz/${proje.slug}`}
+      className={`proje-kart${genis ? " proje-kart--genis" : ""}${
+        gorsel ? "" : " proje-kart--yazi"
+      }`}
+      href={`/projelerimiz/${projeYolu(proje, dil)}`}
     >
-      <img
-        src={gorsel.src}
-        alt={proje.title[dil]}
-        width={gorsel.w}
-        height={gorsel.h}
-        loading="lazy"
-      />
+      {gorsel && (
+        <Image
+          src={gorsel.src}
+          alt={proje.title[dil]}
+          width={gorsel.w}
+          height={gorsel.h}
+          sizes={
+            genis
+              ? "(max-width: 1199px) 100vw, 1120px"
+              : "(max-width: 767px) 100vw, (max-width: 1199px) 45vw, 360px"
+          }
+        />
+      )}
       <div className="proje-kart__yazi">
         <h3 className="proje-kart__ad">{proje.title[dil]}</h3>
         <p className="proje-kart__meta">{kategoriAd}</p>

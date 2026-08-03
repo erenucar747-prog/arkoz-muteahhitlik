@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 
 const KOK_URL =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "http://localhost:3000";
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://arkoz-muteahhitlik.vercel.app";
 
 export default function robots(): MetadataRoute.Robots {
   return {

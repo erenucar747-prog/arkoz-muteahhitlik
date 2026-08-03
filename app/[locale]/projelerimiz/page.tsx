@@ -1,9 +1,11 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
 import ProjectCard from "@/components/ProjectCard";
 import {
   govde,
+  projeYolu,
   sektorler,
   tumProjeler,
   UST_GRUPLAR,
@@ -39,22 +41,22 @@ function OtelSatiri({
       {gorsel && (
         <Link
           className="otel-satir__gorsel"
-          href={`/projelerimiz/${proje.slug}`}
+          href={`/projelerimiz/${projeYolu(proje, dil)}`}
         >
-          <img
+          <Image
             src={gorsel.src}
             alt={proje.title[dil]}
             width={gorsel.w}
             height={gorsel.h}
-            loading="lazy"
+            sizes="(max-width: 1023px) 100vw, 640px"
           />
         </Link>
       )}
       <div>
-        <h4 className="otel-satir__baslik">{proje.title[dil]}</h4>
+        <h3 className="otel-satir__baslik">{proje.title[dil]}</h3>
         {paragraflar[0] && <p>{paragraflar[0]}</p>}
         <p className="otel-satir__link">
-          <Link className="btn btn--kontur" href={`/projelerimiz/${proje.slug}`}>
+          <Link className="btn btn--kontur" href={`/projelerimiz/${projeYolu(proje, dil)}`}>
             {detay}
           </Link>
         </p>

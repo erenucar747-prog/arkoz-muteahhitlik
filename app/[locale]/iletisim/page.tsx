@@ -94,7 +94,7 @@ export default async function Iletisim({
                 </h3>
                 {s.adres && <p>{s.adres[dil]}</p>}
                 {s.tel && (
-                  <p style={{ marginTop: ".5rem", fontWeight: 600 }}>
+                  <p className="sektor-kart__vurgu">
                     <a href={`tel:${s.tel.replace(/\s/g, "")}`}>{s.tel}</a>
                   </p>
                 )}
