@@ -1,7 +1,9 @@
 import Image from "next/image";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/i18n/navigation";
+import HeroSlider, { type HeroSlayt } from "@/components/HeroSlider";
 import ProjectCard from "@/components/ProjectCard";
+import Sayac from "@/components/Sayac";
 import {
   govde,
   projeYolu,
@@ -68,13 +70,44 @@ export default async function Anasayfa({
 
   const tel = ortak("tel");
 
+  // Hero slider: amiral + en büyük üç iş
+  const heroSlaytlar: HeroSlayt[] = [
+    ...(amiral && amiral.cover
+      ? [
+          {
+            href: `/projelerimiz/${projeYolu(amiral, dil)}`,
+            src: amiral.cover.src,
+            w: amiral.cover.w,
+            h: amiral.cover.h,
+            ad: amiral.title[dil],
+            stat: amiralStat[dil],
+          },
+        ]
+      : []),
+    ...secim.slice(0, 3).flatMap(({ proje, stat }) => {
+      const g = proje.cover ?? proje.gallery[0];
+      return g
+        ? [
+            {
+              href: `/projelerimiz/${projeYolu(proje, dil)}`,
+              src: g.src,
+              w: g.w,
+              h: g.h,
+              ad: proje.title[dil],
+              stat: stat[dil],
+            },
+          ]
+        : [];
+    }),
+  ];
+
   return (
     <>
       {/* Hero */}
       <section className="hero">
         <div className="kapsayici hero__izgara">
           <div>
-            <h1 className="hero__baslik">
+            <h1 className="hero__baslik hero__baslik--maske">
               {t("baslik")}
               <img
                 className="hero__nokta"
@@ -94,25 +127,7 @@ export default async function Anasayfa({
               </Link>
             </div>
           </div>
-          <Link
-            className="hero__gorsel"
-            href={
-              amiral
-                ? `/projelerimiz/${projeYolu(amiral, dil)}`
-                : "/projelerimiz"
-            }
-            aria-label={t("heroAlt")}
-          >
-            {/* 1920×1357 doğal boyut — doğal genişliğin üzerinde render edilmez */}
-            <Image
-              src="/projeler/arsim-yali-zeytinburnu/aerial-day.jpg"
-              alt={t("heroAlt")}
-              width={1920}
-              height={1357}
-              sizes="(max-width: 1023px) 100vw, 640px"
-              priority
-            />
-          </Link>
+          <HeroSlider slaytlar={heroSlaytlar} etiket={t("heroAlt")} />
         </div>
       </section>
 
@@ -148,32 +163,51 @@ export default async function Anasayfa({
         </div>
       </section>
 
-      {/* Rakamlar bandı — hakkımızda künyesinden (katalog kanıtlı) */}
+      {/* Rakamlar bandı — hakkımızda künyesinden (katalog kanıtlı), görünürken sayar */}
       <section className="rakamlar" aria-label={t("rakamlarBaslik")}>
         <div className="kapsayici rakamlar__izgara">
-          {[
-            {
-              etiket: { tr: "Kuruluş", en: "Founded" },
-              deger: { tr: "1998", en: "1998" },
-            },
-            {
-              etiket: { tr: "Proje Hacmi", en: "Project Volume" },
-              deger: { tr: "5 milyar $+", en: "$5B+" },
-            },
-            {
-              etiket: { tr: "Uzman Kadro", en: "Experts" },
-              deger: { tr: "4.000+", en: "4,000+" },
-            },
-            {
-              etiket: { tr: "Konut ve Ticari Üretim", en: "Homes & Commercial Units" },
-              deger: { tr: "6.500+", en: "6,500+" },
-            },
-          ].map((r, i) => (
-            <div className="rakam" key={i}>
-              <p className="rakam__etiket">{r.etiket[dil]}</p>
-              <p className="rakam__deger">{r.deger[dil]}</p>
-            </div>
-          ))}
+          <div className="rakam">
+            <p className="rakam__etiket">{dil === "tr" ? "Kuruluş" : "Founded"}</p>
+            <p className="rakam__deger">
+              <Sayac hedef={1998} />
+            </p>
+          </div>
+          <div className="rakam">
+            <p className="rakam__etiket">
+              {dil === "tr" ? "Proje Hacmi" : "Project Volume"}
+            </p>
+            <p className="rakam__deger">
+              {dil === "tr" ? (
+                <Sayac hedef={5} sonEk=" milyar $+" />
+              ) : (
+                <Sayac hedef={5} onEk="$" sonEk="B+" />
+              )}
+            </p>
+          </div>
+          <div className="rakam">
+            <p className="rakam__etiket">
+              {dil === "tr" ? "Uzman Kadro" : "Experts"}
+            </p>
+            <p className="rakam__deger">
+              <Sayac
+                hedef={4000}
+                ayrac={dil === "tr" ? "tr-TR" : "en-US"}
+                sonEk="+"
+              />
+            </p>
+          </div>
+          <div className="rakam">
+            <p className="rakam__etiket">
+              {dil === "tr" ? "Konut ve Ticari Üretim" : "Homes & Commercial Units"}
+            </p>
+            <p className="rakam__deger">
+              <Sayac
+                hedef={6500}
+                ayrac={dil === "tr" ? "tr-TR" : "en-US"}
+                sonEk="+"
+              />
+            </p>
+          </div>
         </div>
       </section>
 

@@ -6,6 +6,7 @@ import { getTranslations, setRequestLocale } from "next-intl/server";
 import { routing } from "@/i18n/routing";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import ScrollFX from "@/components/ScrollFX";
 import "../globals.css";
 
 const workSans = Work_Sans({
@@ -64,6 +65,7 @@ export default async function LocaleLayout({
           <a className="atlama" href="#icerik">
             {t("atlama")}
           </a>
+          <ScrollFX />
           <Header />
           <main id="icerik">{children}</main>
           <Footer />
