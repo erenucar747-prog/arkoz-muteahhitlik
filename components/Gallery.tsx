@@ -46,28 +46,32 @@ export default function Gallery({
         ref={kutu}
         className="lightbox"
         onClick={(e) => {
-          if (e.target === kutu.current) kapat();
+          const hedef = e.target as HTMLElement;
+          if (hedef === kutu.current || hedef.classList.contains("lightbox__fon"))
+            kapat();
         }}
         onClose={() => setAktif(null)}
       >
-        {aktif && (
-          <img
-            className="lightbox__resim"
-            src={aktif.src}
-            alt={altOnEk}
-            width={aktif.w}
-            height={aktif.h}
-            style={{ maxWidth: aktif.w }}
-          />
-        )}
-        <button
-          type="button"
-          className="lightbox__kapat"
-          onClick={kapat}
-          aria-label={kapatEtiketi}
-        >
-          ×
-        </button>
+        <div className="lightbox__fon">
+          {aktif && (
+            <img
+              className="lightbox__resim"
+              src={aktif.src}
+              alt={altOnEk}
+              width={aktif.w}
+              height={aktif.h}
+              style={{ maxWidth: aktif.w }}
+            />
+          )}
+          <button
+            type="button"
+            className="lightbox__kapat"
+            onClick={kapat}
+            aria-label={kapatEtiketi}
+          >
+            ×
+          </button>
+        </div>
       </dialog>
     </>
   );

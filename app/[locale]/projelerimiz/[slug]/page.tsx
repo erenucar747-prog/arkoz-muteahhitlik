@@ -66,7 +66,16 @@ export default async function ProjeDetay({
       <div className="sayfa-bas">
         <div className="kapsayici sayfa-bas__ic">
           {sektor && <p className="ustbaslik">{sektor.ad[dil]}</p>}
-          <h1>{proje.title[dil]}</h1>
+          <h1>
+            {proje.title[dil]}
+            <img
+              className="sayfa-bas__isaret"
+              src="/marka/logo-mark.svg"
+              alt=""
+              width={28}
+              height={32}
+            />
+          </h1>
         </div>
       </div>
 
