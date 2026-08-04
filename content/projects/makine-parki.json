@@ -1,48 +1,42 @@
 {
-  "slug": "makine-parki",
-  "slugEn": "makine-parki",
-  "gallery": [
-    {
-      "src": "/projeler/makine-parki/katalog-02.jpg",
-      "w": 1918,
-      "h": 919
-    }
+ "slug": "makine-parki",
+ "slugEn": "makine-parki",
+ "gallery": [],
+ "cover": {
+  "src": "/projeler/makine-parki/katalog-01.jpg",
+  "w": 2465,
+  "h": 1116
+ },
+ "title": {
+  "tr": "Makine Parkı",
+  "en": "Machinery Fleet"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "1000'i aşkın makine ve ekipman kapasiteli parkımız ile saha hazırlığı, kazı-dolgu ve altyapı çalışmalarında ekibimizle projelerimizi sürdürüyoruz."
   ],
-  "cover": {
-    "src": "/projeler/makine-parki/katalog-01.jpg",
-    "w": 1742,
-    "h": 1188
-  },
-  "title": {
-    "tr": "Makine Parkı",
-    "en": "Machinery Fleet"
-  },
-  "summary": {
-    "tr": "",
-    "en": ""
-  },
-  "body": {
-    "tr": [
-      "1000'i aşkın makine ve ekipman kapasiteli parkımız ile saha hazırlığı, kazı-dolgu ve altyapı çalışmalarında ekibimizle projelerimizi sürdürüyoruz."
-    ],
-    "en": [
-      "With our fleet of over 1,000 machinery and equipment, we continue our projects with our team in site preparation, excavation-filling, and infrastructure work."
-    ]
-  },
-  "sources": {
-    "katalog": "Arkoz & Maqro Group Kataloğu s.79-80"
-  },
-  "category": "sanayi",
-  "kunye": [
-    {
-      "label": {
-        "tr": "Filo",
-        "en": "Fleet"
-      },
-      "value": {
-        "tr": "1.000+ iş makinesi ve ekipman",
-        "en": "1,000+ machines and equipment"
-      }
-    }
+  "en": [
+   "With our fleet of over 1,000 machinery and equipment, we continue our projects with our team in site preparation, excavation-filling, and infrastructure work."
   ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.79-80"
+ },
+ "category": "sanayi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Filo",
+    "en": "Fleet"
+   },
+   "value": {
+    "tr": "1.000+ iş makinesi ve ekipman",
+    "en": "1,000+ machines and equipment"
+   }
+  }
+ ]
 }

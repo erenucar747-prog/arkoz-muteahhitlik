@@ -1,84 +1,84 @@
 {
-  "slug": "gence-kazak-otoyolu",
-  "slugEn": "azerbaycan-qazax-yol-projesi",
-  "category": "yol",
-  "flagship": false,
-  "title": {
-    "tr": "Gence–Kazak Otoyolu (LOT-3)",
-    "en": "Ganja–Gazakh Highway (LOT-3)"
-  },
-  "body": {
-    "tr": [
-      "Azerbaycan'ı Gürcistan'a bağlayan 48 kilometrelik modern otoyol projesi, Avrupa Kalkınma Bankası finansmanıyla hayata geçirilmiştir.",
-      "140 milyon dolar yatırım değerine sahip proje, bölgenin en önemli ulaştırma koridorlarından birini oluşturmaktadır."
-    ],
-    "en": [
-      "A 48-kilometre modern highway connecting Azerbaijan to Georgia, financed by the European Development Bank.",
-      "With an investment value of $140 million, the project forms one of the region's most important transport corridors."
-    ]
-  },
-  "cover": {
-    "src": "/projeler/gence-kazak-otoyolu/katalog-01.jpg",
-    "w": 1740,
-    "h": 774
-  },
-  "gallery": [
-    {
-      "src": "/projeler/gence-kazak-otoyolu/katalog-02.jpg",
-      "w": 1142,
-      "h": 786
-    },
-    {
-      "src": "/projeler/gence-kazak-otoyolu/katalog-03.jpg",
-      "w": 1142,
-      "h": 786
-    }
+ "slug": "gence-kazak-otoyolu",
+ "slugEn": "azerbaycan-qazax-yol-projesi",
+ "category": "yol",
+ "flagship": false,
+ "title": {
+  "tr": "Gence–Kazak Otoyolu (LOT-3)",
+  "en": "Ganja–Gazakh Highway (LOT-3)"
+ },
+ "body": {
+  "tr": [
+   "Azerbaycan'ı Gürcistan'a bağlayan 48 kilometrelik modern otoyol projesi, Avrupa Kalkınma Bankası finansmanıyla hayata geçirilmiştir.",
+   "140 milyon dolar yatırım değerine sahip proje, bölgenin en önemli ulaştırma koridorlarından birini oluşturmaktadır."
   ],
-  "sources": {
-    "tr": "https://arkoz.wscp.net/projelerimiz/azerbaycan-qazax-yol-projesi",
-    "en": "https://arkoz.wscp.net/en/project/azerbaycan-qazax-yol-projesi",
-    "katalog": "Arkoz & Maqro Group Kataloğu s.6-11"
-  },
-  "kunye": [
-    {
-      "label": {
-        "tr": "Uzunluk",
-        "en": "Length"
-      },
-      "value": {
-        "tr": "48 km",
-        "en": "48 km"
-      }
-    },
-    {
-      "label": {
-        "tr": "Finansman",
-        "en": "Financing"
-      },
-      "value": {
-        "tr": "Avrupa Kalkınma Bankası",
-        "en": "European Development Bank"
-      }
-    },
-    {
-      "label": {
-        "tr": "Yatırım",
-        "en": "Investment"
-      },
-      "value": {
-        "tr": "140 milyon $",
-        "en": "$140 million"
-      }
-    },
-    {
-      "label": {
-        "tr": "Güzergâh",
-        "en": "Route"
-      },
-      "value": {
-        "tr": "Azerbaycan – Gürcistan bağlantısı",
-        "en": "Azerbaijan – Georgia connection"
-      }
-    }
+  "en": [
+   "A 48-kilometre modern highway connecting Azerbaijan to Georgia, financed by the European Development Bank.",
+   "With an investment value of $140 million, the project forms one of the region's most important transport corridors."
   ]
+ },
+ "cover": {
+  "src": "/projeler/gence-kazak-otoyolu/katalog-01.jpg",
+  "w": 1742,
+  "h": 1235
+ },
+ "gallery": [
+  {
+   "src": "/projeler/gence-kazak-otoyolu/katalog-02.jpg",
+   "w": 1740,
+   "h": 774
+  },
+  {
+   "src": "/projeler/gence-kazak-otoyolu/katalog-03.jpg",
+   "w": 1742,
+   "h": 1235
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/azerbaycan-qazax-yol-projesi",
+  "en": "https://arkoz.wscp.net/en/project/azerbaycan-qazax-yol-projesi",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.6-11"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Uzunluk",
+    "en": "Length"
+   },
+   "value": {
+    "tr": "48 km",
+    "en": "48 km"
+   }
+  },
+  {
+   "label": {
+    "tr": "Finansman",
+    "en": "Financing"
+   },
+   "value": {
+    "tr": "Avrupa Kalkınma Bankası",
+    "en": "European Development Bank"
+   }
+  },
+  {
+   "label": {
+    "tr": "Yatırım",
+    "en": "Investment"
+   },
+   "value": {
+    "tr": "140 milyon $",
+    "en": "$140 million"
+   }
+  },
+  {
+   "label": {
+    "tr": "Güzergâh",
+    "en": "Route"
+   },
+   "value": {
+    "tr": "Azerbaycan – Gürcistan bağlantısı",
+    "en": "Azerbaijan – Georgia connection"
+   }
+  }
+ ]
 }

@@ -3,15 +3,20 @@
  "slugEn": "tiflis-buz-arenasi",
  "gallery": [
   {
-   "src": "/projeler/tiflis-buz-arenasi/katalog-01.jpg",
-   "w": 1742,
-   "h": 1234
+   "src": "/projeler/tiflis-buz-arenasi/katalog-02.jpg",
+   "w": 1000,
+   "h": 373
+  },
+  {
+   "src": "/projeler/tiflis-buz-arenasi/katalog-03.jpg",
+   "w": 939,
+   "h": 373
   }
  ],
  "cover": {
-  "src": "/projeler/tiflis-buz-arenasi/katalog-00.jpg",
-  "w": 1743,
-  "h": 1234
+  "src": "/projeler/tiflis-buz-arenasi/katalog-01.jpg",
+  "w": 1742,
+  "h": 1235
  },
  "title": {
   "tr": "Yeni Tiflis Buz Arenası",

@@ -1,54 +1,54 @@
 {
-  "slug": "c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
-  "slugEn": "c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
-  "category": "ust-yapi",
-  "flagship": false,
-  "title": {
-    "tr": "Devlet Müzikal Drama Tiyatrosu",
-    "en": "State Musical Drama Theater"
-  },
-  "body": {
-    "tr": [
-      "C. Memmedquluzade adına Nahçıvan Devlet Müzikal Drama Tiyatrosu, klasik cephesi ve modern sahne teknolojisiyle inşa edilmiştir."
-    ],
-    "en": [
-      "The Nakhchivan State Musical Drama Theater named after J. Mammadguluzadeh was built with its classical facade and modern stage technology."
-    ]
-  },
-  "cover": {
-    "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/katalog-01.jpg",
-    "w": 1742,
-    "h": 903
-  },
-  "gallery": [
-    {
-      "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-01.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-02.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-03.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-04.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    }
+ "slug": "c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
+ "slugEn": "c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
+ "category": "ust-yapi",
+ "flagship": false,
+ "title": {
+  "tr": "Devlet Müzikal Drama Tiyatrosu",
+  "en": "State Musical Drama Theater"
+ },
+ "body": {
+  "tr": [
+   "C. Memmedquluzade adına Nahçıvan Devlet Müzikal Drama Tiyatrosu, klasik cephesi ve modern sahne teknolojisiyle inşa edilmiştir."
   ],
-  "sources": {
-    "tr": "https://arkoz.wscp.net/projelerimiz/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
-    "en": "https://arkoz.wscp.net/en/project/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
-    "katalog": "Arkoz & Maqro Group Kataloğu s.55-55"
+  "en": [
+   "The Nakhchivan State Musical Drama Theater named after J. Mammadguluzadeh was built with its classical facade and modern stage technology."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/katalog-01.jpg",
+  "w": 1742,
+  "h": 903
+ },
+ "gallery": [
+  {
+   "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
   }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
+  "en": "https://arkoz.wscp.net/en/project/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.55-55"
+ }
 }

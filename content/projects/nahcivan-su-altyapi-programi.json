@@ -4,14 +4,14 @@
  "gallery": [
   {
    "src": "/projeler/nahcivan-su-altyapi-programi/katalog-01.jpg",
-   "w": 1742,
-   "h": 618
+   "w": 1745,
+   "h": 619
   }
  ],
  "cover": {
-  "src": "/projeler/nahcivan-su-altyapi-programi/katalog-00.jpg",
-  "w": 1745,
-  "h": 619
+  "src": "/projeler/nahcivan-su-altyapi-programi/katalog-02.jpg",
+  "w": 1742,
+  "h": 618
  },
  "title": {
   "tr": "Nahçıvan Su Altyapı Programı",

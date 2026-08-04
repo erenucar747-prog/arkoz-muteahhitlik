@@ -1,980 +1,814 @@
 {
-  "/projeler/nahcivan-gala-mescid/cover.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/nahcivan-gala-mescid/g-01.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/nahcivan-gala-mescid/g-02.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/nahcivan-gala-mescid/g-03.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/cover.jpg": {
-    "w": 6322,
-    "h": 3598
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-01.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-02.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-03.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-04.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-05.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-06.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-07.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-08.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-09.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/daskesen-chovdar-altin-madeni-projesi/g-10.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/azerbaycan-qazax-yol-projesi/cover.png": {
-    "w": 5720,
-    "h": 3813
-  },
-  "/projeler/azerbaycan-qazax-yol-projesi/g-01.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/azerbaycan-qazax-yol-projesi/g-02.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/azerbaycan-qazax-yol-projesi/g-03.png": {
-    "w": 5720,
-    "h": 3813
-  },
-  "/projeler/azerbaycan-qazax-yol-projesi/g-04.png": {
-    "w": 1920,
-    "h": 1280
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/cover.jpg": {
-    "w": 808,
-    "h": 559
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-01.jpg": {
-    "w": 779,
-    "h": 547
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-02.jpg": {
-    "w": 808,
-    "h": 559
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-03.jpg": {
-    "w": 799,
-    "h": 558
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-04.jpg": {
-    "w": 803,
-    "h": 558
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-05.jpg": {
-    "w": 1252,
-    "h": 859
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-06.jpg": {
-    "w": 803,
-    "h": 559
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-07.jpg": {
-    "w": 803,
-    "h": 565
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-08.jpg": {
-    "w": 810,
-    "h": 565
-  },
-  "/projeler/gurcistan-sagarejo-yol-projesi/g-09.jpg": {
-    "w": 810,
-    "h": 564
-  },
-  "/projeler/halhal-ges/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/zeyve-ges/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/culfa-ges/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/araz-hes/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/arpacay2-hep/cover.png": {
-    "w": 380,
-    "h": 519
-  },
-  "/projeler/bilev-hes/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/tivi-hes/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/ordubad-hes/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/ordubat-hidroelektrik-elektrik-santrali/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/ordubat-hidroelektrik-elektrik-santrali/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/ordubat-hidroelektrik-elektrik-santrali/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/bilev-hidroelektrik-elektrik-santrali/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/bilev-hidroelektrik-elektrik-santrali/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/bilev-hidroelektrik-elektrik-santrali/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/bilev-hidroelektrik-elektrik-santrali/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/bilev-hidroelektrik-elektrik-santrali/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/covdar-yataginin-sulfur-faz-muhendisligi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/culfa-res/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/culfa-res/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/culfa-res/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/culfa-res/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/culfa-res/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/culfa-res/g-05.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/haydar-aliyev-sarayi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/haydar-aliyev-sarayi/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/haydar-aliyev-sarayi/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/haydar-aliyev-sarayi/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/haydar-aliyev-sarayi/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/dogum-merkezi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/dogum-merkezi/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/dogum-merkezi/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/dogum-merkezi/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/dogum-merkezi/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tani-ve-tedavi-merkezi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/tani-ve-tedavi-merkezi/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tani-ve-tedavi-merkezi/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tani-ve-tedavi-merkezi/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tani-ve-tedavi-merkezi/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-merkezi-askeri-hastanesi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/nahcivan-merkezi-askeri-hastanesi/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-merkezi-askeri-hastanesi/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-merkezi-askeri-hastanesi/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/nahcivan-merkezi-askeri-hastanesi/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-diamond/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/green-diamond/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-diamond/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-diamond/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-diamond/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-budapest/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/green-budapest/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-budapest/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-budapest/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-budapest/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/elit/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/elit/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/elit/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/elit/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/elit/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/azerbaycan-dis-isleri-bakanligi-nahcivan-ozerk-cumhuriyeti-idare-binasi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/agri-cimento-fabrikasi-arkoz-madencilik-enerji-sanayi-ve-ticaret-a_s/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/arkoz-qazax-cimento-fabrikasi-mmc/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/maqro-mobilya-fabrikasi-mmc/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/glorya-mobilya-fabrikasi/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/decoria/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/decoria/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-05.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-06.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-07.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-08.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/decoria/g-09.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/madame-coco/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-05.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-06.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-07.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-08.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/madame-coco/g-09.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-swiss-otel/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/tiflis-swiss-otel/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-swiss-otel/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/istanbul-mercure-otel/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/istanbul-mercure-otel/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/istanbul-mercure-otel/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/istanbul-mercure-otel/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/istanbul-mercure-otel/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/istanbul-mercure-otel/g-05.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/istanbul-mercure-otel/g-06.png": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/istanbul-mercure-otel/g-07.png": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-mercure-otel/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/tiflis-mercure-otel/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-mercure-otel/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-mercure-otel/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-mercure-otel/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-dinehall-restoran/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/tiflis-dinehall-restoran/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-dinehall-restoran/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-dinehall-restoran/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-dinehall-restoran/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-dinehall-restoran/g-05.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/baku-dinehall-restoran/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/baku-dinehall-restoran/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/baku-dinehall-restoran/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/baku-dinehall-restoran/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/baku-dinehall-restoran/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/baku-dinehall-restoran/g-05.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-ibis-style-otel/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/tiflis-ibis-style-otel/g-01.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-ibis-style-otel/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-ibis-style-otel/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-ibis-style-otel/g-04.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/tiflis-ibis-style-otel/g-05.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/gabilli-ges/cover.jpg": {
-    "w": 1170,
-    "h": 530
-  },
-  "/projeler/azerbaycan-dis-isleri-bakanligi-nahcivan-ozerk-cumhuriyeti-idare-binasi/g-02.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/azerbaycan-dis-isleri-bakanligi-nahcivan-ozerk-cumhuriyeti-idare-binasi/g-03.jpg": {
-    "w": 330,
-    "h": 230
-  },
-  "/projeler/green-diamond/cover-hires.jpg": {
-    "w": 1500,
-    "h": 900
-  },
-  "/projeler/green-budapest/cover-hires.jpg": {
-    "w": 1500,
-    "h": 900
-  },
-  "/projeler/gence-kazak-otoyolu/katalog-01.jpg": {
-    "w": 1740,
-    "h": 774,
-    "kaynak": "katalog:p09-x52-1740x774.jpg"
-  },
-  "/projeler/gence-kazak-otoyolu/katalog-02.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p08-x43-1142x786.jpg"
-  },
-  "/projeler/gence-kazak-otoyolu/katalog-03.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p08-x40-1142x786.jpg"
-  },
-  "/projeler/nahcivan-havalimani-pisti/katalog-01.jpg": {
-    "w": 1740,
-    "h": 774,
-    "kaynak": "katalog:p09-x52-1740x774.jpg"
-  },
-  "/projeler/nahcivan-havalimani-pisti/katalog-02.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p08-x43-1142x786.jpg"
-  },
-  "/projeler/nahcivan-havalimani-pisti/katalog-03.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p08-x40-1142x786.jpg"
-  },
-  "/projeler/sagarejo-badiauri-yolu/katalog-00.jpg": {
-    "w": 1059,
-    "h": 1235,
-    "kaynak": "katalog:p12-x84-1059x1235.jpg"
-  },
-  "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-00.jpg": {
-    "w": 1060,
-    "h": 1235,
-    "kaynak": "katalog:p14-x101-1060x1235.jpg"
-  },
-  "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-01.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p14-x106-1142x786.jpg"
-  },
-  "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-02.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p14-x103-1142x786.jpg"
-  },
-  "/projeler/nahcivan-su-altyapi-programi/katalog-00.jpg": {
-    "w": 1745,
-    "h": 619,
-    "kaynak": "katalog:p15-x111-1745x619.jpg"
-  },
-  "/projeler/nahcivan-su-altyapi-programi/katalog-01.jpg": {
-    "w": 1742,
-    "h": 618,
-    "kaynak": "katalog:p15-x112-1742x618.jpg"
-  },
-  "/projeler/araz-cayi-kiyi-guclendirme/katalog-00.jpg": {
-    "w": 1060,
-    "h": 1235,
-    "kaynak": "katalog:p18-x134-1060x1235.jpg"
-  },
-  "/projeler/araz-cayi-kiyi-guclendirme/katalog-01.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p18-x139-1142x786.jpg"
-  },
-  "/projeler/araz-cayi-kiyi-guclendirme/katalog-02.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p18-x136-1142x786.jpg"
-  },
-  "/projeler/azergold-altin-uretim-tesisi/katalog-02.jpg": {
-    "w": 1743,
-    "h": 683,
-    "kaynak": "katalog:p24-x185-1743x683.jpg"
-  },
-  "/projeler/azergold-altin-uretim-tesisi/katalog-03.jpg": {
-    "w": 1742,
-    "h": 532,
-    "kaynak": "katalog:p20-x154-1742x532.jpg"
-  },
-  "/projeler/azergold-altin-uretim-tesisi/katalog-04.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p20-x156-1142x786.jpg"
-  },
-  "/projeler/azergold-altin-uretim-tesisi/katalog-05.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p20-x152-1142x786.jpg"
-  },
-  "/projeler/azergold-altin-uretim-tesisi/katalog-06.jpg": {
-    "w": 1142,
-    "h": 786,
-    "kaynak": "katalog:p20-x149-1142x786.jpg"
-  },
-  "/projeler/gunes-enerji-santralleri/katalog-01.jpg": {
-    "w": 1743,
-    "h": 683,
-    "kaynak": "katalog:p24-x185-1743x683.jpg"
-  },
-  "/projeler/nahcivan-arpacay-baraji-hes/katalog-02.jpg": {
-    "w": 1742,
-    "h": 835,
-    "kaynak": "katalog:p29-x235-1742x835.jpg"
-  },
-  "/projeler/nahcivan-arpacay-baraji-hes/katalog-03.jpg": {
-    "w": 1741,
-    "h": 688,
-    "kaynak": "katalog:p25-x198-1741x688.jpg"
-  },
-  "/projeler/ordubat-hes/katalog-01.jpg": {
-    "w": 1742,
-    "h": 1234,
-    "kaynak": "katalog:p30-x251-1742x1234.jpg"
-  },
-  "/projeler/ordubat-hes/katalog-02.jpg": {
-    "w": 1742,
-    "h": 835,
-    "kaynak": "katalog:p29-x235-1742x835.jpg"
-  },
-  "/projeler/bilev-hes/katalog-01.jpg": {
-    "w": 1742,
-    "h": 1234,
-    "kaynak": "katalog:p31-x255-1742x1234.jpg"
-  },
-  "/projeler/bilev-hes/katalog-02.jpg": {
-    "w": 1742,
-    "h": 845,
-    "kaynak": "katalog:p32-x262-1742x845.jpg"
-  },
-  "/projeler/tivi-hes/katalog-01.jpg": {
-    "w": 1742,
-    "h": 845,
-    "kaynak": "katalog:p34-x278-1742x845.jpg"
-  },
-  "/projeler/green-diamond/katalog-02.jpg": {
-    "w": 1743,
-    "h": 643,
-    "kaynak": "katalog:p35-x294-1743x643.jpg"
-  },
-  "/projeler/green-budapest/katalog-02.jpg": {
-    "w": 1743,
-    "h": 643,
-    "kaynak": "katalog:p37-x324-1743x643.jpg"
-  },
-  "/projeler/elit-57/katalog-02.jpg": {
-    "w": 1742,
-    "h": 1090,
-    "kaynak": "katalog:p40-x368-1742x1090.jpg"
-  },
-  "/projeler/elit-57/katalog-03.jpg": {
-    "w": 1623,
-    "h": 909,
-    "kaynak": "katalog:p39-x355-1623x909.jpg"
-  },
-  "/projeler/maqro-city-tbilisi/katalog-01.jpg": {
-    "w": 1742,
-    "h": 1090,
-    "kaynak": "katalog:p40-x368-1742x1090.jpg"
-  },
-  "/projeler/maqro-city-tbilisi/katalog-02.jpg": {
-    "w": 1742,
-    "h": 945,
-    "kaynak": "katalog:p42-x381-1742x945.jpg"
-  },
-  "/projeler/maqro-city-batumi/katalog-00.jpg": {
-    "w": 1740,
-    "h": 1232,
-    "kaynak": "katalog:p45-x400-1740x1232.jpg"
-  },
-  "/projeler/maqro-city-batumi/katalog-01.jpg": {
-    "w": 1742,
-    "h": 974,
-    "kaynak": "katalog:p46-x406-1742x974.jpg"
-  },
-  "/projeler/tiflis-buz-arenasi/katalog-00.jpg": {
-    "w": 1743,
-    "h": 1234,
-    "kaynak": "katalog:p47-x410-1743x1234.jpg"
-  },
-  "/projeler/tiflis-buz-arenasi/katalog-01.jpg": {
-    "w": 1742,
-    "h": 1234,
-    "kaynak": "katalog:p48-x413-1742x1234.jpg"
-  },
-  "/projeler/nahcivan-gala-mescid/katalog-01.jpg": {
-    "w": 1742,
-    "h": 1098,
-    "kaynak": "katalog:p52-x457-1742x1098.jpg"
-  },
-  "/projeler/haydar-aliyev-sarayi/katalog-00.jpg": {
-    "w": 1743,
-    "h": 1048,
-    "kaynak": "katalog:p54-x486-1743x1048.jpg"
-  },
-  "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/katalog-01.jpg": {
-    "w": 1742,
-    "h": 903,
-    "kaynak": "katalog:p55-x503-1742x903.jpg"
-  },
-  "/projeler/heyder-aliyev-muzesi/katalog-01.jpg": {
-    "w": 1742,
-    "h": 903,
-    "kaynak": "katalog:p56-x522-1742x903.jpg"
-  },
-  "/projeler/gumruk-kapisi/katalog-01.jpg": {
-    "w": 1742,
-    "h": 903,
-    "kaynak": "katalog:p57-x541-1742x903.jpg"
-  },
-  "/projeler/nahcivan-sehir-hastanesi/katalog-01.jpg": {
-    "w": 1742,
-    "h": 902,
-    "kaynak": "katalog:p58-x560-1742x902.jpg"
-  },
-  "/projeler/arkoz-kazak-cimento/katalog-03.jpg": {
-    "w": 2213,
-    "h": 1235,
-    "kaynak": "katalog:p64-x635-2213x1235.jpg"
-  },
-  "/projeler/arkoz-kazak-cimento/katalog-04.jpg": {
-    "w": 2213,
-    "h": 1235,
-    "kaynak": "katalog:p63-x629-2213x1235.jpg"
-  },
-  "/projeler/arkoz-agri-cimento/katalog-02.jpg": {
-    "w": 2213,
-    "h": 1235,
-    "kaynak": "katalog:p64-x635-2213x1235.jpg"
-  },
-  "/projeler/arkoz-agri-cimento/katalog-05.jpg": {
-    "w": 953,
-    "h": 575,
-    "kaynak": "katalog:p66-x662-953x575.jpg"
-  },
-  "/projeler/arkoz-agri-cimento/katalog-06.jpg": {
-    "w": 953,
-    "h": 575,
-    "kaynak": "katalog:p65-x651-953x575.jpg"
-  },
-  "/projeler/arkoz-samsun-gazbeton/katalog-01.jpg": {
-    "w": 2001,
-    "h": 1418,
-    "kaynak": "katalog:p71-x689-2001x1418.jpg"
-  },
-  "/projeler/arkoz-samsun-gazbeton/katalog-02.jpg": {
-    "w": 2000,
-    "h": 1418,
-    "kaynak": "katalog:p72-x698-2000x1418.jpg"
-  },
-  "/projeler/arkoz-mermer-traverten/katalog-02.jpg": {
-    "w": 2045,
-    "h": 1449,
-    "kaynak": "katalog:p74-x720-2045x1449.jpg"
-  },
-  "/projeler/arkoz-mermer-traverten/katalog-03.jpg": {
-    "w": 2044,
-    "h": 1449,
-    "kaynak": "katalog:p73-x708-2044x1449.jpg"
-  },
-  "/projeler/arkoz-mobilya-tesisleri/katalog-00.jpg": {
-    "w": 3496,
-    "h": 1566,
-    "kaynak": "katalog:p78-x756-3496x1566.jpg"
-  },
-  "/projeler/arkoz-mobilya-tesisleri/katalog-01.jpg": {
-    "w": 3496,
-    "h": 1566,
-    "kaynak": "katalog:p77-x748-3496x1566.jpg"
-  },
-  "/projeler/makine-parki/katalog-01.jpg": {
-    "w": 1742,
-    "h": 1188,
-    "kaynak": "katalog:p80-x789-1742x1188.jpg"
-  },
-  "/projeler/makine-parki/katalog-02.jpg": {
-    "w": 1918,
-    "h": 919,
-    "kaynak": "katalog:p79-x772-1918x919.jpg"
-  },
-  "/projeler/swissotel-tiflis/katalog-01.jpg": {
-    "w": 1742,
-    "h": 643,
-    "kaynak": "katalog:p81-x796-1742x643.jpg"
-  },
-  "/projeler/mercure-tiflis/katalog-01.jpg": {
-    "w": 1742,
-    "h": 902,
-    "kaynak": "katalog:p85-x841-1742x902.jpg"
-  },
-  "/projeler/mercure-istanbul-bakirkoy/katalog-01.jpg": {
-    "w": 1742,
-    "h": 902,
-    "kaynak": "katalog:p87-x863-1742x902.jpg"
-  },
-  "/projeler/universite/katalog-thumb.jpg": {
-    "w": 1742,
-    "h": 283,
-    "kaynak": "katalog:p60"
-  },
-  "/projeler/han-sarayi/katalog-thumb.jpg": {
-    "w": 468,
-    "h": 249,
-    "kaynak": "katalog:p60"
-  },
-  "/projeler/itfaiye/katalog-thumb.jpg": {
-    "w": 468,
-    "h": 248,
-    "kaynak": "katalog:p60"
-  },
-  "/projeler/rekreasyon-merkezi/katalog-thumb.jpg": {
-    "w": 469,
-    "h": 249,
-    "kaynak": "katalog:p60"
-  },
-  "/projeler/universite-egitim-fakultesi/katalog-thumb.jpg": {
-    "w": 469,
-    "h": 249,
-    "kaynak": "katalog:p60"
-  },
-  "/projeler/devlet-konuk-evi/katalog-thumb.jpg": {
-    "w": 468,
-    "h": 249,
-    "kaynak": "katalog:p60"
-  }
+ "/projeler/araz-cayi-kiyi-guclendirme/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/araz-cayi-kiyi-guclendirme/katalog-02.jpg": {
+  "w": 1060,
+  "h": 1235
+ },
+ "/projeler/araz-hes/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/arkoz-agri-cimento/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/arkoz-agri-cimento/katalog-02.jpg": {
+  "w": 660,
+  "h": 389
+ },
+ "/projeler/arkoz-agri-cimento/katalog-03.jpg": {
+  "w": 660,
+  "h": 389
+ },
+ "/projeler/arkoz-agri-cimento/katalog-04.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/arkoz-kazak-cimento/katalog-01.jpg": {
+  "w": 2213,
+  "h": 1235
+ },
+ "/projeler/arkoz-mermer-traverten/katalog-01.jpg": {
+  "w": 675,
+  "h": 398
+ },
+ "/projeler/arkoz-mobilya-tesisleri/katalog-01.jpg": {
+  "w": 3496,
+  "h": 1566
+ },
+ "/projeler/arkoz-samsun-gazbeton/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/arkoz-samsun-gazbeton/katalog-02.jpg": {
+  "w": 872,
+  "h": 647
+ },
+ "/projeler/arkoz-samsun-gazbeton/katalog-03.jpg": {
+  "w": 872,
+  "h": 647
+ },
+ "/projeler/arsim-yali-zeytinburnu/aerial-day.jpg": {
+  "w": 1920,
+  "h": 1357
+ },
+ "/projeler/arsim-yali-zeytinburnu/hero-poster.jpg": {
+  "w": 1600,
+  "h": 900
+ },
+ "/projeler/arsim-yali-zeytinburnu/marina-eye.jpg": {
+  "w": 1920,
+  "h": 1357
+ },
+ "/projeler/arsim-yali-zeytinburnu/courtyard-social.jpg": {
+  "w": 1920,
+  "h": 1357
+ },
+ "/projeler/arsim-yali-zeytinburnu/aerial-courtyard.jpg": {
+  "w": 1920,
+  "h": 1357
+ },
+ "/projeler/arsim-yali-zeytinburnu/blocks-boulevard.jpg": {
+  "w": 1920,
+  "h": 1357
+ },
+ "/projeler/arsim-yali-zeytinburnu/promenade.jpg": {
+  "w": 1920,
+  "h": 1357
+ },
+ "/projeler/arsim-yali-zeytinburnu/aerial-marina.jpg": {
+  "w": 1920,
+  "h": 1357
+ },
+ "/projeler/azerbaycan-dis-isleri-bakanligi-nahcivan-ozerk-cumhuriyeti-idare-binasi/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/azerbaycan-dis-isleri-bakanligi-nahcivan-ozerk-cumhuriyeti-idare-binasi/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/azerbaycan-dis-isleri-bakanligi-nahcivan-ozerk-cumhuriyeti-idare-binasi/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/azergold-altin-uretim-tesisi/katalog-01.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/azergold-altin-uretim-tesisi/katalog-02.jpg": {
+  "w": 1742,
+  "h": 532
+ },
+ "/projeler/azergold-altin-uretim-tesisi/katalog-03.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/baku-dinehall-restoran/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/baku-dinehall-restoran/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/baku-dinehall-restoran/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/baku-dinehall-restoran/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/baku-dinehall-restoran/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/baku-dinehall-restoran/g-05.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/bilev-hes/katalog-01.jpg": {
+  "w": 1742,
+  "h": 845
+ },
+ "/projeler/covdar-yataginin-sulfur-faz-muhendisligi/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/culfa-ges/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/culfa-res/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/culfa-res/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/culfa-res/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/culfa-res/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/culfa-res/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/culfa-res/g-05.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/katalog-01.jpg": {
+  "w": 1742,
+  "h": 903
+ },
+ "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/c_memmedquluzade-adina-nahcivan-devlet-muzikal-drama-tiyatro/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/decoria/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-05.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-06.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-07.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-08.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/decoria/g-09.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/devlet-konuk-evi/katalog-thumb.jpg": {
+  "w": 682,
+  "h": 365
+ },
+ "/projeler/dogum-merkezi/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/dogum-merkezi/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/dogum-merkezi/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/dogum-merkezi/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/dogum-merkezi/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/elit-57/katalog-02.jpg": {
+  "w": 1742,
+  "h": 1090
+ },
+ "/projeler/elit-57/katalog-03.jpg": {
+  "w": 1623,
+  "h": 909
+ },
+ "/projeler/elit/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/elit/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/elit/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/elit/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/elit-57/katalog-04.jpg": {
+  "w": 2385,
+  "h": 1431
+ },
+ "/projeler/gabilli-ges/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/gence-kazak-otoyolu/katalog-01.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/gence-kazak-otoyolu/katalog-02.jpg": {
+  "w": 1740,
+  "h": 774
+ },
+ "/projeler/gence-kazak-otoyolu/katalog-03.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/green-budapest/katalog-01.jpg": {
+  "w": 1743,
+  "h": 643
+ },
+ "/projeler/green-budapest/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/green-budapest/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/green-budapest/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/green-budapest/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/green-budapest/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/green-diamond/katalog-01.jpg": {
+  "w": 1743,
+  "h": 643
+ },
+ "/projeler/green-diamond/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/green-diamond/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/green-diamond/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/green-diamond/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/green-diamond/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/gumruk-kapisi/katalog-01.jpg": {
+  "w": 1742,
+  "h": 903
+ },
+ "/projeler/gunes-enerji-santralleri/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/gunes-enerji-santralleri/katalog-02.jpg": {
+  "w": 1743,
+  "h": 683
+ },
+ "/projeler/halhal-ges/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/han-sarayi/katalog-thumb.jpg": {
+  "w": 682,
+  "h": 361
+ },
+ "/projeler/haydar-aliyev-sarayi/katalog-01.jpg": {
+  "w": 2396,
+  "h": 1114
+ },
+ "/projeler/haydar-aliyev-sarayi/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/haydar-aliyev-sarayi/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/haydar-aliyev-sarayi/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/haydar-aliyev-sarayi/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/haydar-aliyev-sarayi/katalog-02.jpg": {
+  "w": 2400,
+  "h": 1076
+ },
+ "/projeler/heyder-aliyev-muzesi/katalog-01.jpg": {
+  "w": 1742,
+  "h": 903
+ },
+ "/projeler/itfaiye/katalog-thumb.jpg": {
+  "w": 682,
+  "h": 361
+ },
+ "/projeler/madame-coco/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/madame-coco/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-05.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-06.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-07.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-08.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/madame-coco/g-09.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/makine-parki/katalog-01.jpg": {
+  "w": 2465,
+  "h": 1116
+ },
+ "/projeler/maqro-city-batumi/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1234
+ },
+ "/projeler/maqro-city-batumi/katalog-02.jpg": {
+  "w": 1740,
+  "h": 1232
+ },
+ "/projeler/maqro-city-batumi/katalog-03.jpg": {
+  "w": 1742,
+  "h": 1234
+ },
+ "/projeler/maqro-city-tbilisi/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/maqro-city-tbilisi/katalog-02.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/maqro-city-tbilisi/katalog-03.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/mercure-istanbul-bakirkoy/katalog-01.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/istanbul-mercure-otel/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/istanbul-mercure-otel/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/istanbul-mercure-otel/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/istanbul-mercure-otel/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/istanbul-mercure-otel/g-05.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/istanbul-mercure-otel/g-06.png": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/istanbul-mercure-otel/g-07.png": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/mercure-istanbul-bakirkoy/katalog-02.jpg": {
+  "w": 1742,
+  "h": 902
+ },
+ "/projeler/mercure-tiflis/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/tiflis-mercure-otel/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-mercure-otel/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-mercure-otel/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-mercure-otel/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/mercure-tiflis/katalog-02.jpg": {
+  "w": 1742,
+  "h": 902
+ },
+ "/projeler/nahcivan-arpacay-baraji-hes/katalog-01.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/nahcivan-arpacay-baraji-hes/katalog-02.jpg": {
+  "w": 1741,
+  "h": 688
+ },
+ "/projeler/nahcivan-gala-mescid/g-01.png": {
+  "w": 1920,
+  "h": 1280
+ },
+ "/projeler/nahcivan-gala-mescid/g-02.png": {
+  "w": 1920,
+  "h": 1280
+ },
+ "/projeler/nahcivan-gala-mescid/g-03.png": {
+  "w": 1920,
+  "h": 1280
+ },
+ "/projeler/nahcivan-gala-mescid/katalog-01.jpg": {
+  "w": 2400,
+  "h": 854
+ },
+ "/projeler/nahcivan-gala-mescid/katalog-02.jpg": {
+  "w": 2436,
+  "h": 824
+ },
+ "/projeler/nahcivan-havalimani-pisti/katalog-01.jpg": {
+  "w": 824,
+  "h": 482
+ },
+ "/projeler/nahcivan-havalimani-pisti/katalog-02.jpg": {
+  "w": 824,
+  "h": 472
+ },
+ "/projeler/nahcivan-merkezi-askeri-hastanesi/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/nahcivan-merkezi-askeri-hastanesi/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-merkezi-askeri-hastanesi/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-merkezi-askeri-hastanesi/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-merkezi-askeri-hastanesi/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-ozerk-cumhuriyeti-acil-durumlar-bakanligi/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/nahcivan-sehir-hastanesi/katalog-01.jpg": {
+  "w": 1742,
+  "h": 902
+ },
+ "/projeler/nahcivan-su-altyapi-programi/katalog-02.jpg": {
+  "w": 1742,
+  "h": 618
+ },
+ "/projeler/nahcivan-su-altyapi-programi/katalog-01.jpg": {
+  "w": 1745,
+  "h": 619
+ },
+ "/projeler/ordubat-hes/katalog-01.jpg": {
+  "w": 1742,
+  "h": 1234
+ },
+ "/projeler/ordubat-hes/katalog-02.jpg": {
+  "w": 1742,
+  "h": 835
+ },
+ "/projeler/ordubat-hes/katalog-03.jpg": {
+  "w": 615,
+  "h": 809
+ },
+ "/projeler/rekreasyon-merkezi/katalog-thumb.jpg": {
+  "w": 682,
+  "h": 361
+ },
+ "/projeler/sagarejo-badiauri-yolu/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-01.jpg": {
+  "w": 779,
+  "h": 547
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-02.jpg": {
+  "w": 808,
+  "h": 559
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-03.jpg": {
+  "w": 799,
+  "h": 558
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-04.jpg": {
+  "w": 803,
+  "h": 558
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-05.jpg": {
+  "w": 1252,
+  "h": 859
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-06.jpg": {
+  "w": 803,
+  "h": 559
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-07.jpg": {
+  "w": 803,
+  "h": 565
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-08.jpg": {
+  "w": 810,
+  "h": 565
+ },
+ "/projeler/gurcistan-sagarejo-yol-projesi/g-09.jpg": {
+  "w": 810,
+  "h": 564
+ },
+ "/projeler/sagarejo-badiauri-yolu/katalog-02.jpg": {
+  "w": 1059,
+  "h": 1235
+ },
+ "/projeler/sagarejo-badiauri-yolu/katalog-03.jpg": {
+  "w": 875,
+  "h": 950
+ },
+ "/projeler/swissotel-tiflis/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/tiflis-swiss-otel/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-swiss-otel/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/swissotel-tiflis/katalog-02.jpg": {
+  "w": 1742,
+  "h": 643
+ },
+ "/projeler/swissotel-tiflis/katalog-03.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/swissotel-tiflis/katalog-04.jpg": {
+  "w": 733,
+  "h": 358
+ },
+ "/projeler/swissotel-tiflis/katalog-05.jpg": {
+  "w": 733,
+  "h": 358
+ },
+ "/projeler/swissotel-tiflis/katalog-06.jpg": {
+  "w": 733,
+  "h": 358
+ },
+ "/projeler/tani-ve-tedavi-merkezi/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/tani-ve-tedavi-merkezi/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tani-ve-tedavi-merkezi/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tani-ve-tedavi-merkezi/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tani-ve-tedavi-merkezi/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-buz-arenasi/katalog-01.jpg": {
+  "w": 1742,
+  "h": 1235
+ },
+ "/projeler/tiflis-buz-arenasi/katalog-02.jpg": {
+  "w": 1000,
+  "h": 373
+ },
+ "/projeler/tiflis-buz-arenasi/katalog-03.jpg": {
+  "w": 939,
+  "h": 373
+ },
+ "/projeler/tiflis-dinehall-restoran/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/tiflis-dinehall-restoran/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-dinehall-restoran/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-dinehall-restoran/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-dinehall-restoran/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-dinehall-restoran/g-05.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-ibis-style-otel/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ },
+ "/projeler/tiflis-ibis-style-otel/g-01.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-ibis-style-otel/g-02.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-ibis-style-otel/g-03.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-ibis-style-otel/g-04.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-ibis-style-otel/g-05.jpg": {
+  "w": 330,
+  "h": 230
+ },
+ "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-02.jpg": {
+  "w": 1060,
+  "h": 1235
+ },
+ "/projeler/tivi-hes/katalog-01.jpg": {
+  "w": 1743,
+  "h": 1235
+ },
+ "/projeler/tivi-hes/katalog-02.jpg": {
+  "w": 1742,
+  "h": 845
+ },
+ "/projeler/universite-egitim-fakultesi/katalog-thumb.jpg": {
+  "w": 685,
+  "h": 365
+ },
+ "/projeler/zeyve-ges/cover.jpg": {
+  "w": 1170,
+  "h": 530
+ }
 }

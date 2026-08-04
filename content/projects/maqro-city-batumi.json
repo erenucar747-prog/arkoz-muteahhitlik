@@ -3,15 +3,20 @@
  "slugEn": "maqro-city-batumi",
  "gallery": [
   {
-   "src": "/projeler/maqro-city-batumi/katalog-01.jpg",
+   "src": "/projeler/maqro-city-batumi/katalog-02.jpg",
+   "w": 1740,
+   "h": 1232
+  },
+  {
+   "src": "/projeler/maqro-city-batumi/katalog-03.jpg",
    "w": 1742,
-   "h": 974
+   "h": 1234
   }
  ],
  "cover": {
-  "src": "/projeler/maqro-city-batumi/katalog-00.jpg",
-  "w": 1740,
-  "h": 1232
+  "src": "/projeler/maqro-city-batumi/katalog-01.jpg",
+  "w": 1743,
+  "h": 1234
  },
  "title": {
   "tr": "Maqro City Batum",

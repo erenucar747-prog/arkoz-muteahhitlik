@@ -1,77 +1,82 @@
 {
-  "slug": "nahcivan-gala-mescid",
-  "slugEn": "nahcivan-gala-mescid",
-  "category": "ust-yapi",
-  "flagship": false,
-  "title": {
-    "tr": "Heyder Mescidi Külliyesi",
-    "en": "Heyder Mosque Complex"
-  },
-  "body": {
-    "tr": [
-      "Nahçıvan'daki külliye, 10.000 m² kapalı alanı ile 5.000 kişiye aynı anda ibadet etme imkânı sunmaktadır."
-    ],
-    "en": [
-      "With 10,000 m² of enclosed area in Nakhchivan, it provides the opportunity for 5,000 people to worship simultaneously."
-    ]
-  },
-  "cover": {
-    "src": "/projeler/nahcivan-gala-mescid/g-01.png",
-    "w": 1920,
-    "h": 1280
-  },
-  "gallery": [
-    {
-      "src": "/projeler/nahcivan-gala-mescid/katalog-01.jpg",
-      "w": 1742,
-      "h": 1098
-    },
-    {
-      "src": "/projeler/nahcivan-gala-mescid/g-02.png",
-      "w": 1920,
-      "h": 1280
-    },
-    {
-      "src": "/projeler/nahcivan-gala-mescid/g-03.png",
-      "w": 1920,
-      "h": 1280
-    }
+ "slug": "nahcivan-gala-mescid",
+ "slugEn": "nahcivan-gala-mescid",
+ "category": "ust-yapi",
+ "flagship": false,
+ "title": {
+  "tr": "Heyder Mescidi Külliyesi",
+  "en": "Heyder Mosque Complex"
+ },
+ "body": {
+  "tr": [
+   "Nahçıvan'daki külliye, 10.000 m² kapalı alanı ile 5.000 kişiye aynı anda ibadet etme imkânı sunmaktadır."
   ],
-  "sources": {
-    "tr": "https://arkoz.wscp.net/projelerimiz/nahcivan-gala-mescid",
-    "en": "https://arkoz.wscp.net/en/project/nahcivan-gala-mescid",
-    "katalog": "Arkoz & Maqro Group Kataloğu s.49-52"
-  },
-  "kunye": [
-    {
-      "label": {
-        "tr": "Konum",
-        "en": "Location"
-      },
-      "value": {
-        "tr": "Nahçıvan",
-        "en": "Nakhchivan"
-      }
-    },
-    {
-      "label": {
-        "tr": "Kapalı alan",
-        "en": "Enclosed area"
-      },
-      "value": {
-        "tr": "10.000 m²",
-        "en": "10,000 m²"
-      }
-    },
-    {
-      "label": {
-        "tr": "Kapasite",
-        "en": "Capacity"
-      },
-      "value": {
-        "tr": "5.000 kişi",
-        "en": "5,000 people"
-      }
-    }
+  "en": [
+   "With 10,000 m² of enclosed area in Nakhchivan, it provides the opportunity for 5,000 people to worship simultaneously."
   ]
+ },
+ "cover": {
+  "src": "/projeler/nahcivan-gala-mescid/g-01.png",
+  "w": 1920,
+  "h": 1280
+ },
+ "gallery": [
+  {
+   "src": "/projeler/nahcivan-gala-mescid/g-02.png",
+   "w": 1920,
+   "h": 1280
+  },
+  {
+   "src": "/projeler/nahcivan-gala-mescid/g-03.png",
+   "w": 1920,
+   "h": 1280
+  },
+  {
+   "src": "/projeler/nahcivan-gala-mescid/katalog-01.jpg",
+   "w": 2400,
+   "h": 854
+  },
+  {
+   "src": "/projeler/nahcivan-gala-mescid/katalog-02.jpg",
+   "w": 2436,
+   "h": 824
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/nahcivan-gala-mescid",
+  "en": "https://arkoz.wscp.net/en/project/nahcivan-gala-mescid",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.49-52"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Nahçıvan",
+    "en": "Nakhchivan"
+   }
+  },
+  {
+   "label": {
+    "tr": "Kapalı alan",
+    "en": "Enclosed area"
+   },
+   "value": {
+    "tr": "10.000 m²",
+    "en": "10,000 m²"
+   }
+  },
+  {
+   "label": {
+    "tr": "Kapasite",
+    "en": "Capacity"
+   },
+   "value": {
+    "tr": "5.000 kişi",
+    "en": "5,000 people"
+   }
+  }
+ ]
 }

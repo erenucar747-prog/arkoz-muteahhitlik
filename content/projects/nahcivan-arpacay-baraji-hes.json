@@ -1,67 +1,67 @@
 {
-  "slug": "nahcivan-arpacay-baraji-hes",
-  "slugEn": "arpacay-1-hidroelektrik-elektrik-santrali",
-  "category": "enerji",
-  "flagship": false,
-  "title": {
-    "tr": "Nahçıvan Arpaçay Barajı ve HES",
-    "en": "Nakhchivan Arpachay Dam and HPP"
-  },
-  "body": {
-    "tr": [
-      "Baraj gövdesinden tünelle su alınarak Arpaçay 1 ve Arpaçay 2 santralleri üzerinden toplam 22,5 MW enerji elde edilmektedir."
-    ],
-    "en": [
-      "Water is taken from the dam body through a tunnel, generating a total of 22.5 MW through the Arpachay 1 and Arpachay 2 plants."
-    ]
-  },
-  "cover": {
-    "src": "/projeler/nahcivan-arpacay-baraji-hes/katalog-02.jpg",
-    "w": 1742,
-    "h": 835
-  },
-  "gallery": [
-    {
-      "src": "/projeler/nahcivan-arpacay-baraji-hes/katalog-03.jpg",
-      "w": 1741,
-      "h": 688
-    }
+ "slug": "nahcivan-arpacay-baraji-hes",
+ "slugEn": "arpacay-1-hidroelektrik-elektrik-santrali",
+ "category": "enerji",
+ "flagship": false,
+ "title": {
+  "tr": "Nahçıvan Arpaçay Barajı ve HES",
+  "en": "Nakhchivan Arpachay Dam and HPP"
+ },
+ "body": {
+  "tr": [
+   "Baraj gövdesinden tünelle su alınarak Arpaçay 1 ve Arpaçay 2 santralleri üzerinden toplam 22,5 MW enerji elde edilmektedir."
   ],
-  "sources": {
-    "tr": "https://arkoz.wscp.net/projelerimiz/arpacay-1-hidroelektrik-elektrik-santrali",
-    "en": "https://arkoz.wscp.net/en/project/arpacay-1-hidroelektrik-elektrik-santrali",
-    "katalog": "Arkoz & Maqro Group Kataloğu s.25-29"
-  },
-  "kunye": [
-    {
-      "label": {
-        "tr": "Kurulu güç",
-        "en": "Installed capacity"
-      },
-      "value": {
-        "tr": "22,5 MW",
-        "en": "22.5 MW"
-      }
-    },
-    {
-      "label": {
-        "tr": "Üniteler",
-        "en": "Units"
-      },
-      "value": {
-        "tr": "Arpaçay 1 + Arpaçay 2",
-        "en": "Arpachay 1 + Arpachay 2"
-      }
-    },
-    {
-      "label": {
-        "tr": "Su alma",
-        "en": "Water intake"
-      },
-      "value": {
-        "tr": "Baraj gövdesinden tünelle",
-        "en": "Tunnel from the dam body"
-      }
-    }
+  "en": [
+   "Water is taken from the dam body through a tunnel, generating a total of 22.5 MW through the Arpachay 1 and Arpachay 2 plants."
   ]
+ },
+ "cover": {
+  "src": "/projeler/nahcivan-arpacay-baraji-hes/katalog-01.jpg",
+  "w": 1742,
+  "h": 1235
+ },
+ "gallery": [
+  {
+   "src": "/projeler/nahcivan-arpacay-baraji-hes/katalog-02.jpg",
+   "w": 1741,
+   "h": 688
+  }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/arpacay-1-hidroelektrik-elektrik-santrali",
+  "en": "https://arkoz.wscp.net/en/project/arpacay-1-hidroelektrik-elektrik-santrali",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.25-29"
+ },
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kurulu güç",
+    "en": "Installed capacity"
+   },
+   "value": {
+    "tr": "22,5 MW",
+    "en": "22.5 MW"
+   }
+  },
+  {
+   "label": {
+    "tr": "Üniteler",
+    "en": "Units"
+   },
+   "value": {
+    "tr": "Arpaçay 1 + Arpaçay 2",
+    "en": "Arpachay 1 + Arpachay 2"
+   }
+  },
+  {
+   "label": {
+    "tr": "Su alma",
+    "en": "Water intake"
+   },
+   "value": {
+    "tr": "Baraj gövdesinden tünelle",
+    "en": "Tunnel from the dam body"
+   }
+  }
+ ]
 }

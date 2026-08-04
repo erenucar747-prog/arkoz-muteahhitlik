@@ -18,8 +18,8 @@
   ]
  },
  "cover": {
-  "src": "/projeler/sagarejo-badiauri-yolu/katalog-00.jpg",
-  "w": 1059,
+  "src": "/projeler/sagarejo-badiauri-yolu/katalog-01.jpg",
+  "w": 1743,
   "h": 1235
  },
  "gallery": [
@@ -67,6 +67,16 @@
    "src": "/projeler/gurcistan-sagarejo-yol-projesi/g-09.jpg",
    "w": 810,
    "h": 564
+  },
+  {
+   "src": "/projeler/sagarejo-badiauri-yolu/katalog-02.jpg",
+   "w": 1059,
+   "h": 1235
+  },
+  {
+   "src": "/projeler/sagarejo-badiauri-yolu/katalog-03.jpg",
+   "w": 875,
+   "h": 950
   }
  ],
  "sources": {

@@ -1,55 +1,55 @@
 {
-  "slug": "han-sarayi",
-  "slugEn": "han-sarayi",
-  "gallery": [
-    {
-      "src": "/projeler/han-sarayi/katalog-thumb.jpg",
-      "w": 468,
-      "h": 249,
-      "thumbOnly": true
-    }
+ "slug": "han-sarayi",
+ "slugEn": "han-sarayi",
+ "gallery": [
+  {
+   "src": "/projeler/han-sarayi/katalog-thumb.jpg",
+   "w": 682,
+   "h": 361,
+   "thumbOnly": true
+  }
+ ],
+ "cover": null,
+ "title": {
+  "tr": "Han Sarayı",
+  "en": "Khan Palace"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Nahçıvan'daki kamu yapıları programı kapsamında ele alınan Han Sarayı, tarihi dokuya uygun biçimde inşa edilen bir kültür yapısıdır."
   ],
-  "cover": null,
-  "title": {
-    "tr": "Han Sarayı",
-    "en": "Khan Palace"
-  },
-  "summary": {
-    "tr": "",
-    "en": ""
-  },
-  "body": {
-    "tr": [
-      "Nahçıvan'daki kamu yapıları programı kapsamında ele alınan Han Sarayı, tarihi dokuya uygun biçimde inşa edilen bir kültür yapısıdır."
-    ],
-    "en": [
-      "Handled within the public buildings programme in Nakhchivan, the Khan Palace is a cultural building constructed in harmony with the historic fabric."
-    ]
-  },
-  "sources": {
-    "katalog": "Arkoz & Maqro Group Kataloğu s.60"
-  },
-  "category": "ust-yapi",
-  "kunye": [
-    {
-      "label": {
-        "tr": "Konum",
-        "en": "Location"
-      },
-      "value": {
-        "tr": "Nahçıvan, Azerbaycan",
-        "en": "Nakhchivan, Azerbaijan"
-      }
-    },
-    {
-      "label": {
-        "tr": "Tür",
-        "en": "Type"
-      },
-      "value": {
-        "tr": "Kültür yapısı",
-        "en": "Cultural building"
-      }
-    }
+  "en": [
+   "Handled within the public buildings programme in Nakhchivan, the Khan Palace is a cultural building constructed in harmony with the historic fabric."
   ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.60"
+ },
+ "category": "ust-yapi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Nahçıvan, Azerbaycan",
+    "en": "Nakhchivan, Azerbaijan"
+   }
+  },
+  {
+   "label": {
+    "tr": "Tür",
+    "en": "Type"
+   },
+   "value": {
+    "tr": "Kültür yapısı",
+    "en": "Cultural building"
+   }
+  }
+ ]
 }

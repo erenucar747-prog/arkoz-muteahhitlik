@@ -1,58 +1,63 @@
 {
-  "slug": "arkoz-samsun-gazbeton",
-  "slugEn": "arkoz-samsun-gazbeton",
-  "gallery": [
-    {
-      "src": "/projeler/arkoz-samsun-gazbeton/katalog-02.jpg",
-      "w": 2000,
-      "h": 1418
-    }
+ "slug": "arkoz-samsun-gazbeton",
+ "slugEn": "arkoz-samsun-gazbeton",
+ "gallery": [
+  {
+   "src": "/projeler/arkoz-samsun-gazbeton/katalog-02.jpg",
+   "w": 872,
+   "h": 647
+  },
+  {
+   "src": "/projeler/arkoz-samsun-gazbeton/katalog-03.jpg",
+   "w": 872,
+   "h": 647
+  }
+ ],
+ "cover": {
+  "src": "/projeler/arkoz-samsun-gazbeton/katalog-01.jpg",
+  "w": 1743,
+  "h": 1235
+ },
+ "title": {
+  "tr": "Arkoz Samsun Gazbeton Fabrikası",
+  "en": "Arkoz Samsun Aerated Concrete Factory"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "Samsun Havza'daki tesisimiz, yıllık 450.000 m³ gazbeton üretim kapasitesine sahiptir. Üretimin bir bölümü deniz yoluyla ihraç edilmektedir."
   ],
-  "cover": {
-    "src": "/projeler/arkoz-samsun-gazbeton/katalog-01.jpg",
-    "w": 2001,
-    "h": 1418
-  },
-  "title": {
-    "tr": "Arkoz Samsun Gazbeton Fabrikası",
-    "en": "Arkoz Samsun Aerated Concrete Factory"
-  },
-  "summary": {
-    "tr": "",
-    "en": ""
-  },
-  "body": {
-    "tr": [
-      "Samsun Havza'daki tesisimiz, yıllık 450.000 m³ gazbeton üretim kapasitesine sahiptir. Üretimin bir bölümü deniz yoluyla ihraç edilmektedir."
-    ],
-    "en": [
-      "Our facility in Samsun Havza has an annual production capacity of 450,000 m³ of aerated concrete, part of which is exported by sea."
-    ]
-  },
-  "sources": {
-    "katalog": "Arkoz & Maqro Group Kataloğu s.69-72"
-  },
-  "category": "sanayi",
-  "kunye": [
-    {
-      "label": {
-        "tr": "Kapasite",
-        "en": "Capacity"
-      },
-      "value": {
-        "tr": "450.000 m³/yıl",
-        "en": "450,000 m³/year"
-      }
-    },
-    {
-      "label": {
-        "tr": "Konum",
-        "en": "Location"
-      },
-      "value": {
-        "tr": "Havza OSB, Samsun",
-        "en": "Havza OIZ, Samsun"
-      }
-    }
+  "en": [
+   "Our facility in Samsun Havza has an annual production capacity of 450,000 m³ of aerated concrete, part of which is exported by sea."
   ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.69-72"
+ },
+ "category": "sanayi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Kapasite",
+    "en": "Capacity"
+   },
+   "value": {
+    "tr": "450.000 m³/yıl",
+    "en": "450,000 m³/year"
+   }
+  },
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Havza OSB, Samsun",
+    "en": "Havza OIZ, Samsun"
+   }
+  }
+ ]
 }

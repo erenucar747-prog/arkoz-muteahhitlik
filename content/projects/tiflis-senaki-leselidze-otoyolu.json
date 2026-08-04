@@ -3,19 +3,14 @@
  "slugEn": "tiflis-senaki-leselidze-otoyolu",
  "gallery": [
   {
-   "src": "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-01.jpg",
-   "w": 1142,
-   "h": 786
-  },
-  {
    "src": "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-02.jpg",
-   "w": 1142,
-   "h": 786
+   "w": 1060,
+   "h": 1235
   }
  ],
  "cover": {
-  "src": "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-00.jpg",
-  "w": 1060,
+  "src": "/projeler/tiflis-senaki-leselidze-otoyolu/katalog-01.jpg",
+  "w": 1743,
   "h": 1235
  },
  "title": {

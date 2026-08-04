@@ -1,90 +1,95 @@
 {
-  "slug": "maqro-city-tbilisi",
-  "slugEn": "maqro-city-tbilisi",
-  "gallery": [
-    {
-      "src": "/projeler/maqro-city-tbilisi/katalog-02.jpg",
-      "w": 1742,
-      "h": 945
-    }
+ "slug": "maqro-city-tbilisi",
+ "slugEn": "maqro-city-tbilisi",
+ "gallery": [
+  {
+   "src": "/projeler/maqro-city-tbilisi/katalog-02.jpg",
+   "w": 1743,
+   "h": 1235
+  },
+  {
+   "src": "/projeler/maqro-city-tbilisi/katalog-03.jpg",
+   "w": 1742,
+   "h": 1235
+  }
+ ],
+ "cover": {
+  "src": "/projeler/maqro-city-tbilisi/katalog-01.jpg",
+  "w": 1743,
+  "h": 1235
+ },
+ "title": {
+  "tr": "Maqro City Tiflis",
+  "en": "Maqro City Tbilisi"
+ },
+ "summary": {
+  "tr": "",
+  "en": ""
+ },
+ "body": {
+  "tr": [
+   "100.000 m² arazi üzerinde yükselen ve 350.000 m² inşaat alanına sahip proje, Tiflis Havalimanı yolu üzerinde stratejik bir konumda yer almaktadır.",
+   "Toplamda 4.000 bağımsız konut, kapalı otopark, ticari ve sosyal alandan oluşan proje, Gürcistan'ın en büyük konut yatırımıdır."
   ],
-  "cover": {
-    "src": "/projeler/maqro-city-tbilisi/katalog-01.jpg",
-    "w": 1742,
-    "h": 1090
-  },
-  "title": {
-    "tr": "Maqro City Tiflis",
-    "en": "Maqro City Tbilisi"
-  },
-  "summary": {
-    "tr": "",
-    "en": ""
-  },
-  "body": {
-    "tr": [
-      "100.000 m² arazi üzerinde yükselen ve 350.000 m² inşaat alanına sahip proje, Tiflis Havalimanı yolu üzerinde stratejik bir konumda yer almaktadır.",
-      "Toplamda 4.000 bağımsız konut, kapalı otopark, ticari ve sosyal alandan oluşan proje, Gürcistan'ın en büyük konut yatırımıdır."
-    ],
-    "en": [
-      "Rising on 100,000 m² of land with a construction area of 350,000 m², this project is strategically located on Tbilisi Airport Road.",
-      "Consisting of a total of 4,000 independent residential units with covered parking, commercial and social areas, this project is Georgia's largest residential investment."
-    ]
-  },
-  "sources": {
-    "katalog": "Arkoz & Maqro Group Kataloğu s.40-43"
-  },
-  "category": "ust-yapi",
-  "kunye": [
-    {
-      "label": {
-        "tr": "Konum",
-        "en": "Location"
-      },
-      "value": {
-        "tr": "Tiflis Havalimanı yolu, Gürcistan",
-        "en": "Tbilisi Airport Road, Georgia"
-      }
-    },
-    {
-      "label": {
-        "tr": "Arazi",
-        "en": "Land"
-      },
-      "value": {
-        "tr": "100.000 m²",
-        "en": "100,000 m²"
-      }
-    },
-    {
-      "label": {
-        "tr": "İnşaat alanı",
-        "en": "Construction area"
-      },
-      "value": {
-        "tr": "350.000 m²",
-        "en": "350,000 m²"
-      }
-    },
-    {
-      "label": {
-        "tr": "Konut",
-        "en": "Residential units"
-      },
-      "value": {
-        "tr": "4.000",
-        "en": "4,000"
-      }
-    },
-    {
-      "label": {
-        "tr": "Not",
-        "en": "Note"
-      },
-      "value": {
-        "tr": "Gürcistan'ın en büyük konut yatırımı",
-        "en": "Georgia's largest residential investment"
-      }
-    }
+  "en": [
+   "Rising on 100,000 m² of land with a construction area of 350,000 m², this project is strategically located on Tbilisi Airport Road.",
+   "Consisting of a total of 4,000 independent residential units with covered parking, commercial and social areas, this project is Georgia's largest residential investment."
   ]
+ },
+ "sources": {
+  "katalog": "Arkoz & Maqro Group Kataloğu s.40-43"
+ },
+ "category": "ust-yapi",
+ "kunye": [
+  {
+   "label": {
+    "tr": "Konum",
+    "en": "Location"
+   },
+   "value": {
+    "tr": "Tiflis Havalimanı yolu, Gürcistan",
+    "en": "Tbilisi Airport Road, Georgia"
+   }
+  },
+  {
+   "label": {
+    "tr": "Arazi",
+    "en": "Land"
+   },
+   "value": {
+    "tr": "100.000 m²",
+    "en": "100,000 m²"
+   }
+  },
+  {
+   "label": {
+    "tr": "İnşaat alanı",
+    "en": "Construction area"
+   },
+   "value": {
+    "tr": "350.000 m²",
+    "en": "350,000 m²"
+   }
+  },
+  {
+   "label": {
+    "tr": "Konut",
+    "en": "Residential units"
+   },
+   "value": {
+    "tr": "4.000",
+    "en": "4,000"
+   }
+  },
+  {
+   "label": {
+    "tr": "Not",
+    "en": "Note"
+   },
+   "value": {
+    "tr": "Gürcistan'ın en büyük konut yatırımı",
+    "en": "Georgia's largest residential investment"
+   }
+  }
+ ]
 }

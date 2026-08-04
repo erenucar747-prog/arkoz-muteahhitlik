@@ -1,72 +1,77 @@
 {
-  "slug": "mercure-istanbul-bakirkoy",
-  "slugEn": "istanbul-mercure-otel",
-  "category": "turizm",
-  "flagship": false,
-  "title": {
-    "tr": "Mercure İstanbul Bakırköy",
-    "en": "Mercure Istanbul Bakırköy"
-  },
-  "body": {
-    "tr": [
-      "Mercure İstanbul Bakırköy, grubumuzun Türkiye'deki otel yatırımıdır. Turizm alanında yeni destinasyonlara yatırımlarımız devam edecektir."
-    ],
-    "en": [
-      "Mercure Istanbul Bakırköy is our group's hotel investment in Türkiye. Our tourism investments in new destinations will continue."
-    ]
-  },
-  "cover": {
-    "src": "/projeler/mercure-istanbul-bakirkoy/katalog-01.jpg",
-    "w": 1742,
-    "h": 902
-  },
-  "gallery": [
-    {
-      "src": "/projeler/istanbul-mercure-otel/g-01.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/istanbul-mercure-otel/g-02.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/istanbul-mercure-otel/g-03.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/istanbul-mercure-otel/g-04.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/istanbul-mercure-otel/g-05.jpg",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/istanbul-mercure-otel/g-06.png",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    },
-    {
-      "src": "/projeler/istanbul-mercure-otel/g-07.png",
-      "w": 330,
-      "h": 230,
-      "thumbOnly": true
-    }
+ "slug": "mercure-istanbul-bakirkoy",
+ "slugEn": "istanbul-mercure-otel",
+ "category": "turizm",
+ "flagship": false,
+ "title": {
+  "tr": "Mercure İstanbul Bakırköy",
+  "en": "Mercure Istanbul Bakırköy"
+ },
+ "body": {
+  "tr": [
+   "Mercure İstanbul Bakırköy, grubumuzun Türkiye'deki otel yatırımıdır. Turizm alanında yeni destinasyonlara yatırımlarımız devam edecektir."
   ],
-  "sources": {
-    "tr": "https://arkoz.wscp.net/projelerimiz/istanbul-mercure-otel",
-    "en": "https://arkoz.wscp.net/en/project/istanbul-mercure-otel",
-    "katalog": "Arkoz & Maqro Group Kataloğu s.87-88"
+  "en": [
+   "Mercure Istanbul Bakırköy is our group's hotel investment in Türkiye. Our tourism investments in new destinations will continue."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/mercure-istanbul-bakirkoy/katalog-01.jpg",
+  "w": 1742,
+  "h": 1235
+ },
+ "gallery": [
+  {
+   "src": "/projeler/istanbul-mercure-otel/g-01.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/istanbul-mercure-otel/g-02.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/istanbul-mercure-otel/g-03.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/istanbul-mercure-otel/g-04.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/istanbul-mercure-otel/g-05.jpg",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/istanbul-mercure-otel/g-06.png",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/istanbul-mercure-otel/g-07.png",
+   "w": 330,
+   "h": 230,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/mercure-istanbul-bakirkoy/katalog-02.jpg",
+   "w": 1742,
+   "h": 902
   }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/istanbul-mercure-otel",
+  "en": "https://arkoz.wscp.net/en/project/istanbul-mercure-otel",
+  "katalog": "Arkoz & Maqro Group Kataloğu s.87-88"
+ }
 }
