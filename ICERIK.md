@@ -87,7 +87,7 @@ Sitedeki 42 projeden **sadece 3 tanesi konut**. Diğerleri HES/GES, hastane, tiy
 |---|---|
 | **Merkez adres** | Şerifali Mah. Türker Cad. No:35 **Arkoz İş Merkezi** Ümraniye / İstanbul |
 | **Telefon** | +90 216 466 16 10 |
-| **E-posta** | info@arkozdisticaret.com.tr |
+| **E-posta** | ~~info@arkozdisticaret.com.tr~~ — Dış Ticaret maili; Eren'in talimatıyla siteden kaldırıldı (2026-08-04). Müteahhitlik'e ait mail gelirse eklenecek. |
 | Harita | Google Maps embed var — koordinat `40.99829827930179, 29.149798115667494` |
 
 **Şubeler ve telefonları:**

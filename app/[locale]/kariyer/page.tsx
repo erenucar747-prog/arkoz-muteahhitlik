@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { dilAlternatifleri } from "@/lib/seo";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { Link } from "@/i18n/navigation";
 
 export async function generateMetadata({
   params,
@@ -39,12 +40,9 @@ export default async function Kariyer({
             <p>{t("metin")}</p>
           </div>
           <p className="bolum__eylem">
-            <a
-              className="btn btn--dolu"
-              href="mailto:info@arkozdisticaret.com.tr"
-            >
+            <Link className="btn btn--dolu" href="/iletisim">
               {t("basvur")}
-            </a>
+            </Link>
           </p>
         </div>
       </section>

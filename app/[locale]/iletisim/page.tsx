@@ -65,10 +65,6 @@ export default async function Iletisim({
               <p>{t("adres")}</p>
               <p>
                 <a href="tel:+902164661610">+90 216 466 16 10</a>
-                <br />
-                <a href="mailto:info@arkozdisticaret.com.tr">
-                  info@arkozdisticaret.com.tr
-                </a>
               </p>
             </div>
           </div>

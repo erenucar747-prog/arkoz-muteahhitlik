@@ -2,7 +2,11 @@
  "slug": "tugla-uretim-tesisi",
  "slugEn": "tugla-uretim-tesisi",
  "gallery": [],
- "cover": null,
+ "cover": {
+  "src": "/projeler/tugla-uretim-tesisi/katalog-01.jpg",
+  "w": 728,
+  "h": 332
+ },
  "title": {
   "tr": "Tuğla Üretim Tesisi",
   "en": "Brick Production Facility"

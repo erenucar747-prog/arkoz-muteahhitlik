@@ -68,7 +68,6 @@ export default async function LocaleLayout({
     logo: `${kokUrl}/marka/logo-mark.svg`,
     foundingDate: "1998",
     telephone: "+90 216 466 16 10",
-    email: "info@arkozdisticaret.com.tr",
     address: {
       "@type": "PostalAddress",
       streetAddress: "Şerifali Mah. Türker Cad. No:35 Arkoz İş Merkezi",

@@ -49,11 +49,6 @@ export default async function Footer() {
               <li>
                 <a href={`tel:${tel.replace(/\s/g, "")}`}>{tel}</a>
               </li>
-              <li>
-                <a href="mailto:info@arkozdisticaret.com.tr">
-                  info@arkozdisticaret.com.tr
-                </a>
-              </li>
             </ul>
           </div>
         </div>

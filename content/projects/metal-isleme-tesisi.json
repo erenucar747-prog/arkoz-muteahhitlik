@@ -1,7 +1,32 @@
 {
  "slug": "metal-isleme-tesisi",
  "slugEn": "metal-isleme-tesisi",
- "gallery": [],
+ "gallery": [
+  {
+   "src": "/projeler/metal-isleme-tesisi/katalog-01.jpg",
+   "w": 476,
+   "h": 281,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/metal-isleme-tesisi/katalog-02.jpg",
+   "w": 476,
+   "h": 281,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/metal-isleme-tesisi/katalog-03.jpg",
+   "w": 476,
+   "h": 281,
+   "thumbOnly": true
+  },
+  {
+   "src": "/projeler/metal-isleme-tesisi/katalog-04.jpg",
+   "w": 476,
+   "h": 281,
+   "thumbOnly": true
+  }
+ ],
  "cover": null,
  "title": {
   "tr": "Metal İşleme Tesisi",

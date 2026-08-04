@@ -131,6 +131,10 @@
   "w": 330,
   "h": 230
  },
+ "/projeler/beton-uretim-tesisleri/katalog-01.jpg": {
+  "w": 728,
+  "h": 332
+ },
  "/projeler/bilev-hes/katalog-01.jpg": {
   "w": 1742,
   "h": 845
@@ -359,6 +363,10 @@
   "w": 1170,
   "h": 530
  },
+ "/projeler/halhal-ges/katalog-01.jpg": {
+  "w": 459,
+  "h": 271
+ },
  "/projeler/han-sarayi/katalog-thumb.jpg": {
   "w": 682,
   "h": 361
@@ -522,6 +530,22 @@
  "/projeler/mercure-tiflis/katalog-02.jpg": {
   "w": 1742,
   "h": 902
+ },
+ "/projeler/metal-isleme-tesisi/katalog-01.jpg": {
+  "w": 476,
+  "h": 281
+ },
+ "/projeler/metal-isleme-tesisi/katalog-02.jpg": {
+  "w": 476,
+  "h": 281
+ },
+ "/projeler/metal-isleme-tesisi/katalog-03.jpg": {
+  "w": 476,
+  "h": 281
+ },
+ "/projeler/metal-isleme-tesisi/katalog-04.jpg": {
+  "w": 476,
+  "h": 281
  },
  "/projeler/nahcivan-arpacay-baraji-hes/katalog-01.jpg": {
   "w": 1742,
@@ -802,6 +826,10 @@
  "/projeler/tivi-hes/katalog-02.jpg": {
   "w": 1742,
   "h": 845
+ },
+ "/projeler/tugla-uretim-tesisi/katalog-01.jpg": {
+  "w": 728,
+  "h": 332
  },
  "/projeler/universite-egitim-fakultesi/katalog-thumb.jpg": {
   "w": 685,

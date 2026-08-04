@@ -2,7 +2,11 @@
  "slug": "beton-uretim-tesisleri",
  "slugEn": "beton-uretim-tesisleri",
  "gallery": [],
- "cover": null,
+ "cover": {
+  "src": "/projeler/beton-uretim-tesisleri/katalog-01.jpg",
+  "w": 728,
+  "h": 332
+ },
  "title": {
   "tr": "Beton Üretim Tesisleri",
   "en": "Concrete Production Facilities"

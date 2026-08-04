@@ -1,28 +1,35 @@
 {
-  "slug": "halhal-ges",
-  "slugEn": "halhal-ges",
-  "category": "enerji",
-  "flagship": false,
-  "title": {
-    "tr": "Halhal-GES",
-    "en": "Halhal Solar Power Plant"
-  },
-  "body": {
-    "tr": [
-      "Proje halhal köyü arasinde 387 000 m2 alanda yerleşmiştir. Proje 5 parselden oluşuyor, projenin kurulu gücü 22 mega watt'tır. Projede 11 adet trafo merkezi, 1 adet pdl binası, 136m2 iki katlı idare etme binası ve şalt sahası yapıldı. Arazi etrafı 6800 metre telçit ile çevrildi, 4200 metre kablo kanalı kazıldı, 29321 adet panel masa direği çakıldı, 1852 panel masası kuruldu, 81488 adet panel montajı yapıldı."
-    ],
-    "en": [
-      "The project is located on a 387,000 m² site near the village of Halhal. It consists of 5 parcels, and its installed capacity is 22 megawatts. Within the project, 11 transformer stations, 1 PDL building, a 136 m² two-storey administration building and a switchyard were built. The site was enclosed with 6,800 metres of wire fencing, 4,200 metres of cable channel were trenched, 29,321 panel table posts were driven, 1,852 panel tables were erected and 81,488 panels were installed."
-    ]
-  },
-  "cover": {
-    "src": "/projeler/halhal-ges/cover.jpg",
-    "w": 1170,
-    "h": 530
-  },
-  "gallery": [],
-  "sources": {
-    "tr": "https://arkoz.wscp.net/projelerimiz/halhal-ges",
-    "en": "https://arkoz.wscp.net/en/project/halhal-ges"
+ "slug": "halhal-ges",
+ "slugEn": "halhal-ges",
+ "category": "enerji",
+ "flagship": false,
+ "title": {
+  "tr": "Halhal-GES",
+  "en": "Halhal Solar Power Plant"
+ },
+ "body": {
+  "tr": [
+   "Proje halhal köyü arasinde 387 000 m2 alanda yerleşmiştir. Proje 5 parselden oluşuyor, projenin kurulu gücü 22 mega watt'tır. Projede 11 adet trafo merkezi, 1 adet pdl binası, 136m2 iki katlı idare etme binası ve şalt sahası yapıldı. Arazi etrafı 6800 metre telçit ile çevrildi, 4200 metre kablo kanalı kazıldı, 29321 adet panel masa direği çakıldı, 1852 panel masası kuruldu, 81488 adet panel montajı yapıldı."
+  ],
+  "en": [
+   "The project is located on a 387,000 m² site near the village of Halhal. It consists of 5 parcels, and its installed capacity is 22 megawatts. Within the project, 11 transformer stations, 1 PDL building, a 136 m² two-storey administration building and a switchyard were built. The site was enclosed with 6,800 metres of wire fencing, 4,200 metres of cable channel were trenched, 29,321 panel table posts were driven, 1,852 panel tables were erected and 81,488 panels were installed."
+  ]
+ },
+ "cover": {
+  "src": "/projeler/halhal-ges/cover.jpg",
+  "w": 1170,
+  "h": 530
+ },
+ "gallery": [
+  {
+   "src": "/projeler/halhal-ges/katalog-01.jpg",
+   "w": 459,
+   "h": 271,
+   "thumbOnly": true
   }
+ ],
+ "sources": {
+  "tr": "https://arkoz.wscp.net/projelerimiz/halhal-ges",
+  "en": "https://arkoz.wscp.net/en/project/halhal-ges"
+ }
 }
